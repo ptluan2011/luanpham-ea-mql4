@@ -1,0 +1,1692 @@
+0	06:11:18.983	Custom indicator pipsometer_5_decimal XAUUSD.pro,M15: loaded successfully
+0	06:11:19.045	Custom indicator time_table XAUUSD.pro,M15: loaded successfully
+0	06:11:19.077	Custom indicator PTL_Sessions XAUUSD.pro,M15: loaded successfully
+0	06:11:19.108	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+0	06:11:19.108	PTL_EA XAUUSD.pro,M15 inputs: InpLanguage=1; TelegramToken=927322228:AAFxIy4Tw_rfZr6LEoyO5tocsMNBxwNXIHI; TelegramNotification=true; Pair_suffix=; InpUpdateMode=1; InpTemplates=ptl_screenshot;ptl_screenshot_zoom; 
+0	06:11:19.202	pipsometer_5_decimal XAUUSD.pro,M15: initialized
+0	06:11:19.327	time_table XAUUSD.pro,M15: initialized
+0	06:11:19.405	PTL_Sessions XAUUSD.pro,M15: initialized
+0	06:11:19.499	Custom indicator pipsometer_5_decimal EURUSD.pro,M15: loaded successfully
+0	06:11:19.530	Custom indicator time_table EURUSD.pro,M15: loaded successfully
+0	06:11:19.561	Custom indicator PTL_Sessions EURUSD.pro,M15: loaded successfully
+0	06:11:19.624	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+0	06:11:19.624	PTL_EA EURUSD.pro,M15 inputs: InpLanguage=1; TelegramToken=927322228:AAFxIy4Tw_rfZr6LEoyO5tocsMNBxwNXIHI; TelegramNotification=true; Pair_suffix=; InpUpdateMode=1; InpTemplates=ptl_screenshot;ptl_screenshot_zoom; 
+0	06:11:19.702	pipsometer_5_decimal EURUSD.pro,M15: initialized
+0	06:11:19.764	time_table EURUSD.pro,M15: initialized
+0	06:11:19.827	PTL_Sessions EURUSD.pro,M15: initialized
+0	06:11:19.936	Custom indicator pipsometer_5_decimal GBPUSD.pro,M15: loaded successfully
+0	06:11:19.952	Custom indicator time_table GBPUSD.pro,M15: loaded successfully
+0	06:11:19.999	Custom indicator PTL_Sessions GBPUSD.pro,M15: loaded successfully
+0	06:11:20.061	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+0	06:11:20.061	PTL_EA GBPUSD.pro,M15 inputs: InpLanguage=1; TelegramToken=927322228:AAFxIy4Tw_rfZr6LEoyO5tocsMNBxwNXIHI; TelegramNotification=true; Pair_suffix=; InpUpdateMode=1; InpTemplates=ptl_screenshot;ptl_screenshot_zoom; 
+0	06:11:20.953	pipsometer_5_decimal GBPUSD.pro,M15: initialized
+0	06:11:20.996	time_table GBPUSD.pro,M15: initialized
+0	06:11:21.034	PTL_Sessions GBPUSD.pro,M15: initialized
+0	06:11:21.142	Custom indicator pipsometer_5_decimal GBPJPY.pro,M30: loaded successfully
+0	06:11:21.165	Custom indicator time_table GBPJPY.pro,M30: loaded successfully
+0	06:11:21.200	Custom indicator PTL_Sessions GBPJPY.pro,M30: loaded successfully
+0	06:11:21.223	Expert PTL_EA GBPJPY.pro,M30: loaded successfully
+0	06:11:21.224	PTL_EA GBPJPY.pro,M30 inputs: InpLanguage=1; TelegramToken=927322228:AAFxIy4Tw_rfZr6LEoyO5tocsMNBxwNXIHI; TelegramNotification=true; Pair_suffix=; InpUpdateMode=1; InpTemplates=ptl_screenshot;ptl_screenshot_zoom; 
+0	06:11:21.314	pipsometer_5_decimal GBPJPY.pro,M30: initialized
+0	06:11:21.384	time_table GBPJPY.pro,M30: initialized
+0	06:11:21.445	PTL_Sessions GBPJPY.pro,M30: initialized
+0	06:11:21.592	Custom indicator pipsometer_5_decimal EURJPY.pro,M15: loaded successfully
+0	06:11:21.623	Custom indicator time_table EURJPY.pro,M15: loaded successfully
+0	06:11:21.655	Custom indicator PTL_Sessions EURJPY.pro,M15: loaded successfully
+0	06:11:21.684	Expert PTL_EA EURJPY.pro,M15: loaded successfully
+0	06:11:21.684	PTL_EA EURJPY.pro,M15 inputs: InpLanguage=1; TelegramToken=927322228:AAFxIy4Tw_rfZr6LEoyO5tocsMNBxwNXIHI; TelegramNotification=true; Pair_suffix=; InpUpdateMode=1; InpTemplates=ptl_screenshot;ptl_screenshot_zoom; 
+0	06:11:21.737	pipsometer_5_decimal EURJPY.pro,M15: initialized
+0	06:11:21.772	time_table EURJPY.pro,M15: initialized
+0	06:11:21.826	PTL_Sessions EURJPY.pro,M15: initialized
+0	06:11:21.931	Custom indicator pipsometer_5_decimal USDJPY.pro,M15: loaded successfully
+0	06:11:21.978	Custom indicator time_table USDJPY.pro,M15: loaded successfully
+0	06:11:22.013	Custom indicator PTL_Sessions USDJPY.pro,M15: loaded successfully
+0	06:11:22.043	Expert PTL_EA USDJPY.pro,M15: loaded successfully
+0	06:11:22.043	PTL_EA USDJPY.pro,M15 inputs: InpLanguage=1; TelegramToken=927322228:AAFxIy4Tw_rfZr6LEoyO5tocsMNBxwNXIHI; TelegramNotification=true; Pair_suffix=; InpUpdateMode=1; InpTemplates=ptl_screenshot;ptl_screenshot_zoom; 
+0	06:11:22.100	pipsometer_5_decimal USDJPY.pro,M15: initialized
+0	06:11:22.140	time_table USDJPY.pro,M15: initialized
+0	06:11:22.184	PTL_Sessions USDJPY.pro,M15: initialized
+0	06:11:22.301	Custom indicator pipsometer_5_decimal USDCHF.pro,M30: loaded successfully
+0	06:11:22.323	Custom indicator time_table USDCHF.pro,M30: loaded successfully
+0	06:11:22.346	Custom indicator PTL_Sessions USDCHF.pro,M30: loaded successfully
+0	06:11:22.367	Expert PTL_EA USDCHF.pro,M30: loaded successfully
+0	06:11:22.367	PTL_EA USDCHF.pro,M30 inputs: InpLanguage=1; TelegramToken=927322228:AAFxIy4Tw_rfZr6LEoyO5tocsMNBxwNXIHI; TelegramNotification=true; Pair_suffix=; InpUpdateMode=1; InpTemplates=ptl_screenshot;ptl_screenshot_zoom; 
+0	06:11:22.409	pipsometer_5_decimal USDCHF.pro,M30: initialized
+0	06:11:22.436	time_table USDCHF.pro,M30: initialized
+0	06:11:22.462	PTL_Sessions USDCHF.pro,M30: initialized
+0	06:11:22.530	Custom indicator pipsometer_5_decimal AUDUSD.pro,M15: loaded successfully
+0	06:11:22.544	Custom indicator time_table AUDUSD.pro,M15: loaded successfully
+0	06:11:22.560	Custom indicator PTL_Sessions AUDUSD.pro,M15: loaded successfully
+0	06:11:22.580	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+0	06:11:22.580	PTL_EA AUDUSD.pro,M15 inputs: InpLanguage=1; TelegramToken=927322228:AAFxIy4Tw_rfZr6LEoyO5tocsMNBxwNXIHI; TelegramNotification=true; Pair_suffix=; InpUpdateMode=1; InpTemplates=ptl_screenshot;ptl_screenshot_zoom; 
+0	06:11:22.626	pipsometer_5_decimal AUDUSD.pro,M15: initialized
+0	06:11:22.649	time_table AUDUSD.pro,M15: initialized
+0	06:11:22.675	PTL_Sessions AUDUSD.pro,M15: initialized
+0	06:11:22.731	Custom indicator pipsometer_5_decimal USDCAD.pro,M15: loaded successfully
+0	06:11:22.744	Custom indicator time_table USDCAD.pro,M15: loaded successfully
+0	06:11:22.756	Custom indicator PTL_Sessions USDCAD.pro,M15: loaded successfully
+0	06:11:22.770	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+0	06:11:22.770	PTL_EA USDCAD.pro,M15 inputs: InpLanguage=1; TelegramToken=927322228:AAFxIy4Tw_rfZr6LEoyO5tocsMNBxwNXIHI; TelegramNotification=true; Pair_suffix=; InpUpdateMode=1; InpTemplates=ptl_screenshot;ptl_screenshot_zoom; 
+0	06:11:22.804	pipsometer_5_decimal USDCAD.pro,M15: initialized
+0	06:11:22.826	time_table USDCAD.pro,M15: initialized
+0	06:11:22.849	PTL_Sessions USDCAD.pro,M15: initialized
+0	06:11:22.902	Custom indicator pipsometer_5_decimal EURAUD.pro,M30: loaded successfully
+0	06:11:22.915	Custom indicator time_table EURAUD.pro,M30: loaded successfully
+0	06:11:22.928	Custom indicator PTL_Sessions EURAUD.pro,M30: loaded successfully
+0	06:11:22.942	Expert PTL_EA EURAUD.pro,M30: loaded successfully
+0	06:11:22.942	PTL_EA EURAUD.pro,M30 inputs: InpLanguage=1; TelegramToken=927322228:AAFxIy4Tw_rfZr6LEoyO5tocsMNBxwNXIHI; TelegramNotification=true; Pair_suffix=; InpUpdateMode=1; InpTemplates=ptl_screenshot;ptl_screenshot_zoom; 
+0	06:11:22.978	pipsometer_5_decimal EURAUD.pro,M30: initialized
+0	06:11:23.001	time_table EURAUD.pro,M30: initialized
+0	06:11:23.034	PTL_Sessions EURAUD.pro,M30: initialized
+0	06:11:23.098	Custom indicator pipsometer_5_decimal GBPAUD.pro,M15: loaded successfully
+0	06:11:23.112	Custom indicator time_table GBPAUD.pro,M15: loaded successfully
+0	06:11:23.125	Custom indicator PTL_Sessions GBPAUD.pro,M15: loaded successfully
+0	06:11:23.141	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+0	06:11:23.141	PTL_EA GBPAUD.pro,M15 inputs: InpLanguage=1; TelegramToken=927322228:AAFxIy4Tw_rfZr6LEoyO5tocsMNBxwNXIHI; TelegramNotification=true; Pair_suffix=; InpUpdateMode=1; InpTemplates=ptl_screenshot;ptl_screenshot_zoom; 
+0	06:11:23.178	pipsometer_5_decimal GBPAUD.pro,M15: initialized
+0	06:11:23.201	time_table GBPAUD.pro,M15: initialized
+0	06:11:23.225	PTL_Sessions GBPAUD.pro,M15: initialized
+0	06:11:29.205	PTL_EA XAUUSD.pro,M15: initialized
+0	06:11:29.214	PTL_EA USDCAD.pro,M15: initialized
+0	06:11:29.215	PTL_EA USDCHF.pro,M30: initialized
+0	06:11:29.219	PTL_EA USDJPY.pro,M15: initialized
+0	06:11:29.226	PTL_EA EURAUD.pro,M30: initialized
+0	06:11:29.227	PTL_EA EURJPY.pro,M15: initialized
+0	06:11:29.228	PTL_EA EURUSD.pro,M15: initialized
+0	06:11:29.232	PTL_EA GBPJPY.pro,M30: initialized
+0	06:11:29.237	PTL_EA GBPUSD.pro,M15: initialized
+0	06:11:29.238	PTL_EA AUDUSD.pro,M15: initialized
+0	06:11:29.242	PTL_EA GBPAUD.pro,M15: initialized
+0	06:12:40.382	PTL_EA GBPJPY.pro,M30: uninit reason 3
+0	06:12:40.384	pipsometer_5_decimal GBPJPY.pro,M30: uninit reason 3
+0	06:12:40.384	time_table GBPJPY.pro,M30: uninit reason 3
+0	06:12:40.384	PTL_Sessions GBPJPY.pro,M30: uninit reason 3
+0	06:12:40.384	pipsometer_5_decimal GBPJPY.pro,M15: initialized
+0	06:12:40.384	time_table GBPJPY.pro,M15: initialized
+0	06:12:40.384	PTL_Sessions GBPJPY.pro,M15: initialized
+0	06:12:40.406	PTL_EA GBPJPY.pro,M15: initialized
+0	06:13:11.974	PTL_EA USDJPY.pro,M15: uninit reason 3
+0	06:13:11.976	pipsometer_5_decimal USDJPY.pro,M15: uninit reason 3
+0	06:13:11.976	time_table USDJPY.pro,M15: uninit reason 3
+0	06:13:11.976	PTL_Sessions USDJPY.pro,M15: uninit reason 3
+0	06:13:11.976	pipsometer_5_decimal USDJPY.pro,M30: initialized
+0	06:13:11.976	time_table USDJPY.pro,M30: initialized
+0	06:13:11.976	PTL_Sessions USDJPY.pro,M30: initialized
+0	06:13:11.998	PTL_EA USDJPY.pro,M30: initialized
+0	06:52:04.954	PTL_EA XAUUSD.pro,M15: uninit reason 2
+0	06:52:04.962	Expert PTL_EA XAUUSD.pro,M15: removed
+0	06:52:04.980	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+0	06:52:04.981	PTL_EA EURUSD.pro,M15: uninit reason 2
+0	06:52:04.991	Expert PTL_EA EURUSD.pro,M15: removed
+0	06:52:05.018	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+0	06:52:05.021	PTL_EA GBPUSD.pro,M15: uninit reason 2
+0	06:52:05.030	Expert PTL_EA GBPUSD.pro,M15: removed
+0	06:52:05.051	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+0	06:52:05.053	PTL_EA GBPJPY.pro,M15: uninit reason 2
+0	06:52:05.064	Expert PTL_EA GBPJPY.pro,M15: removed
+0	06:52:05.087	Expert PTL_EA GBPJPY.pro,M15: loaded successfully
+0	06:52:05.089	PTL_EA EURJPY.pro,M15: uninit reason 2
+0	06:52:05.100	Expert PTL_EA EURJPY.pro,M15: removed
+0	06:52:05.132	Expert PTL_EA EURJPY.pro,M15: loaded successfully
+0	06:52:05.134	PTL_EA USDJPY.pro,M30: uninit reason 2
+0	06:52:05.146	Expert PTL_EA USDJPY.pro,M30: removed
+0	06:52:05.169	Expert PTL_EA USDJPY.pro,M30: loaded successfully
+0	06:52:05.171	PTL_EA USDCHF.pro,M30: uninit reason 2
+0	06:52:05.196	Expert PTL_EA USDCHF.pro,M30: removed
+0	06:52:05.212	PTL_EA EURUSD.pro,M15: initialized
+0	06:52:05.217	PTL_EA XAUUSD.pro,M15: initialized
+0	06:52:05.240	Expert PTL_EA USDCHF.pro,M30: loaded successfully
+0	06:52:05.242	PTL_EA AUDUSD.pro,M15: uninit reason 2
+0	06:52:05.248	Expert PTL_EA AUDUSD.pro,M15: removed
+0	06:52:05.272	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+0	06:52:05.274	PTL_EA USDCAD.pro,M15: uninit reason 2
+0	06:52:05.281	Expert PTL_EA USDCAD.pro,M15: removed
+0	06:52:05.282	PTL_EA GBPUSD.pro,M15: initialized
+0	06:52:05.304	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+0	06:52:05.306	PTL_EA EURAUD.pro,M30: uninit reason 2
+0	06:52:05.309	PTL_EA GBPJPY.pro,M15: initialized
+0	06:52:05.313	Expert PTL_EA EURAUD.pro,M30: removed
+0	06:52:05.324	PTL_EA EURJPY.pro,M15: initialized
+0	06:52:05.338	Expert PTL_EA EURAUD.pro,M30: loaded successfully
+0	06:52:05.340	PTL_EA GBPAUD.pro,M15: uninit reason 2
+0	06:52:05.346	Expert PTL_EA GBPAUD.pro,M15: removed
+0	06:52:05.370	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+0	06:52:05.378	PTL_EA USDJPY.pro,M30: initialized
+0	06:52:05.491	PTL_EA USDCHF.pro,M30: initialized
+0	06:52:05.552	PTL_EA AUDUSD.pro,M15: initialized
+0	06:52:05.558	PTL_EA USDCAD.pro,M15: initialized
+0	06:52:05.560	PTL_EA EURAUD.pro,M30: initialized
+0	06:52:05.644	PTL_EA GBPAUD.pro,M15: initialized
+0	07:02:45.112	PTL_EA GBPUSD.pro,M15: uninit reason 3
+0	07:02:45.114	pipsometer_5_decimal GBPUSD.pro,M15: uninit reason 3
+0	07:02:45.114	time_table GBPUSD.pro,M15: uninit reason 3
+0	07:02:45.114	PTL_Sessions GBPUSD.pro,M15: uninit reason 3
+0	07:02:45.114	pipsometer_5_decimal GBPUSD.pro,M30: initialized
+0	07:02:45.114	time_table GBPUSD.pro,M30: initialized
+0	07:02:45.114	PTL_Sessions GBPUSD.pro,M30: initialized
+0	07:02:45.145	PTL_EA GBPUSD.pro,M30: initialized
+0	07:20:18.674	PTL_EA GBPJPY.pro,M15: uninit reason 3
+0	07:20:18.676	pipsometer_5_decimal GBPJPY.pro,M15: uninit reason 3
+0	07:20:18.676	time_table GBPJPY.pro,M15: uninit reason 3
+0	07:20:18.676	PTL_Sessions GBPJPY.pro,M15: uninit reason 3
+0	07:20:18.676	pipsometer_5_decimal GBPJPY.pro,M30: initialized
+0	07:20:18.676	time_table GBPJPY.pro,M30: initialized
+0	07:20:18.676	PTL_Sessions GBPJPY.pro,M30: initialized
+0	07:20:18.700	PTL_EA GBPJPY.pro,M30: initialized
+0	07:20:19.670	PTL_EA GBPJPY.pro,M30: uninit reason 3
+0	07:20:19.672	pipsometer_5_decimal GBPJPY.pro,M30: uninit reason 3
+0	07:20:19.672	time_table GBPJPY.pro,M30: uninit reason 3
+0	07:20:19.672	PTL_Sessions GBPJPY.pro,M30: uninit reason 3
+0	07:20:19.672	pipsometer_5_decimal GBPJPY.pro,M15: initialized
+0	07:20:19.672	time_table GBPJPY.pro,M15: initialized
+0	07:20:19.673	PTL_Sessions GBPJPY.pro,M15: initialized
+0	07:20:19.700	PTL_EA GBPJPY.pro,M15: initialized
+0	07:20:26.046	PTL_EA GBPJPY.pro,M15: uninit reason 3
+0	07:20:26.048	pipsometer_5_decimal GBPJPY.pro,M15: uninit reason 3
+0	07:20:26.048	time_table GBPJPY.pro,M15: uninit reason 3
+0	07:20:26.048	PTL_Sessions GBPJPY.pro,M15: uninit reason 3
+0	07:20:26.050	pipsometer_5_decimal GBPJPY.pro,M5: initialized
+0	07:20:26.050	time_table GBPJPY.pro,M5: initialized
+0	07:20:26.050	PTL_Sessions GBPJPY.pro,M5: initialized
+0	07:20:26.077	PTL_EA GBPJPY.pro,M5: initialized
+0	07:34:20.511	PTL_EA GBPUSD.pro,M30: uninit reason 3
+0	07:34:20.513	pipsometer_5_decimal GBPUSD.pro,M30: uninit reason 3
+0	07:34:20.513	time_table GBPUSD.pro,M30: uninit reason 3
+0	07:34:20.513	PTL_Sessions GBPUSD.pro,M30: uninit reason 3
+0	07:34:20.513	pipsometer_5_decimal GBPUSD.pro,M15: initialized
+0	07:34:20.513	time_table GBPUSD.pro,M15: initialized
+0	07:34:20.513	PTL_Sessions GBPUSD.pro,M15: initialized
+0	07:34:20.535	PTL_EA GBPUSD.pro,M15: initialized
+0	08:07:31.146	PTL_EA GBPJPY.pro,M5: uninit reason 3
+0	08:07:31.148	pipsometer_5_decimal GBPJPY.pro,M5: uninit reason 3
+0	08:07:31.148	time_table GBPJPY.pro,M5: uninit reason 3
+0	08:07:31.148	PTL_Sessions GBPJPY.pro,M5: uninit reason 3
+0	08:07:31.148	pipsometer_5_decimal GBPJPY.pro,M15: initialized
+0	08:07:31.149	time_table GBPJPY.pro,M15: initialized
+0	08:07:31.149	PTL_Sessions GBPJPY.pro,M15: initialized
+0	08:07:31.172	PTL_EA GBPJPY.pro,M15: initialized
+0	08:13:48.248	PTL_EA GBPUSD.pro,M15: uninit reason 3
+0	08:13:48.250	pipsometer_5_decimal GBPUSD.pro,M15: uninit reason 3
+0	08:13:48.250	time_table GBPUSD.pro,M15: uninit reason 3
+0	08:13:48.250	PTL_Sessions GBPUSD.pro,M15: uninit reason 3
+0	08:13:48.250	pipsometer_5_decimal GBPUSD.pro,M30: initialized
+0	08:13:48.250	time_table GBPUSD.pro,M30: initialized
+0	08:13:48.250	PTL_Sessions GBPUSD.pro,M30: initialized
+0	08:13:48.275	PTL_EA GBPUSD.pro,M30: initialized
+0	08:28:26.321	PTL_EA GBPJPY.pro,M15: uninit reason 3
+0	08:28:26.323	pipsometer_5_decimal GBPJPY.pro,M15: uninit reason 3
+0	08:28:26.323	time_table GBPJPY.pro,M15: uninit reason 3
+0	08:28:26.323	PTL_Sessions GBPJPY.pro,M15: uninit reason 3
+0	08:28:26.325	pipsometer_5_decimal GBPJPY.pro,M5: initialized
+0	08:28:26.325	time_table GBPJPY.pro,M5: initialized
+0	08:28:26.325	PTL_Sessions GBPJPY.pro,M5: initialized
+0	08:28:26.348	PTL_EA GBPJPY.pro,M5: initialized
+0	08:28:31.809	PTL_EA GBPJPY.pro,M5: uninit reason 3
+0	08:28:31.811	pipsometer_5_decimal GBPJPY.pro,M5: uninit reason 3
+0	08:28:31.811	time_table GBPJPY.pro,M5: uninit reason 3
+0	08:28:31.811	PTL_Sessions GBPJPY.pro,M5: uninit reason 3
+0	08:28:31.811	pipsometer_5_decimal GBPJPY.pro,M15: initialized
+0	08:28:31.811	time_table GBPJPY.pro,M15: initialized
+0	08:28:31.811	PTL_Sessions GBPJPY.pro,M15: initialized
+0	08:28:31.833	PTL_EA GBPJPY.pro,M15: initialized
+0	08:29:00.444	PTL_EA EURJPY.pro,M15: uninit reason 3
+0	08:29:00.446	pipsometer_5_decimal EURJPY.pro,M15: uninit reason 3
+0	08:29:00.446	time_table EURJPY.pro,M15: uninit reason 3
+0	08:29:00.446	PTL_Sessions EURJPY.pro,M15: uninit reason 3
+0	08:29:00.447	pipsometer_5_decimal EURJPY.pro,M5: initialized
+0	08:29:00.447	time_table EURJPY.pro,M5: initialized
+0	08:29:00.447	PTL_Sessions EURJPY.pro,M5: initialized
+0	08:29:00.470	PTL_EA EURJPY.pro,M5: initialized
+0	08:31:05.037	PTL_EA XAUUSD.pro,M15: uninit reason 2
+0	08:31:05.054	Expert PTL_EA XAUUSD.pro,M15: removed
+0	08:31:05.073	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+0	08:31:05.074	PTL_EA EURUSD.pro,M15: uninit reason 2
+0	08:31:05.082	Expert PTL_EA EURUSD.pro,M15: removed
+0	08:31:05.101	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+0	08:31:05.102	PTL_EA GBPUSD.pro,M30: uninit reason 2
+0	08:31:05.112	Expert PTL_EA GBPUSD.pro,M30: removed
+0	08:31:05.136	Expert PTL_EA GBPUSD.pro,M30: loaded successfully
+0	08:31:05.136	PTL_EA GBPJPY.pro,M15: uninit reason 2
+0	08:31:05.148	Expert PTL_EA GBPJPY.pro,M15: removed
+0	08:31:05.172	Expert PTL_EA GBPJPY.pro,M15: loaded successfully
+0	08:31:05.173	PTL_EA EURJPY.pro,M5: uninit reason 2
+0	08:31:05.188	Expert PTL_EA EURJPY.pro,M5: removed
+0	08:31:05.212	Expert PTL_EA EURJPY.pro,M5: loaded successfully
+0	08:31:05.212	PTL_EA USDJPY.pro,M30: uninit reason 2
+0	08:31:05.224	Expert PTL_EA USDJPY.pro,M30: removed
+0	08:31:05.249	Expert PTL_EA USDJPY.pro,M30: loaded successfully
+0	08:31:05.250	PTL_EA USDCHF.pro,M30: uninit reason 2
+0	08:31:05.265	Expert PTL_EA USDCHF.pro,M30: removed
+0	08:31:05.291	Expert PTL_EA USDCHF.pro,M30: loaded successfully
+0	08:31:05.292	PTL_EA AUDUSD.pro,M15: uninit reason 2
+0	08:31:05.299	PTL_EA XAUUSD.pro,M15: initialized
+0	08:31:05.301	Expert PTL_EA AUDUSD.pro,M15: removed
+0	08:31:05.327	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+0	08:31:05.328	PTL_EA USDCAD.pro,M15: uninit reason 2
+0	08:31:05.336	Expert PTL_EA USDCAD.pro,M15: removed
+0	08:31:05.339	PTL_EA EURUSD.pro,M15: initialized
+0	08:31:05.360	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+0	08:31:05.361	PTL_EA EURAUD.pro,M30: uninit reason 2
+0	08:31:05.377	Expert PTL_EA EURAUD.pro,M30: removed
+0	08:31:05.402	Expert PTL_EA EURAUD.pro,M30: loaded successfully
+0	08:31:05.403	PTL_EA GBPAUD.pro,M15: uninit reason 2
+0	08:31:05.410	Expert PTL_EA GBPAUD.pro,M15: removed
+0	08:31:05.415	PTL_EA GBPUSD.pro,M30: initialized
+0	08:31:05.433	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+0	08:31:05.484	PTL_EA GBPJPY.pro,M15: initialized
+0	08:31:05.599	PTL_EA EURJPY.pro,M5: initialized
+0	08:31:05.658	PTL_EA USDJPY.pro,M30: initialized
+0	08:31:05.700	PTL_EA USDCHF.pro,M30: initialized
+0	08:31:05.703	PTL_EA EURAUD.pro,M30: initialized
+0	08:31:05.707	PTL_EA USDCAD.pro,M15: initialized
+0	08:31:05.711	PTL_EA GBPAUD.pro,M15: initialized
+0	08:31:05.715	PTL_EA AUDUSD.pro,M15: initialized
+0	08:31:17.957	PTL_EA EURUSD.pro,M15: uninit reason 3
+0	08:31:17.959	pipsometer_5_decimal EURUSD.pro,M15: uninit reason 3
+0	08:31:17.959	time_table EURUSD.pro,M15: uninit reason 3
+0	08:31:17.959	PTL_Sessions EURUSD.pro,M15: uninit reason 3
+0	08:31:17.959	pipsometer_5_decimal EURUSD.pro,M30: initialized
+0	08:31:17.959	time_table EURUSD.pro,M30: initialized
+0	08:31:17.959	PTL_Sessions EURUSD.pro,M30: initialized
+0	08:31:17.983	PTL_EA EURUSD.pro,M30: initialized
+0	08:31:18.363	PTL_EA EURUSD.pro,M30: uninit reason 3
+0	08:31:18.365	pipsometer_5_decimal EURUSD.pro,M30: uninit reason 3
+0	08:31:18.365	time_table EURUSD.pro,M30: uninit reason 3
+0	08:31:18.365	PTL_Sessions EURUSD.pro,M30: uninit reason 3
+0	08:31:18.365	pipsometer_5_decimal EURUSD.pro,M15: initialized
+0	08:31:18.365	time_table EURUSD.pro,M15: initialized
+0	08:31:18.365	PTL_Sessions EURUSD.pro,M15: initialized
+0	08:31:18.389	PTL_EA EURUSD.pro,M15: initialized
+0	08:31:44.415	PTL_EA EURUSD.pro,M15: uninit reason 3
+0	08:31:44.417	pipsometer_5_decimal EURUSD.pro,M15: uninit reason 3
+0	08:31:44.417	time_table EURUSD.pro,M15: uninit reason 3
+0	08:31:44.417	PTL_Sessions EURUSD.pro,M15: uninit reason 3
+0	08:31:44.417	pipsometer_5_decimal EURUSD.pro,M30: initialized
+0	08:31:44.417	time_table EURUSD.pro,M30: initialized
+0	08:31:44.417	PTL_Sessions EURUSD.pro,M30: initialized
+0	08:31:44.443	PTL_EA EURUSD.pro,M30: initialized
+0	08:32:17.703	PTL_EA XAUUSD.pro,M15: uninit reason 2
+0	08:32:17.714	Expert PTL_EA XAUUSD.pro,M15: removed
+0	08:32:17.734	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+0	08:32:17.735	PTL_EA EURUSD.pro,M30: uninit reason 2
+0	08:32:17.744	Expert PTL_EA EURUSD.pro,M30: removed
+0	08:32:17.765	Expert PTL_EA EURUSD.pro,M30: loaded successfully
+0	08:32:17.766	PTL_EA GBPUSD.pro,M30: uninit reason 2
+0	08:32:17.776	Expert PTL_EA GBPUSD.pro,M30: removed
+0	08:32:17.796	Expert PTL_EA GBPUSD.pro,M30: loaded successfully
+0	08:32:17.797	PTL_EA GBPJPY.pro,M15: uninit reason 2
+0	08:32:17.808	Expert PTL_EA GBPJPY.pro,M15: removed
+0	08:32:17.832	Expert PTL_EA GBPJPY.pro,M15: loaded successfully
+0	08:32:17.832	PTL_EA EURJPY.pro,M5: uninit reason 2
+0	08:32:17.843	Expert PTL_EA EURJPY.pro,M5: removed
+0	08:32:17.866	Expert PTL_EA EURJPY.pro,M5: loaded successfully
+0	08:32:17.867	PTL_EA USDJPY.pro,M30: uninit reason 2
+0	08:32:17.880	Expert PTL_EA USDJPY.pro,M30: removed
+0	08:32:17.903	Expert PTL_EA USDJPY.pro,M30: loaded successfully
+0	08:32:17.904	PTL_EA USDCHF.pro,M30: uninit reason 2
+0	08:32:17.912	Expert PTL_EA USDCHF.pro,M30: removed
+0	08:32:17.913	PTL_EA XAUUSD.pro,M15: initialized
+0	08:32:17.937	Expert PTL_EA USDCHF.pro,M30: loaded successfully
+0	08:32:17.937	PTL_EA AUDUSD.pro,M15: uninit reason 2
+0	08:32:17.950	Expert PTL_EA AUDUSD.pro,M15: removed
+0	08:32:17.977	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+0	08:32:17.978	PTL_EA USDCAD.pro,M15: uninit reason 2
+0	08:32:17.984	Expert PTL_EA USDCAD.pro,M15: removed
+0	08:32:17.988	PTL_EA EURUSD.pro,M30: initialized
+0	08:32:18.009	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+0	08:32:18.009	PTL_EA EURAUD.pro,M30: uninit reason 2
+0	08:32:18.023	Expert PTL_EA EURAUD.pro,M30: removed
+0	08:32:18.043	PTL_EA GBPUSD.pro,M30: initialized
+0	08:32:18.048	Expert PTL_EA EURAUD.pro,M30: loaded successfully
+0	08:32:18.048	PTL_EA GBPAUD.pro,M15: uninit reason 2
+0	08:32:18.059	Expert PTL_EA GBPAUD.pro,M15: removed
+0	08:32:18.083	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+0	08:32:18.113	PTL_EA GBPJPY.pro,M15: initialized
+0	08:32:18.158	PTL_EA EURJPY.pro,M5: initialized
+0	08:32:18.202	PTL_EA USDJPY.pro,M30: initialized
+0	08:32:18.236	PTL_EA USDCHF.pro,M30: initialized
+0	08:32:18.258	PTL_EA EURAUD.pro,M30: initialized
+0	08:32:18.262	PTL_EA USDCAD.pro,M15: initialized
+0	08:32:18.263	PTL_EA AUDUSD.pro,M15: initialized
+0	08:32:18.264	PTL_EA GBPAUD.pro,M15: initialized
+0	08:32:27.234	PTL_EA GBPUSD.pro,M30: uninit reason 3
+0	08:32:27.236	pipsometer_5_decimal GBPUSD.pro,M30: uninit reason 3
+0	08:32:27.236	time_table GBPUSD.pro,M30: uninit reason 3
+0	08:32:27.236	PTL_Sessions GBPUSD.pro,M30: uninit reason 3
+0	08:32:27.236	pipsometer_5_decimal GBPUSD.pro,M15: initialized
+0	08:32:27.237	time_table GBPUSD.pro,M15: initialized
+0	08:32:27.237	PTL_Sessions GBPUSD.pro,M15: initialized
+0	08:32:27.269	PTL_EA GBPUSD.pro,M15: initialized
+0	09:29:50.159	pipsometer_5_decimal GBPUSD.pro,M15: uninit reason 7
+0	09:29:50.159	time_table GBPUSD.pro,M15: uninit reason 7
+0	09:29:50.159	PTL_Sessions GBPUSD.pro,M15: uninit reason 7
+0	09:29:50.159	PTL_EA GBPUSD.pro,M15: uninit reason 7
+0	09:29:50.179	Expert PTL_EA GBPUSD.pro,M15: removed
+0	09:29:50.182	Custom indicator pipsometer_5_decimal GBPUSD.pro,M15: removed
+0	09:29:50.185	Custom indicator time_table GBPUSD.pro,M15: removed
+0	09:29:50.191	Custom indicator PTL_Sessions GBPUSD.pro,M15: removed
+0	09:29:50.244	Custom indicator pipsometer_5_decimal GBPUSD.pro,M15: loaded successfully
+0	09:29:50.277	Custom indicator time_table GBPUSD.pro,M15: loaded successfully
+0	09:29:50.307	Custom indicator PTL_Sessions GBPUSD.pro,M15: loaded successfully
+0	09:29:50.335	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+0	09:29:50.335	PTL_EA GBPUSD.pro,M15 inputs: InpLanguage=1; TelegramToken=927322228:AAFxIy4Tw_rfZr6LEoyO5tocsMNBxwNXIHI; TelegramNotification=true; Pair_suffix=; InpUpdateMode=1; InpTemplates=ptl_screenshot;ptl_screenshot_zoom; 
+0	09:29:50.373	pipsometer_5_decimal GBPUSD.pro,M15: initialized
+0	09:29:50.401	time_table GBPUSD.pro,M15: initialized
+0	09:29:50.450	PTL_Sessions GBPUSD.pro,M15: initialized
+0	09:29:50.818	PTL_EA GBPUSD.pro,M15: initialized
+0	09:39:01.046	PTL_EA GBPUSD.pro,M15: uninit reason 3
+0	09:39:01.048	pipsometer_5_decimal GBPUSD.pro,M15: uninit reason 3
+0	09:39:01.048	time_table GBPUSD.pro,M15: uninit reason 3
+0	09:39:01.048	PTL_Sessions GBPUSD.pro,M15: uninit reason 3
+0	09:39:01.048	pipsometer_5_decimal GBPUSD.pro,M30: initialized
+0	09:39:01.048	time_table GBPUSD.pro,M30: initialized
+0	09:39:01.048	PTL_Sessions GBPUSD.pro,M30: initialized
+0	09:39:01.108	PTL_EA GBPUSD.pro,M30: initialized
+0	09:39:02.016	PTL_EA GBPUSD.pro,M30: uninit reason 3
+0	09:39:02.018	pipsometer_5_decimal GBPUSD.pro,M30: uninit reason 3
+0	09:39:02.018	time_table GBPUSD.pro,M30: uninit reason 3
+0	09:39:02.018	PTL_Sessions GBPUSD.pro,M30: uninit reason 3
+0	09:39:02.018	pipsometer_5_decimal GBPUSD.pro,M15: initialized
+0	09:39:02.018	time_table GBPUSD.pro,M15: initialized
+0	09:39:02.018	PTL_Sessions GBPUSD.pro,M15: initialized
+0	09:39:02.077	PTL_EA GBPUSD.pro,M15: initialized
+0	09:39:08.222	PTL_EA GBPUSD.pro,M15: uninit reason 3
+0	09:39:08.224	pipsometer_5_decimal GBPUSD.pro,M15: uninit reason 3
+0	09:39:08.224	time_table GBPUSD.pro,M15: uninit reason 3
+0	09:39:08.224	PTL_Sessions GBPUSD.pro,M15: uninit reason 3
+0	09:39:08.224	pipsometer_5_decimal GBPUSD.pro,H1: initialized
+0	09:39:08.224	time_table GBPUSD.pro,H1: initialized
+0	09:39:08.224	PTL_Sessions GBPUSD.pro,H1: initialized
+0	09:39:08.281	PTL_EA GBPUSD.pro,H1: initialized
+0	09:49:04.819	PTL_EA GBPUSD.pro,H1: uninit reason 3
+0	09:49:04.821	pipsometer_5_decimal GBPUSD.pro,H1: uninit reason 3
+0	09:49:04.821	time_table GBPUSD.pro,H1: uninit reason 3
+0	09:49:04.821	PTL_Sessions GBPUSD.pro,H1: uninit reason 3
+0	09:49:04.821	pipsometer_5_decimal GBPUSD.pro,M15: initialized
+0	09:49:04.821	time_table GBPUSD.pro,M15: initialized
+0	09:49:04.821	PTL_Sessions GBPUSD.pro,M15: initialized
+0	09:49:04.843	PTL_EA GBPUSD.pro,M15: initialized
+0	09:50:17.114	PTL_EA GBPJPY.pro,M15: uninit reason 3
+0	09:50:17.116	pipsometer_5_decimal GBPJPY.pro,M15: uninit reason 3
+0	09:50:17.116	time_table GBPJPY.pro,M15: uninit reason 3
+0	09:50:17.116	PTL_Sessions GBPJPY.pro,M15: uninit reason 3
+0	09:50:17.116	pipsometer_5_decimal GBPJPY.pro,M30: initialized
+0	09:50:17.117	time_table GBPJPY.pro,M30: initialized
+0	09:50:17.117	PTL_Sessions GBPJPY.pro,M30: initialized
+0	09:50:17.142	PTL_EA GBPJPY.pro,M30: initialized
+0	09:50:18.365	PTL_EA GBPJPY.pro,M30: uninit reason 3
+0	09:50:18.367	pipsometer_5_decimal GBPJPY.pro,M30: uninit reason 3
+0	09:50:18.367	time_table GBPJPY.pro,M30: uninit reason 3
+0	09:50:18.367	PTL_Sessions GBPJPY.pro,M30: uninit reason 3
+0	09:50:18.367	pipsometer_5_decimal GBPJPY.pro,M15: initialized
+0	09:50:18.367	time_table GBPJPY.pro,M15: initialized
+0	09:50:18.368	PTL_Sessions GBPJPY.pro,M15: initialized
+0	09:50:18.391	PTL_EA GBPJPY.pro,M15: initialized
+0	10:07:04.524	PTL_EA GBPUSD.pro,M15: uninit reason 3
+0	10:07:04.526	pipsometer_5_decimal GBPUSD.pro,M15: uninit reason 3
+0	10:07:04.526	time_table GBPUSD.pro,M15: uninit reason 3
+0	10:07:04.526	PTL_Sessions GBPUSD.pro,M15: uninit reason 3
+0	10:07:04.526	pipsometer_5_decimal GBPUSD.pro,M30: initialized
+0	10:07:04.526	time_table GBPUSD.pro,M30: initialized
+0	10:07:04.526	PTL_Sessions GBPUSD.pro,M30: initialized
+0	10:07:04.551	PTL_EA GBPUSD.pro,M30: initialized
+0	10:07:04.882	PTL_EA GBPUSD.pro,M30: uninit reason 3
+0	10:07:04.884	pipsometer_5_decimal GBPUSD.pro,M30: uninit reason 3
+0	10:07:04.884	time_table GBPUSD.pro,M30: uninit reason 3
+0	10:07:04.884	PTL_Sessions GBPUSD.pro,M30: uninit reason 3
+0	10:07:04.884	pipsometer_5_decimal GBPUSD.pro,M15: initialized
+0	10:07:04.884	time_table GBPUSD.pro,M15: initialized
+0	10:07:04.884	PTL_Sessions GBPUSD.pro,M15: initialized
+0	10:07:04.907	PTL_EA GBPUSD.pro,M15: initialized
+0	10:07:09.136	PTL_EA GBPUSD.pro,M15: uninit reason 3
+0	10:07:09.138	pipsometer_5_decimal GBPUSD.pro,M15: uninit reason 3
+0	10:07:09.138	time_table GBPUSD.pro,M15: uninit reason 3
+0	10:07:09.138	PTL_Sessions GBPUSD.pro,M15: uninit reason 3
+0	10:07:09.138	pipsometer_5_decimal GBPUSD.pro,M30: initialized
+0	10:07:09.138	time_table GBPUSD.pro,M30: initialized
+0	10:07:09.138	PTL_Sessions GBPUSD.pro,M30: initialized
+0	10:07:09.160	PTL_EA GBPUSD.pro,M30: initialized
+0	10:07:10.207	PTL_EA GBPUSD.pro,M30: uninit reason 3
+0	10:07:10.209	pipsometer_5_decimal GBPUSD.pro,M30: uninit reason 3
+0	10:07:10.209	time_table GBPUSD.pro,M30: uninit reason 3
+0	10:07:10.209	PTL_Sessions GBPUSD.pro,M30: uninit reason 3
+0	10:07:10.209	pipsometer_5_decimal GBPUSD.pro,M15: initialized
+0	10:07:10.209	time_table GBPUSD.pro,M15: initialized
+0	10:07:10.209	PTL_Sessions GBPUSD.pro,M15: initialized
+0	10:07:10.233	PTL_EA GBPUSD.pro,M15: initialized
+0	10:07:11.922	PTL_EA GBPUSD.pro,M15: uninit reason 3
+0	10:07:11.924	pipsometer_5_decimal GBPUSD.pro,M15: uninit reason 3
+0	10:07:11.924	time_table GBPUSD.pro,M15: uninit reason 3
+0	10:07:11.924	PTL_Sessions GBPUSD.pro,M15: uninit reason 3
+0	10:07:11.924	pipsometer_5_decimal GBPUSD.pro,M30: initialized
+0	10:07:11.924	time_table GBPUSD.pro,M30: initialized
+0	10:07:11.924	PTL_Sessions GBPUSD.pro,M30: initialized
+0	10:07:11.949	PTL_EA GBPUSD.pro,M30: initialized
+0	10:35:28.799	PTL_EA GBPUSD.pro,M30: uninit reason 3
+0	10:35:28.801	pipsometer_5_decimal GBPUSD.pro,M30: uninit reason 3
+0	10:35:28.801	time_table GBPUSD.pro,M30: uninit reason 3
+0	10:35:28.801	PTL_Sessions GBPUSD.pro,M30: uninit reason 3
+0	10:35:28.801	pipsometer_5_decimal GBPUSD.pro,M15: initialized
+0	10:35:28.801	time_table GBPUSD.pro,M15: initialized
+0	10:35:28.801	PTL_Sessions GBPUSD.pro,M15: initialized
+0	10:35:28.825	PTL_EA GBPUSD.pro,M15: initialized
+0	10:38:30.032	PTL_EA EURJPY.pro,M5: uninit reason 3
+0	10:38:30.034	pipsometer_5_decimal EURJPY.pro,M5: uninit reason 3
+0	10:38:30.034	time_table EURJPY.pro,M5: uninit reason 3
+0	10:38:30.034	PTL_Sessions EURJPY.pro,M5: uninit reason 3
+0	10:38:30.034	pipsometer_5_decimal EURJPY.pro,H1: initialized
+0	10:38:30.034	time_table EURJPY.pro,H1: initialized
+0	10:38:30.035	PTL_Sessions EURJPY.pro,H1: initialized
+0	10:38:30.058	PTL_EA EURJPY.pro,H1: initialized
+0	10:38:31.032	PTL_EA EURJPY.pro,H1: uninit reason 3
+0	10:38:31.034	pipsometer_5_decimal EURJPY.pro,H1: uninit reason 3
+0	10:38:31.034	time_table EURJPY.pro,H1: uninit reason 3
+0	10:38:31.034	PTL_Sessions EURJPY.pro,H1: uninit reason 3
+0	10:38:31.034	pipsometer_5_decimal EURJPY.pro,M30: initialized
+0	10:38:31.034	time_table EURJPY.pro,M30: initialized
+0	10:38:31.034	PTL_Sessions EURJPY.pro,M30: initialized
+0	10:38:31.057	PTL_EA EURJPY.pro,M30: initialized
+0	10:38:33.196	PTL_EA EURJPY.pro,M30: uninit reason 3
+0	10:38:33.198	pipsometer_5_decimal EURJPY.pro,M30: uninit reason 3
+0	10:38:33.198	time_table EURJPY.pro,M30: uninit reason 3
+0	10:38:33.198	PTL_Sessions EURJPY.pro,M30: uninit reason 3
+0	10:38:33.198	pipsometer_5_decimal EURJPY.pro,M15: initialized
+0	10:38:33.198	time_table EURJPY.pro,M15: initialized
+0	10:38:33.198	PTL_Sessions EURJPY.pro,M15: initialized
+0	10:38:33.221	PTL_EA EURJPY.pro,M15: initialized
+0	10:46:25.636	PTL_EA USDJPY.pro,M30: uninit reason 3
+0	10:46:25.638	pipsometer_5_decimal USDJPY.pro,M30: uninit reason 3
+0	10:46:25.638	time_table USDJPY.pro,M30: uninit reason 3
+0	10:46:25.638	PTL_Sessions USDJPY.pro,M30: uninit reason 3
+0	10:46:25.638	pipsometer_5_decimal USDJPY.pro,M15: initialized
+0	10:46:25.638	time_table USDJPY.pro,M15: initialized
+0	10:46:25.639	PTL_Sessions USDJPY.pro,M15: initialized
+0	10:46:25.661	PTL_EA USDJPY.pro,M15: initialized
+0	10:55:06.945	PTL_EA GBPUSD.pro,M15: uninit reason 3
+0	10:55:06.947	pipsometer_5_decimal GBPUSD.pro,M15: uninit reason 3
+0	10:55:06.947	time_table GBPUSD.pro,M15: uninit reason 3
+0	10:55:06.947	PTL_Sessions GBPUSD.pro,M15: uninit reason 3
+0	10:55:06.947	pipsometer_5_decimal GBPUSD.pro,H4: initialized
+0	10:55:06.947	time_table GBPUSD.pro,H4: initialized
+0	10:55:06.947	PTL_Sessions GBPUSD.pro,H4: initialized
+0	10:55:06.970	PTL_EA GBPUSD.pro,H4: initialized
+0	11:56:12.060	PTL_EA GBPUSD.pro,H4: uninit reason 3
+0	11:56:12.062	pipsometer_5_decimal GBPUSD.pro,H4: uninit reason 3
+0	11:56:12.062	time_table GBPUSD.pro,H4: uninit reason 3
+0	11:56:12.062	PTL_Sessions GBPUSD.pro,H4: uninit reason 3
+0	11:56:12.062	pipsometer_5_decimal GBPUSD.pro,M15: initialized
+0	11:56:12.062	time_table GBPUSD.pro,M15: initialized
+0	11:56:12.062	PTL_Sessions GBPUSD.pro,M15: initialized
+0	11:56:12.085	PTL_EA GBPUSD.pro,M15: initialized
+0	11:57:40.704	PTL_EA GBPUSD.pro,M15: uninit reason 3
+0	11:57:40.706	pipsometer_5_decimal GBPUSD.pro,M15: uninit reason 3
+0	11:57:40.706	time_table GBPUSD.pro,M15: uninit reason 3
+0	11:57:40.706	PTL_Sessions GBPUSD.pro,M15: uninit reason 3
+0	11:57:40.706	pipsometer_5_decimal GBPUSD.pro,M30: initialized
+0	11:57:40.706	time_table GBPUSD.pro,M30: initialized
+0	11:57:40.706	PTL_Sessions GBPUSD.pro,M30: initialized
+0	11:57:40.733	PTL_EA GBPUSD.pro,M30: initialized
+0	13:36:57.935	PTL_EA GBPUSD.pro,M30: uninit reason 3
+0	13:36:57.937	pipsometer_5_decimal GBPUSD.pro,M30: uninit reason 3
+0	13:36:57.937	time_table GBPUSD.pro,M30: uninit reason 3
+0	13:36:57.937	PTL_Sessions GBPUSD.pro,M30: uninit reason 3
+0	13:36:57.937	pipsometer_5_decimal GBPUSD.pro,M15: initialized
+0	13:36:57.938	time_table GBPUSD.pro,M15: initialized
+0	13:36:57.938	PTL_Sessions GBPUSD.pro,M15: initialized
+0	13:36:57.962	PTL_EA GBPUSD.pro,M15: initialized
+0	13:37:53.998	PTL_EA GBPUSD.pro,M15: uninit reason 3
+0	13:37:54.000	pipsometer_5_decimal GBPUSD.pro,M15: uninit reason 3
+0	13:37:54.000	time_table GBPUSD.pro,M15: uninit reason 3
+0	13:37:54.000	PTL_Sessions GBPUSD.pro,M15: uninit reason 3
+0	13:37:54.001	pipsometer_5_decimal GBPUSD.pro,M5: initialized
+0	13:37:54.001	time_table GBPUSD.pro,M5: initialized
+0	13:37:54.001	PTL_Sessions GBPUSD.pro,M5: initialized
+0	13:37:54.033	PTL_EA GBPUSD.pro,M5: initialized
+0	13:37:55.302	PTL_EA GBPUSD.pro,M5: uninit reason 3
+0	13:37:55.304	pipsometer_5_decimal GBPUSD.pro,M5: uninit reason 3
+0	13:37:55.304	time_table GBPUSD.pro,M5: uninit reason 3
+0	13:37:55.304	PTL_Sessions GBPUSD.pro,M5: uninit reason 3
+0	13:37:55.305	pipsometer_5_decimal GBPUSD.pro,M15: initialized
+0	13:37:55.305	time_table GBPUSD.pro,M15: initialized
+0	13:37:55.305	PTL_Sessions GBPUSD.pro,M15: initialized
+0	13:37:55.336	PTL_EA GBPUSD.pro,M15: initialized
+0	13:39:03.627	PTL_EA EURUSD.pro,M30: uninit reason 3
+0	13:39:03.629	pipsometer_5_decimal EURUSD.pro,M30: uninit reason 3
+0	13:39:03.629	time_table EURUSD.pro,M30: uninit reason 3
+0	13:39:03.629	PTL_Sessions EURUSD.pro,M30: uninit reason 3
+0	13:39:03.629	pipsometer_5_decimal EURUSD.pro,M15: initialized
+0	13:39:03.629	time_table EURUSD.pro,M15: initialized
+0	13:39:03.629	PTL_Sessions EURUSD.pro,M15: initialized
+0	13:39:03.684	PTL_EA EURUSD.pro,M15: initialized
+0	13:44:13.293	PTL_EA EURUSD.pro,M15: uninit reason 3
+0	13:44:13.295	pipsometer_5_decimal EURUSD.pro,M15: uninit reason 3
+0	13:44:13.295	time_table EURUSD.pro,M15: uninit reason 3
+0	13:44:13.295	PTL_Sessions EURUSD.pro,M15: uninit reason 3
+0	13:44:13.295	pipsometer_5_decimal EURUSD.pro,H1: initialized
+0	13:44:13.295	time_table EURUSD.pro,H1: initialized
+0	13:44:13.295	PTL_Sessions EURUSD.pro,H1: initialized
+0	13:44:13.323	PTL_EA EURUSD.pro,H1: initialized
+0	13:44:13.923	PTL_EA EURUSD.pro,H1: uninit reason 3
+0	13:44:13.925	pipsometer_5_decimal EURUSD.pro,H1: uninit reason 3
+0	13:44:13.925	time_table EURUSD.pro,H1: uninit reason 3
+0	13:44:13.925	PTL_Sessions EURUSD.pro,H1: uninit reason 3
+0	13:44:13.925	pipsometer_5_decimal EURUSD.pro,H4: initialized
+0	13:44:13.925	time_table EURUSD.pro,H4: initialized
+0	13:44:13.925	PTL_Sessions EURUSD.pro,H4: initialized
+0	13:44:13.950	PTL_EA EURUSD.pro,H4: initialized
+0	13:44:16.248	PTL_EA EURUSD.pro,H4: uninit reason 3
+0	13:44:16.250	pipsometer_5_decimal EURUSD.pro,H4: uninit reason 3
+0	13:44:16.250	time_table EURUSD.pro,H4: uninit reason 3
+0	13:44:16.250	PTL_Sessions EURUSD.pro,H4: uninit reason 3
+0	13:44:16.250	pipsometer_5_decimal EURUSD.pro,Daily: initialized
+0	13:44:16.250	time_table EURUSD.pro,Daily: initialized
+0	13:44:16.250	PTL_Sessions EURUSD.pro,Daily: initialized
+0	13:44:16.275	PTL_EA EURUSD.pro,Daily: initialized
+0	13:44:18.446	PTL_EA EURUSD.pro,Daily: uninit reason 3
+0	13:44:18.448	pipsometer_5_decimal EURUSD.pro,Daily: uninit reason 3
+0	13:44:18.448	time_table EURUSD.pro,Daily: uninit reason 3
+0	13:44:18.448	PTL_Sessions EURUSD.pro,Daily: uninit reason 3
+0	13:44:18.448	pipsometer_5_decimal EURUSD.pro,H4: initialized
+0	13:44:18.448	time_table EURUSD.pro,H4: initialized
+0	13:44:18.448	PTL_Sessions EURUSD.pro,H4: initialized
+0	13:44:18.473	PTL_EA EURUSD.pro,H4: initialized
+0	13:44:20.183	PTL_EA EURUSD.pro,H4: uninit reason 3
+0	13:44:20.185	pipsometer_5_decimal EURUSD.pro,H4: uninit reason 3
+0	13:44:20.185	time_table EURUSD.pro,H4: uninit reason 3
+0	13:44:20.185	PTL_Sessions EURUSD.pro,H4: uninit reason 3
+0	13:44:20.185	pipsometer_5_decimal EURUSD.pro,M30: initialized
+0	13:44:20.185	time_table EURUSD.pro,M30: initialized
+0	13:44:20.185	PTL_Sessions EURUSD.pro,M30: initialized
+0	13:44:20.243	PTL_EA EURUSD.pro,M30: initialized
+0	13:44:22.750	PTL_EA EURUSD.pro,M30: uninit reason 3
+0	13:44:22.752	pipsometer_5_decimal EURUSD.pro,M30: uninit reason 3
+0	13:44:22.752	time_table EURUSD.pro,M30: uninit reason 3
+0	13:44:22.752	PTL_Sessions EURUSD.pro,M30: uninit reason 3
+0	13:44:22.752	pipsometer_5_decimal EURUSD.pro,M15: initialized
+0	13:44:22.764	time_table EURUSD.pro,M15: initialized
+0	13:44:22.764	PTL_Sessions EURUSD.pro,M15: initialized
+0	13:44:22.797	PTL_EA EURUSD.pro,M15: initialized
+0	13:45:58.485	PTL_EA EURUSD.pro,M15: uninit reason 3
+0	13:45:58.487	pipsometer_5_decimal EURUSD.pro,M15: uninit reason 3
+0	13:45:58.487	time_table EURUSD.pro,M15: uninit reason 3
+0	13:45:58.487	PTL_Sessions EURUSD.pro,M15: uninit reason 3
+0	13:45:58.487	pipsometer_5_decimal EURUSD.pro,M30: initialized
+0	13:45:58.487	time_table EURUSD.pro,M30: initialized
+0	13:45:58.487	PTL_Sessions EURUSD.pro,M30: initialized
+0	13:45:58.516	PTL_EA EURUSD.pro,M30: initialized
+0	13:45:59.626	PTL_EA EURUSD.pro,M30: uninit reason 3
+0	13:45:59.628	pipsometer_5_decimal EURUSD.pro,M30: uninit reason 3
+0	13:45:59.628	time_table EURUSD.pro,M30: uninit reason 3
+0	13:45:59.628	PTL_Sessions EURUSD.pro,M30: uninit reason 3
+0	13:45:59.628	pipsometer_5_decimal EURUSD.pro,M15: initialized
+0	13:45:59.628	time_table EURUSD.pro,M15: initialized
+0	13:45:59.628	PTL_Sessions EURUSD.pro,M15: initialized
+0	13:45:59.656	PTL_EA EURUSD.pro,M15: initialized
+0	14:07:41.223	PTL_EA GBPJPY.pro,M15: uninit reason 3
+0	14:07:41.225	pipsometer_5_decimal GBPJPY.pro,M15: uninit reason 3
+0	14:07:41.225	time_table GBPJPY.pro,M15: uninit reason 3
+0	14:07:41.225	PTL_Sessions GBPJPY.pro,M15: uninit reason 3
+0	14:07:41.225	pipsometer_5_decimal GBPJPY.pro,M30: initialized
+0	14:07:41.226	time_table GBPJPY.pro,M30: initialized
+0	14:07:41.226	PTL_Sessions GBPJPY.pro,M30: initialized
+0	14:07:41.248	PTL_EA GBPJPY.pro,M30: initialized
+0	14:07:42.253	PTL_EA GBPJPY.pro,M30: uninit reason 3
+0	14:07:42.255	pipsometer_5_decimal GBPJPY.pro,M30: uninit reason 3
+0	14:07:42.255	time_table GBPJPY.pro,M30: uninit reason 3
+0	14:07:42.255	PTL_Sessions GBPJPY.pro,M30: uninit reason 3
+0	14:07:42.255	pipsometer_5_decimal GBPJPY.pro,M15: initialized
+0	14:07:42.255	time_table GBPJPY.pro,M15: initialized
+0	14:07:42.256	PTL_Sessions GBPJPY.pro,M15: initialized
+0	14:07:42.280	PTL_EA GBPJPY.pro,M15: initialized
+0	14:51:53.065	PTL_EA GBPJPY.pro,M15: uninit reason 3
+0	14:51:53.067	pipsometer_5_decimal GBPJPY.pro,M15: uninit reason 3
+0	14:51:53.067	time_table GBPJPY.pro,M15: uninit reason 3
+0	14:51:53.067	PTL_Sessions GBPJPY.pro,M15: uninit reason 3
+0	14:51:53.067	pipsometer_5_decimal GBPJPY.pro,M30: initialized
+0	14:51:53.067	time_table GBPJPY.pro,M30: initialized
+0	14:51:53.068	PTL_Sessions GBPJPY.pro,M30: initialized
+0	14:51:53.092	PTL_EA GBPJPY.pro,M30: initialized
+0	15:00:29.455	PTL_EA GBPJPY.pro,M30: uninit reason 3
+0	15:00:29.457	pipsometer_5_decimal GBPJPY.pro,M30: uninit reason 3
+0	15:00:29.457	time_table GBPJPY.pro,M30: uninit reason 3
+0	15:00:29.457	PTL_Sessions GBPJPY.pro,M30: uninit reason 3
+0	15:00:29.457	pipsometer_5_decimal GBPJPY.pro,M15: initialized
+0	15:00:29.457	time_table GBPJPY.pro,M15: initialized
+0	15:00:29.457	PTL_Sessions GBPJPY.pro,M15: initialized
+0	15:00:29.489	PTL_EA GBPJPY.pro,M15: initialized
+0	15:01:34.319	PTL_EA GBPUSD.pro,M15: uninit reason 3
+0	15:01:34.321	pipsometer_5_decimal GBPUSD.pro,M15: uninit reason 3
+0	15:01:34.321	time_table GBPUSD.pro,M15: uninit reason 3
+0	15:01:34.321	PTL_Sessions GBPUSD.pro,M15: uninit reason 3
+0	15:01:34.321	pipsometer_5_decimal GBPUSD.pro,M30: initialized
+0	15:01:34.343	time_table GBPUSD.pro,M30: initialized
+0	15:01:34.343	PTL_Sessions GBPUSD.pro,M30: initialized
+0	15:01:34.387	PTL_EA GBPUSD.pro,M30: initialized
+0	15:01:35.020	PTL_EA GBPUSD.pro,M30: uninit reason 3
+0	15:01:35.022	pipsometer_5_decimal GBPUSD.pro,M30: uninit reason 3
+0	15:01:35.022	time_table GBPUSD.pro,M30: uninit reason 3
+0	15:01:35.022	PTL_Sessions GBPUSD.pro,M30: uninit reason 3
+0	15:01:35.022	pipsometer_5_decimal GBPUSD.pro,M15: initialized
+0	15:01:35.022	time_table GBPUSD.pro,M15: initialized
+0	15:01:35.022	PTL_Sessions GBPUSD.pro,M15: initialized
+0	15:01:35.046	PTL_EA GBPUSD.pro,M15: initialized
+0	15:07:59.240	PTL_EA GBPJPY.pro,M15: uninit reason 3
+0	15:07:59.242	pipsometer_5_decimal GBPJPY.pro,M15: uninit reason 3
+0	15:07:59.242	time_table GBPJPY.pro,M15: uninit reason 3
+0	15:07:59.242	PTL_Sessions GBPJPY.pro,M15: uninit reason 3
+0	15:07:59.244	pipsometer_5_decimal GBPJPY.pro,M5: initialized
+0	15:07:59.244	time_table GBPJPY.pro,M5: initialized
+0	15:07:59.244	PTL_Sessions GBPJPY.pro,M5: initialized
+0	15:07:59.271	PTL_EA GBPJPY.pro,M5: initialized
+0	15:08:00.559	PTL_EA GBPJPY.pro,M5: uninit reason 3
+0	15:08:00.561	pipsometer_5_decimal GBPJPY.pro,M5: uninit reason 3
+0	15:08:00.561	time_table GBPJPY.pro,M5: uninit reason 3
+0	15:08:00.561	PTL_Sessions GBPJPY.pro,M5: uninit reason 3
+0	15:08:00.561	pipsometer_5_decimal GBPJPY.pro,M15: initialized
+0	15:08:00.561	time_table GBPJPY.pro,M15: initialized
+0	15:08:00.562	PTL_Sessions GBPJPY.pro,M15: initialized
+0	15:08:00.589	PTL_EA GBPJPY.pro,M15: initialized
+0	15:08:07.525	PTL_EA GBPUSD.pro,M15: uninit reason 3
+0	15:08:07.527	pipsometer_5_decimal GBPUSD.pro,M15: uninit reason 3
+0	15:08:07.527	time_table GBPUSD.pro,M15: uninit reason 3
+0	15:08:07.527	PTL_Sessions GBPUSD.pro,M15: uninit reason 3
+0	15:08:07.527	pipsometer_5_decimal GBPUSD.pro,M30: initialized
+0	15:08:07.527	time_table GBPUSD.pro,M30: initialized
+0	15:08:07.527	PTL_Sessions GBPUSD.pro,M30: initialized
+0	15:08:07.550	PTL_EA GBPUSD.pro,M30: initialized
+0	15:08:15.705	PTL_EA GBPUSD.pro,M30: uninit reason 3
+0	15:08:15.707	pipsometer_5_decimal GBPUSD.pro,M30: uninit reason 3
+0	15:08:15.707	time_table GBPUSD.pro,M30: uninit reason 3
+0	15:08:15.707	PTL_Sessions GBPUSD.pro,M30: uninit reason 3
+0	15:08:15.707	pipsometer_5_decimal GBPUSD.pro,M15: initialized
+0	15:08:15.707	time_table GBPUSD.pro,M15: initialized
+0	15:08:15.707	PTL_Sessions GBPUSD.pro,M15: initialized
+0	15:08:15.729	PTL_EA GBPUSD.pro,M15: initialized
+0	15:17:33.314	PTL_EA GBPUSD.pro,M15: uninit reason 3
+0	15:17:33.316	pipsometer_5_decimal GBPUSD.pro,M15: uninit reason 3
+0	15:17:33.316	time_table GBPUSD.pro,M15: uninit reason 3
+0	15:17:33.316	PTL_Sessions GBPUSD.pro,M15: uninit reason 3
+0	15:17:33.316	pipsometer_5_decimal GBPUSD.pro,M30: initialized
+0	15:17:33.316	time_table GBPUSD.pro,M30: initialized
+0	15:17:33.316	PTL_Sessions GBPUSD.pro,M30: initialized
+0	15:17:33.345	PTL_EA GBPUSD.pro,M30: initialized
+0	15:17:33.687	PTL_EA GBPUSD.pro,M30: uninit reason 3
+0	15:17:33.689	pipsometer_5_decimal GBPUSD.pro,M30: uninit reason 3
+0	15:17:33.689	time_table GBPUSD.pro,M30: uninit reason 3
+0	15:17:33.689	PTL_Sessions GBPUSD.pro,M30: uninit reason 3
+0	15:17:33.689	pipsometer_5_decimal GBPUSD.pro,M15: initialized
+0	15:17:33.689	time_table GBPUSD.pro,M15: initialized
+0	15:17:33.689	PTL_Sessions GBPUSD.pro,M15: initialized
+0	15:17:33.714	PTL_EA GBPUSD.pro,M15: initialized
+0	15:45:51.815	PTL_EA EURAUD.pro,M30: uninit reason 3
+0	15:45:51.817	pipsometer_5_decimal EURAUD.pro,M30: uninit reason 3
+0	15:45:51.817	time_table EURAUD.pro,M30: uninit reason 3
+0	15:45:51.817	PTL_Sessions EURAUD.pro,M30: uninit reason 3
+0	15:45:51.817	pipsometer_5_decimal EURAUD.pro,M15: initialized
+0	15:45:51.817	time_table EURAUD.pro,M15: initialized
+0	15:45:51.817	PTL_Sessions EURAUD.pro,M15: initialized
+0	15:45:51.841	PTL_EA EURAUD.pro,M15: initialized
+0	15:46:15.584	PTL_EA EURAUD.pro,M15: uninit reason 3
+0	15:46:15.586	pipsometer_5_decimal EURAUD.pro,M15: uninit reason 3
+0	15:46:15.586	time_table EURAUD.pro,M15: uninit reason 3
+0	15:46:15.586	PTL_Sessions EURAUD.pro,M15: uninit reason 3
+0	15:46:15.586	pipsometer_5_decimal EURAUD.pro,M30: initialized
+0	15:46:15.587	time_table EURAUD.pro,M30: initialized
+0	15:46:15.591	PTL_Sessions EURAUD.pro,M30: initialized
+0	15:46:15.628	PTL_EA EURAUD.pro,M30: initialized
+0	16:28:36.109	PTL_EA USDJPY.pro,M15: uninit reason 3
+0	16:28:36.111	pipsometer_5_decimal USDJPY.pro,M15: uninit reason 3
+0	16:28:36.111	time_table USDJPY.pro,M15: uninit reason 3
+0	16:28:36.111	PTL_Sessions USDJPY.pro,M15: uninit reason 3
+0	16:28:36.111	pipsometer_5_decimal USDJPY.pro,M30: initialized
+0	16:28:36.111	time_table USDJPY.pro,M30: initialized
+0	16:28:36.111	PTL_Sessions USDJPY.pro,M30: initialized
+0	16:28:36.133	PTL_EA USDJPY.pro,M30: initialized
+0	16:30:42.438	PTL_EA USDJPY.pro,M30: uninit reason 3
+0	16:30:42.439	pipsometer_5_decimal USDJPY.pro,M30: uninit reason 3
+0	16:30:42.439	time_table USDJPY.pro,M30: uninit reason 3
+0	16:30:42.439	PTL_Sessions USDJPY.pro,M30: uninit reason 3
+0	16:30:42.439	pipsometer_5_decimal USDJPY.pro,M15: initialized
+0	16:30:42.444	time_table USDJPY.pro,M15: initialized
+0	16:30:42.445	PTL_Sessions USDJPY.pro,M15: initialized
+0	16:30:42.500	PTL_EA USDJPY.pro,M15: initialized
+0	17:18:10.914	PTL_EA XAUUSD.pro,M15: uninit reason 3
+0	17:18:10.916	pipsometer_5_decimal XAUUSD.pro,M15: uninit reason 3
+0	17:18:10.916	time_table XAUUSD.pro,M15: uninit reason 3
+0	17:18:10.916	PTL_Sessions XAUUSD.pro,M15: uninit reason 3
+0	17:18:10.916	pipsometer_5_decimal XAUUSD.pro,M5: initialized
+0	17:18:10.917	time_table XAUUSD.pro,M5: initialized
+0	17:18:10.917	PTL_Sessions XAUUSD.pro,M5: initialized
+0	17:18:10.940	PTL_EA XAUUSD.pro,M5: initialized
+0	17:19:28.624	PTL_EA GBPJPY.pro,M15: uninit reason 3
+0	17:19:28.626	pipsometer_5_decimal GBPJPY.pro,M15: uninit reason 3
+0	17:19:28.626	time_table GBPJPY.pro,M15: uninit reason 3
+0	17:19:28.626	PTL_Sessions GBPJPY.pro,M15: uninit reason 3
+0	17:19:28.628	pipsometer_5_decimal GBPJPY.pro,M5: initialized
+0	17:19:28.629	time_table GBPJPY.pro,M5: initialized
+0	17:19:28.629	PTL_Sessions GBPJPY.pro,M5: initialized
+0	17:19:28.659	PTL_EA GBPJPY.pro,M5: initialized
+0	17:19:30.640	PTL_EA GBPJPY.pro,M5: uninit reason 3
+0	17:19:30.642	pipsometer_5_decimal GBPJPY.pro,M5: uninit reason 3
+0	17:19:30.642	time_table GBPJPY.pro,M5: uninit reason 3
+0	17:19:30.642	PTL_Sessions GBPJPY.pro,M5: uninit reason 3
+0	17:19:30.642	pipsometer_5_decimal GBPJPY.pro,M15: initialized
+0	17:19:30.642	time_table GBPJPY.pro,M15: initialized
+0	17:19:30.643	PTL_Sessions GBPJPY.pro,M15: initialized
+0	17:19:30.671	PTL_EA GBPJPY.pro,M15: initialized
+0	17:31:07.743	PTL_EA USDCHF.pro,M30: uninit reason 3
+0	17:31:07.745	pipsometer_5_decimal USDCHF.pro,M30: uninit reason 3
+0	17:31:07.745	time_table USDCHF.pro,M30: uninit reason 3
+0	17:31:07.745	PTL_Sessions USDCHF.pro,M30: uninit reason 3
+0	17:31:07.745	pipsometer_5_decimal USDCHF.pro,M15: initialized
+0	17:31:07.745	time_table USDCHF.pro,M15: initialized
+0	17:31:07.745	PTL_Sessions USDCHF.pro,M15: initialized
+0	17:31:07.770	PTL_EA USDCHF.pro,M15: initialized
+0	17:35:55.680	PTL_EA GBPUSD.pro,M15: uninit reason 3
+0	17:35:55.682	pipsometer_5_decimal GBPUSD.pro,M15: uninit reason 3
+0	17:35:55.682	time_table GBPUSD.pro,M15: uninit reason 3
+0	17:35:55.682	PTL_Sessions GBPUSD.pro,M15: uninit reason 3
+0	17:35:55.682	pipsometer_5_decimal GBPUSD.pro,M30: initialized
+0	17:35:55.682	time_table GBPUSD.pro,M30: initialized
+0	17:35:55.682	PTL_Sessions GBPUSD.pro,M30: initialized
+0	17:35:55.709	PTL_EA GBPUSD.pro,M30: initialized
+0	17:36:08.737	PTL_EA GBPUSD.pro,M30: uninit reason 3
+0	17:36:08.739	pipsometer_5_decimal GBPUSD.pro,M30: uninit reason 3
+0	17:36:08.739	time_table GBPUSD.pro,M30: uninit reason 3
+0	17:36:08.739	PTL_Sessions GBPUSD.pro,M30: uninit reason 3
+0	17:36:08.739	pipsometer_5_decimal GBPUSD.pro,H1: initialized
+0	17:36:08.739	time_table GBPUSD.pro,H1: initialized
+0	17:36:08.739	PTL_Sessions GBPUSD.pro,H1: initialized
+0	17:36:08.765	PTL_EA GBPUSD.pro,H1: initialized
+0	17:39:29.880	PTL_EA GBPUSD.pro,H1: uninit reason 3
+0	17:39:29.882	pipsometer_5_decimal GBPUSD.pro,H1: uninit reason 3
+0	17:39:29.882	time_table GBPUSD.pro,H1: uninit reason 3
+0	17:39:29.882	PTL_Sessions GBPUSD.pro,H1: uninit reason 3
+0	17:39:29.882	pipsometer_5_decimal GBPUSD.pro,M15: initialized
+0	17:39:29.882	time_table GBPUSD.pro,M15: initialized
+0	17:39:29.882	PTL_Sessions GBPUSD.pro,M15: initialized
+0	17:39:29.907	PTL_EA GBPUSD.pro,M15: initialized
+0	17:48:39.223	PTL_EA GBPUSD.pro,M15: uninit reason 3
+0	17:48:39.225	pipsometer_5_decimal GBPUSD.pro,M15: uninit reason 3
+0	17:48:39.225	time_table GBPUSD.pro,M15: uninit reason 3
+0	17:48:39.225	PTL_Sessions GBPUSD.pro,M15: uninit reason 3
+0	17:48:39.225	pipsometer_5_decimal GBPUSD.pro,M5: initialized
+0	17:48:39.226	time_table GBPUSD.pro,M5: initialized
+0	17:48:39.226	PTL_Sessions GBPUSD.pro,M5: initialized
+0	17:48:39.259	PTL_EA GBPUSD.pro,M5: initialized
+0	17:49:03.925	PTL_EA GBPUSD.pro,M5: uninit reason 3
+0	17:49:03.927	pipsometer_5_decimal GBPUSD.pro,M5: uninit reason 3
+0	17:49:03.927	time_table GBPUSD.pro,M5: uninit reason 3
+0	17:49:03.927	PTL_Sessions GBPUSD.pro,M5: uninit reason 3
+0	17:49:03.927	pipsometer_5_decimal GBPUSD.pro,M15: initialized
+0	17:49:03.927	time_table GBPUSD.pro,M15: initialized
+0	17:49:03.927	PTL_Sessions GBPUSD.pro,M15: initialized
+0	17:49:03.955	PTL_EA GBPUSD.pro,M15: initialized
+0	17:54:40.275	PTL_EA GBPUSD.pro,M15: uninit reason 3
+0	17:54:40.277	pipsometer_5_decimal GBPUSD.pro,M15: uninit reason 3
+0	17:54:40.277	time_table GBPUSD.pro,M15: uninit reason 3
+0	17:54:40.277	PTL_Sessions GBPUSD.pro,M15: uninit reason 3
+0	17:54:40.277	pipsometer_5_decimal GBPUSD.pro,M5: initialized
+0	17:54:40.277	time_table GBPUSD.pro,M5: initialized
+0	17:54:40.277	PTL_Sessions GBPUSD.pro,M5: initialized
+0	17:54:40.302	PTL_EA GBPUSD.pro,M5: initialized
+0	17:54:41.260	PTL_EA GBPUSD.pro,M5: uninit reason 3
+0	17:54:41.263	pipsometer_5_decimal GBPUSD.pro,M5: uninit reason 3
+0	17:54:41.263	time_table GBPUSD.pro,M5: uninit reason 3
+0	17:54:41.263	PTL_Sessions GBPUSD.pro,M5: uninit reason 3
+0	17:54:41.263	pipsometer_5_decimal GBPUSD.pro,M15: initialized
+0	17:54:41.263	time_table GBPUSD.pro,M15: initialized
+0	17:54:41.263	PTL_Sessions GBPUSD.pro,M15: initialized
+0	17:54:41.290	PTL_EA GBPUSD.pro,M15: initialized
+0	18:00:38.481	PTL_EA GBPUSD.pro,M15: uninit reason 3
+0	18:00:38.483	pipsometer_5_decimal GBPUSD.pro,M15: uninit reason 3
+0	18:00:38.483	time_table GBPUSD.pro,M15: uninit reason 3
+0	18:00:38.483	PTL_Sessions GBPUSD.pro,M15: uninit reason 3
+0	18:00:38.483	pipsometer_5_decimal GBPUSD.pro,M5: initialized
+0	18:00:38.483	time_table GBPUSD.pro,M5: initialized
+0	18:00:38.484	PTL_Sessions GBPUSD.pro,M5: initialized
+0	18:00:38.532	PTL_EA GBPUSD.pro,M5: initialized
+0	18:03:53.466	PTL_EA GBPUSD.pro,M5: uninit reason 3
+0	18:03:53.468	pipsometer_5_decimal GBPUSD.pro,M5: uninit reason 3
+0	18:03:53.468	time_table GBPUSD.pro,M5: uninit reason 3
+0	18:03:53.468	PTL_Sessions GBPUSD.pro,M5: uninit reason 3
+0	18:03:53.468	pipsometer_5_decimal GBPUSD.pro,M15: initialized
+0	18:03:53.468	time_table GBPUSD.pro,M15: initialized
+0	18:03:53.468	PTL_Sessions GBPUSD.pro,M15: initialized
+0	18:03:53.495	PTL_EA GBPUSD.pro,M15: initialized
+0	18:45:28.710	PTL_EA EURUSD.pro,M15: uninit reason 3
+0	18:45:28.712	pipsometer_5_decimal EURUSD.pro,M15: uninit reason 3
+0	18:45:28.712	time_table EURUSD.pro,M15: uninit reason 3
+0	18:45:28.712	PTL_Sessions EURUSD.pro,M15: uninit reason 3
+0	18:45:28.712	pipsometer_5_decimal EURUSD.pro,M30: initialized
+0	18:45:28.724	time_table EURUSD.pro,M30: initialized
+0	18:45:28.724	PTL_Sessions EURUSD.pro,M30: initialized
+0	18:45:28.754	PTL_EA EURUSD.pro,M30: initialized
+0	18:45:29.516	PTL_EA EURUSD.pro,M30: uninit reason 3
+0	18:45:29.518	pipsometer_5_decimal EURUSD.pro,M30: uninit reason 3
+0	18:45:29.518	time_table EURUSD.pro,M30: uninit reason 3
+0	18:45:29.518	PTL_Sessions EURUSD.pro,M30: uninit reason 3
+0	18:45:29.518	pipsometer_5_decimal EURUSD.pro,M15: initialized
+0	18:45:29.518	time_table EURUSD.pro,M15: initialized
+0	18:45:29.519	PTL_Sessions EURUSD.pro,M15: initialized
+0	18:45:29.543	PTL_EA EURUSD.pro,M15: initialized
+0	18:47:40.397	PTL_EA EURUSD.pro,M15: uninit reason 3
+0	18:47:40.399	pipsometer_5_decimal EURUSD.pro,M15: uninit reason 3
+0	18:47:40.399	time_table EURUSD.pro,M15: uninit reason 3
+0	18:47:40.399	PTL_Sessions EURUSD.pro,M15: uninit reason 3
+0	18:47:40.399	pipsometer_5_decimal EURUSD.pro,M30: initialized
+0	18:47:40.399	time_table EURUSD.pro,M30: initialized
+0	18:47:40.399	PTL_Sessions EURUSD.pro,M30: initialized
+0	18:47:40.422	PTL_EA EURUSD.pro,M30: initialized
+0	18:47:41.005	PTL_EA EURUSD.pro,M30: uninit reason 3
+0	18:47:41.007	pipsometer_5_decimal EURUSD.pro,M30: uninit reason 3
+0	18:47:41.007	time_table EURUSD.pro,M30: uninit reason 3
+0	18:47:41.007	PTL_Sessions EURUSD.pro,M30: uninit reason 3
+0	18:47:41.007	pipsometer_5_decimal EURUSD.pro,M15: initialized
+0	18:47:41.007	time_table EURUSD.pro,M15: initialized
+0	18:47:41.007	PTL_Sessions EURUSD.pro,M15: initialized
+0	18:47:41.033	PTL_EA EURUSD.pro,M15: initialized
+0	18:47:57.035	PTL_EA EURJPY.pro,M15: uninit reason 3
+0	18:47:57.037	pipsometer_5_decimal EURJPY.pro,M15: uninit reason 3
+0	18:47:57.037	time_table EURJPY.pro,M15: uninit reason 3
+0	18:47:57.037	PTL_Sessions EURJPY.pro,M15: uninit reason 3
+0	18:47:57.037	pipsometer_5_decimal EURJPY.pro,M30: initialized
+0	18:47:57.037	time_table EURJPY.pro,M30: initialized
+0	18:47:57.038	PTL_Sessions EURJPY.pro,M30: initialized
+0	18:47:57.066	PTL_EA EURJPY.pro,M30: initialized
+0	18:47:58.487	PTL_EA EURJPY.pro,M30: uninit reason 3
+0	18:47:58.489	pipsometer_5_decimal EURJPY.pro,M30: uninit reason 3
+0	18:47:58.489	time_table EURJPY.pro,M30: uninit reason 3
+0	18:47:58.489	PTL_Sessions EURJPY.pro,M30: uninit reason 3
+0	18:47:58.489	pipsometer_5_decimal EURJPY.pro,H1: initialized
+0	18:47:58.489	time_table EURJPY.pro,H1: initialized
+0	18:47:58.489	PTL_Sessions EURJPY.pro,H1: initialized
+0	18:47:58.515	PTL_EA EURJPY.pro,H1: initialized
+0	18:48:22.288	PTL_EA EURJPY.pro,H1: uninit reason 3
+0	18:48:22.290	pipsometer_5_decimal EURJPY.pro,H1: uninit reason 3
+0	18:48:22.290	time_table EURJPY.pro,H1: uninit reason 3
+0	18:48:22.290	PTL_Sessions EURJPY.pro,H1: uninit reason 3
+0	18:48:22.290	pipsometer_5_decimal EURJPY.pro,M15: initialized
+0	18:48:22.290	time_table EURJPY.pro,M15: initialized
+0	18:48:22.290	PTL_Sessions EURJPY.pro,M15: initialized
+0	18:48:22.316	PTL_EA EURJPY.pro,M15: initialized
+0	18:49:28.064	PTL_EA GBPUSD.pro,M15: uninit reason 3
+0	18:49:28.066	pipsometer_5_decimal GBPUSD.pro,M15: uninit reason 3
+0	18:49:28.066	time_table GBPUSD.pro,M15: uninit reason 3
+0	18:49:28.066	PTL_Sessions GBPUSD.pro,M15: uninit reason 3
+0	18:49:28.066	pipsometer_5_decimal GBPUSD.pro,M30: initialized
+0	18:49:28.066	time_table GBPUSD.pro,M30: initialized
+0	18:49:28.066	PTL_Sessions GBPUSD.pro,M30: initialized
+0	18:49:28.094	PTL_EA GBPUSD.pro,M30: initialized
+0	18:49:29.262	PTL_EA GBPUSD.pro,M30: uninit reason 3
+0	18:49:29.264	pipsometer_5_decimal GBPUSD.pro,M30: uninit reason 3
+0	18:49:29.264	time_table GBPUSD.pro,M30: uninit reason 3
+0	18:49:29.264	PTL_Sessions GBPUSD.pro,M30: uninit reason 3
+0	18:49:29.264	pipsometer_5_decimal GBPUSD.pro,H1: initialized
+0	18:49:29.264	time_table GBPUSD.pro,H1: initialized
+0	18:49:29.264	PTL_Sessions GBPUSD.pro,H1: initialized
+0	18:49:29.288	PTL_EA GBPUSD.pro,H1: initialized
+0	18:50:25.116	PTL_EA GBPUSD.pro,H1: uninit reason 3
+0	18:50:25.118	pipsometer_5_decimal GBPUSD.pro,H1: uninit reason 3
+0	18:50:25.118	time_table GBPUSD.pro,H1: uninit reason 3
+0	18:50:25.118	PTL_Sessions GBPUSD.pro,H1: uninit reason 3
+0	18:50:25.118	pipsometer_5_decimal GBPUSD.pro,M30: initialized
+0	18:50:25.118	time_table GBPUSD.pro,M30: initialized
+0	18:50:25.118	PTL_Sessions GBPUSD.pro,M30: initialized
+0	18:50:25.142	PTL_EA GBPUSD.pro,M30: initialized
+0	18:50:58.032	PTL_EA GBPUSD.pro,M30: uninit reason 3
+0	18:50:58.033	pipsometer_5_decimal GBPUSD.pro,M30: uninit reason 3
+0	18:50:58.033	time_table GBPUSD.pro,M30: uninit reason 3
+0	18:50:58.033	PTL_Sessions GBPUSD.pro,M30: uninit reason 3
+0	18:50:58.033	pipsometer_5_decimal GBPUSD.pro,M15: initialized
+0	18:50:58.033	time_table GBPUSD.pro,M15: initialized
+0	18:50:58.034	PTL_Sessions GBPUSD.pro,M15: initialized
+0	18:50:58.056	PTL_EA GBPUSD.pro,M15: initialized
+0	18:54:01.966	PTL_EA EURUSD.pro,M15: uninit reason 3
+0	18:54:01.968	pipsometer_5_decimal EURUSD.pro,M15: uninit reason 3
+0	18:54:01.968	time_table EURUSD.pro,M15: uninit reason 3
+0	18:54:01.968	PTL_Sessions EURUSD.pro,M15: uninit reason 3
+0	18:54:01.968	pipsometer_5_decimal EURUSD.pro,M30: initialized
+0	18:54:01.968	time_table EURUSD.pro,M30: initialized
+0	18:54:01.968	PTL_Sessions EURUSD.pro,M30: initialized
+0	18:54:01.994	PTL_EA EURUSD.pro,M30: initialized
+0	18:55:37.882	PTL_EA EURUSD.pro,M30: uninit reason 3
+0	18:55:37.884	pipsometer_5_decimal EURUSD.pro,M30: uninit reason 3
+0	18:55:37.884	time_table EURUSD.pro,M30: uninit reason 3
+0	18:55:37.884	PTL_Sessions EURUSD.pro,M30: uninit reason 3
+0	18:55:37.884	pipsometer_5_decimal EURUSD.pro,M15: initialized
+0	18:55:37.884	time_table EURUSD.pro,M15: initialized
+0	18:55:37.884	PTL_Sessions EURUSD.pro,M15: initialized
+0	18:55:37.911	PTL_EA EURUSD.pro,M15: initialized
+0	19:00:21.043	PTL_EA GBPJPY.pro,M15: uninit reason 3
+0	19:00:21.045	pipsometer_5_decimal GBPJPY.pro,M15: uninit reason 3
+0	19:00:21.045	time_table GBPJPY.pro,M15: uninit reason 3
+0	19:00:21.045	PTL_Sessions GBPJPY.pro,M15: uninit reason 3
+0	19:00:21.045	pipsometer_5_decimal GBPJPY.pro,M30: initialized
+0	19:00:21.046	time_table GBPJPY.pro,M30: initialized
+0	19:00:21.046	PTL_Sessions GBPJPY.pro,M30: initialized
+0	19:00:21.075	PTL_EA GBPJPY.pro,M30: initialized
+0	19:00:23.306	PTL_EA GBPJPY.pro,M30: uninit reason 3
+0	19:00:23.308	pipsometer_5_decimal GBPJPY.pro,M30: uninit reason 3
+0	19:00:23.308	time_table GBPJPY.pro,M30: uninit reason 3
+0	19:00:23.308	PTL_Sessions GBPJPY.pro,M30: uninit reason 3
+0	19:00:23.308	pipsometer_5_decimal GBPJPY.pro,M15: initialized
+0	19:00:23.308	time_table GBPJPY.pro,M15: initialized
+0	19:00:23.309	PTL_Sessions GBPJPY.pro,M15: initialized
+0	19:00:23.340	PTL_EA GBPJPY.pro,M15: initialized
+0	19:03:27.916	PTL_EA EURUSD.pro,M15: uninit reason 3
+0	19:03:27.918	pipsometer_5_decimal EURUSD.pro,M15: uninit reason 3
+0	19:03:27.918	time_table EURUSD.pro,M15: uninit reason 3
+0	19:03:27.918	PTL_Sessions EURUSD.pro,M15: uninit reason 3
+0	19:03:27.918	pipsometer_5_decimal EURUSD.pro,M30: initialized
+0	19:03:27.918	time_table EURUSD.pro,M30: initialized
+0	19:03:27.918	PTL_Sessions EURUSD.pro,M30: initialized
+0	19:03:27.942	PTL_EA EURUSD.pro,M30: initialized
+0	19:06:42.097	PTL_EA EURUSD.pro,M30: uninit reason 3
+0	19:06:42.099	pipsometer_5_decimal EURUSD.pro,M30: uninit reason 3
+0	19:06:42.099	time_table EURUSD.pro,M30: uninit reason 3
+0	19:06:42.099	PTL_Sessions EURUSD.pro,M30: uninit reason 3
+0	19:06:42.099	pipsometer_5_decimal EURUSD.pro,M15: initialized
+0	19:06:42.099	time_table EURUSD.pro,M15: initialized
+0	19:06:42.099	PTL_Sessions EURUSD.pro,M15: initialized
+0	19:06:42.126	PTL_EA EURUSD.pro,M15: initialized
+0	19:06:59.363	PTL_EA XAUUSD.pro,M5: uninit reason 3
+0	19:06:59.365	pipsometer_5_decimal XAUUSD.pro,M5: uninit reason 3
+0	19:06:59.365	time_table XAUUSD.pro,M5: uninit reason 3
+0	19:06:59.365	PTL_Sessions XAUUSD.pro,M5: uninit reason 3
+0	19:06:59.365	pipsometer_5_decimal XAUUSD.pro,M15: initialized
+0	19:06:59.366	time_table XAUUSD.pro,M15: initialized
+0	19:06:59.366	PTL_Sessions XAUUSD.pro,M15: initialized
+0	19:06:59.395	PTL_EA XAUUSD.pro,M15: initialized
+0	19:10:05.204	PTL_EA GBPJPY.pro,M15: uninit reason 3
+0	19:10:05.206	pipsometer_5_decimal GBPJPY.pro,M15: uninit reason 3
+0	19:10:05.206	time_table GBPJPY.pro,M15: uninit reason 3
+0	19:10:05.206	PTL_Sessions GBPJPY.pro,M15: uninit reason 3
+0	19:10:05.208	pipsometer_5_decimal GBPJPY.pro,M5: initialized
+0	19:10:05.209	time_table GBPJPY.pro,M5: initialized
+0	19:10:05.209	PTL_Sessions GBPJPY.pro,M5: initialized
+0	19:10:05.253	PTL_EA GBPJPY.pro,M5: initialized
+0	19:10:12.529	PTL_EA GBPJPY.pro,M5: uninit reason 3
+0	19:10:12.532	pipsometer_5_decimal GBPJPY.pro,M5: uninit reason 3
+0	19:10:12.532	time_table GBPJPY.pro,M5: uninit reason 3
+0	19:10:12.532	PTL_Sessions GBPJPY.pro,M5: uninit reason 3
+0	19:10:12.532	pipsometer_5_decimal GBPJPY.pro,M15: initialized
+0	19:10:12.532	time_table GBPJPY.pro,M15: initialized
+0	19:10:12.533	PTL_Sessions GBPJPY.pro,M15: initialized
+0	19:10:12.555	PTL_EA GBPJPY.pro,M15: initialized
+0	19:12:41.494	PTL_EA GBPJPY.pro,M15: uninit reason 3
+0	19:12:41.494	pipsometer_5_decimal GBPJPY.pro,M15: uninit reason 3
+0	19:12:41.494	time_table GBPJPY.pro,M15: uninit reason 3
+0	19:12:41.494	PTL_Sessions GBPJPY.pro,M15: uninit reason 3
+0	19:12:41.494	pipsometer_5_decimal GBPJPY.pro,M5: initialized
+0	19:12:41.494	time_table GBPJPY.pro,M5: initialized
+0	19:12:41.495	PTL_Sessions GBPJPY.pro,M5: initialized
+0	19:12:41.524	PTL_EA GBPJPY.pro,M5: initialized
+0	19:12:49.352	PTL_EA GBPJPY.pro,M5: uninit reason 3
+0	19:12:49.354	pipsometer_5_decimal GBPJPY.pro,M5: uninit reason 3
+0	19:12:49.354	time_table GBPJPY.pro,M5: uninit reason 3
+0	19:12:49.354	PTL_Sessions GBPJPY.pro,M5: uninit reason 3
+0	19:12:49.354	pipsometer_5_decimal GBPJPY.pro,M15: initialized
+0	19:12:49.354	time_table GBPJPY.pro,M15: initialized
+0	19:12:49.355	PTL_Sessions GBPJPY.pro,M15: initialized
+0	19:12:49.384	PTL_EA GBPJPY.pro,M15: initialized
+0	19:32:42.854	PTL_EA EURUSD.pro,M15: uninit reason 3
+0	19:32:42.856	pipsometer_5_decimal EURUSD.pro,M15: uninit reason 3
+0	19:32:42.856	time_table EURUSD.pro,M15: uninit reason 3
+0	19:32:42.856	PTL_Sessions EURUSD.pro,M15: uninit reason 3
+0	19:32:42.856	pipsometer_5_decimal EURUSD.pro,M30: initialized
+0	19:32:42.856	time_table EURUSD.pro,M30: initialized
+0	19:32:42.856	PTL_Sessions EURUSD.pro,M30: initialized
+0	19:32:42.889	PTL_EA EURUSD.pro,M30: initialized
+0	19:32:43.345	PTL_EA EURUSD.pro,M30: uninit reason 3
+0	19:32:43.347	pipsometer_5_decimal EURUSD.pro,M30: uninit reason 3
+0	19:32:43.347	time_table EURUSD.pro,M30: uninit reason 3
+0	19:32:43.347	PTL_Sessions EURUSD.pro,M30: uninit reason 3
+0	19:32:43.347	pipsometer_5_decimal EURUSD.pro,M15: initialized
+0	19:32:43.348	time_table EURUSD.pro,M15: initialized
+0	19:32:43.348	PTL_Sessions EURUSD.pro,M15: initialized
+0	19:32:43.378	PTL_EA EURUSD.pro,M15: initialized
+0	19:32:43.803	PTL_EA EURUSD.pro,M15: uninit reason 3
+0	19:32:43.805	pipsometer_5_decimal EURUSD.pro,M15: uninit reason 3
+0	19:32:43.805	time_table EURUSD.pro,M15: uninit reason 3
+0	19:32:43.805	PTL_Sessions EURUSD.pro,M15: uninit reason 3
+0	19:32:43.805	pipsometer_5_decimal EURUSD.pro,M5: initialized
+0	19:32:43.806	time_table EURUSD.pro,M5: initialized
+0	19:32:43.806	PTL_Sessions EURUSD.pro,M5: initialized
+0	19:32:43.835	PTL_EA EURUSD.pro,M5: initialized
+0	19:32:44.560	PTL_EA EURUSD.pro,M5: uninit reason 3
+0	19:32:44.562	pipsometer_5_decimal EURUSD.pro,M5: uninit reason 3
+0	19:32:44.562	time_table EURUSD.pro,M5: uninit reason 3
+0	19:32:44.562	PTL_Sessions EURUSD.pro,M5: uninit reason 3
+0	19:32:44.562	pipsometer_5_decimal EURUSD.pro,M15: initialized
+0	19:32:44.562	time_table EURUSD.pro,M15: initialized
+0	19:32:44.562	PTL_Sessions EURUSD.pro,M15: initialized
+0	19:32:44.586	PTL_EA EURUSD.pro,M15: initialized
+0	19:34:08.633	PTL_EA GBPUSD.pro,M15: uninit reason 3
+0	19:34:08.635	pipsometer_5_decimal GBPUSD.pro,M15: uninit reason 3
+0	19:34:08.635	time_table GBPUSD.pro,M15: uninit reason 3
+0	19:34:08.635	PTL_Sessions GBPUSD.pro,M15: uninit reason 3
+0	19:34:08.635	pipsometer_5_decimal GBPUSD.pro,M30: initialized
+0	19:34:08.635	time_table GBPUSD.pro,M30: initialized
+0	19:34:08.635	PTL_Sessions GBPUSD.pro,M30: initialized
+0	19:34:08.659	PTL_EA GBPUSD.pro,M30: initialized
+0	19:34:12.009	PTL_EA GBPUSD.pro,M30: uninit reason 3
+0	19:34:12.011	pipsometer_5_decimal GBPUSD.pro,M30: uninit reason 3
+0	19:34:12.011	time_table GBPUSD.pro,M30: uninit reason 3
+0	19:34:12.011	PTL_Sessions GBPUSD.pro,M30: uninit reason 3
+0	19:34:12.011	pipsometer_5_decimal GBPUSD.pro,M15: initialized
+0	19:34:12.011	time_table GBPUSD.pro,M15: initialized
+0	19:34:12.011	PTL_Sessions GBPUSD.pro,M15: initialized
+0	19:34:12.042	PTL_EA GBPUSD.pro,M15: initialized
+0	19:38:03.832	PTL_EA GBPUSD.pro,M15: uninit reason 3
+0	19:38:03.834	pipsometer_5_decimal GBPUSD.pro,M15: uninit reason 3
+0	19:38:03.834	time_table GBPUSD.pro,M15: uninit reason 3
+0	19:38:03.834	PTL_Sessions GBPUSD.pro,M15: uninit reason 3
+0	19:38:03.835	pipsometer_5_decimal GBPUSD.pro,M30: initialized
+0	19:38:03.837	time_table GBPUSD.pro,M30: initialized
+0	19:38:03.837	PTL_Sessions GBPUSD.pro,M30: initialized
+0	19:38:03.863	PTL_EA GBPUSD.pro,M30: initialized
+0	19:38:08.170	PTL_EA GBPUSD.pro,M30: uninit reason 3
+0	19:38:08.172	pipsometer_5_decimal GBPUSD.pro,M30: uninit reason 3
+0	19:38:08.172	time_table GBPUSD.pro,M30: uninit reason 3
+0	19:38:08.172	PTL_Sessions GBPUSD.pro,M30: uninit reason 3
+0	19:38:08.172	pipsometer_5_decimal GBPUSD.pro,H1: initialized
+0	19:38:08.172	time_table GBPUSD.pro,H1: initialized
+0	19:38:08.172	PTL_Sessions GBPUSD.pro,H1: initialized
+0	19:38:08.214	PTL_EA GBPUSD.pro,H1: initialized
+0	19:38:36.012	PTL_EA GBPUSD.pro,H1: uninit reason 3
+0	19:38:36.014	pipsometer_5_decimal GBPUSD.pro,H1: uninit reason 3
+0	19:38:36.014	time_table GBPUSD.pro,H1: uninit reason 3
+0	19:38:36.014	PTL_Sessions GBPUSD.pro,H1: uninit reason 3
+0	19:38:36.014	pipsometer_5_decimal GBPUSD.pro,M15: initialized
+0	19:38:36.014	time_table GBPUSD.pro,M15: initialized
+0	19:38:36.014	PTL_Sessions GBPUSD.pro,M15: initialized
+0	19:38:36.059	PTL_EA GBPUSD.pro,M15: initialized
+0	19:43:38.793	PTL_EA GBPUSD.pro,M15: uninit reason 3
+0	19:43:38.795	pipsometer_5_decimal GBPUSD.pro,M15: uninit reason 3
+0	19:43:38.795	time_table GBPUSD.pro,M15: uninit reason 3
+0	19:43:38.795	PTL_Sessions GBPUSD.pro,M15: uninit reason 3
+0	19:43:38.795	pipsometer_5_decimal GBPUSD.pro,M30: initialized
+0	19:43:38.795	time_table GBPUSD.pro,M30: initialized
+0	19:43:38.795	PTL_Sessions GBPUSD.pro,M30: initialized
+0	19:43:38.821	PTL_EA GBPUSD.pro,M30: initialized
+0	19:43:42.534	PTL_EA GBPUSD.pro,M30: uninit reason 3
+0	19:43:42.536	pipsometer_5_decimal GBPUSD.pro,M30: uninit reason 3
+0	19:43:42.536	time_table GBPUSD.pro,M30: uninit reason 3
+0	19:43:42.536	PTL_Sessions GBPUSD.pro,M30: uninit reason 3
+0	19:43:42.536	pipsometer_5_decimal GBPUSD.pro,M15: initialized
+0	19:43:42.536	time_table GBPUSD.pro,M15: initialized
+0	19:43:42.536	PTL_Sessions GBPUSD.pro,M15: initialized
+0	19:43:42.564	PTL_EA GBPUSD.pro,M15: initialized
+0	19:44:57.537	PTL_EA GBPJPY.pro,M15: uninit reason 3
+0	19:44:57.539	pipsometer_5_decimal GBPJPY.pro,M15: uninit reason 3
+0	19:44:57.539	time_table GBPJPY.pro,M15: uninit reason 3
+0	19:44:57.539	PTL_Sessions GBPJPY.pro,M15: uninit reason 3
+0	19:44:57.539	pipsometer_5_decimal GBPJPY.pro,M30: initialized
+0	19:44:57.539	time_table GBPJPY.pro,M30: initialized
+0	19:44:57.540	PTL_Sessions GBPJPY.pro,M30: initialized
+0	19:44:57.564	PTL_EA GBPJPY.pro,M30: initialized
+0	19:44:58.039	PTL_EA GBPJPY.pro,M30: uninit reason 3
+0	19:44:58.041	pipsometer_5_decimal GBPJPY.pro,M30: uninit reason 3
+0	19:44:58.041	time_table GBPJPY.pro,M30: uninit reason 3
+0	19:44:58.041	PTL_Sessions GBPJPY.pro,M30: uninit reason 3
+0	19:44:58.041	pipsometer_5_decimal GBPJPY.pro,M15: initialized
+0	19:44:58.041	time_table GBPJPY.pro,M15: initialized
+0	19:44:58.042	PTL_Sessions GBPJPY.pro,M15: initialized
+0	19:44:58.066	PTL_EA GBPJPY.pro,M15: initialized
+0	19:59:28.487	PTL_EA EURUSD.pro,M15: uninit reason 3
+0	19:59:28.489	pipsometer_5_decimal EURUSD.pro,M15: uninit reason 3
+0	19:59:28.489	time_table EURUSD.pro,M15: uninit reason 3
+0	19:59:28.489	PTL_Sessions EURUSD.pro,M15: uninit reason 3
+0	19:59:28.489	pipsometer_5_decimal EURUSD.pro,M30: initialized
+0	19:59:28.489	time_table EURUSD.pro,M30: initialized
+0	19:59:28.490	PTL_Sessions EURUSD.pro,M30: initialized
+0	19:59:28.513	PTL_EA EURUSD.pro,M30: initialized
+0	19:59:34.601	PTL_EA GBPUSD.pro,M15: uninit reason 3
+0	19:59:34.603	pipsometer_5_decimal GBPUSD.pro,M15: uninit reason 3
+0	19:59:34.603	time_table GBPUSD.pro,M15: uninit reason 3
+0	19:59:34.603	PTL_Sessions GBPUSD.pro,M15: uninit reason 3
+0	19:59:34.603	pipsometer_5_decimal GBPUSD.pro,M30: initialized
+0	19:59:34.603	time_table GBPUSD.pro,M30: initialized
+0	19:59:34.603	PTL_Sessions GBPUSD.pro,M30: initialized
+0	19:59:34.627	PTL_EA GBPUSD.pro,M30: initialized
+0	19:59:35.520	PTL_EA GBPUSD.pro,M30: uninit reason 3
+0	19:59:35.522	pipsometer_5_decimal GBPUSD.pro,M30: uninit reason 3
+0	19:59:35.522	time_table GBPUSD.pro,M30: uninit reason 3
+0	19:59:35.522	PTL_Sessions GBPUSD.pro,M30: uninit reason 3
+0	19:59:35.522	pipsometer_5_decimal GBPUSD.pro,H1: initialized
+0	19:59:35.522	time_table GBPUSD.pro,H1: initialized
+0	19:59:35.522	PTL_Sessions GBPUSD.pro,H1: initialized
+0	19:59:35.547	PTL_EA GBPUSD.pro,H1: initialized
+0	20:05:07.896	PTL_EA GBPUSD.pro,H1: uninit reason 3
+0	20:05:07.898	pipsometer_5_decimal GBPUSD.pro,H1: uninit reason 3
+0	20:05:07.898	time_table GBPUSD.pro,H1: uninit reason 3
+0	20:05:07.898	PTL_Sessions GBPUSD.pro,H1: uninit reason 3
+0	20:05:07.898	pipsometer_5_decimal GBPUSD.pro,M15: initialized
+0	20:05:07.898	time_table GBPUSD.pro,M15: initialized
+0	20:05:07.898	PTL_Sessions GBPUSD.pro,M15: initialized
+0	20:05:07.921	PTL_EA GBPUSD.pro,M15: initialized
+0	20:06:25.985	PTL_EA XAUUSD.pro,M15: uninit reason 2
+0	20:06:26.006	Expert PTL_EA XAUUSD.pro,M15: removed
+0	20:06:26.036	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+0	20:06:26.037	PTL_EA EURUSD.pro,M30: uninit reason 2
+0	20:06:26.044	Expert PTL_EA EURUSD.pro,M30: removed
+0	20:06:26.066	Expert PTL_EA EURUSD.pro,M30: loaded successfully
+0	20:06:26.068	PTL_EA GBPUSD.pro,M15: uninit reason 2
+0	20:06:26.080	Expert PTL_EA GBPUSD.pro,M15: removed
+0	20:06:26.106	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+0	20:06:26.108	PTL_EA GBPJPY.pro,M15: uninit reason 2
+0	20:06:26.120	Expert PTL_EA GBPJPY.pro,M15: removed
+0	20:06:26.146	Expert PTL_EA GBPJPY.pro,M15: loaded successfully
+0	20:06:26.146	PTL_EA EURJPY.pro,M15: uninit reason 2
+0	20:06:26.158	Expert PTL_EA EURJPY.pro,M15: removed
+0	20:06:26.186	Expert PTL_EA EURJPY.pro,M15: loaded successfully
+0	20:06:26.187	PTL_EA USDJPY.pro,M15: uninit reason 2
+0	20:06:26.199	Expert PTL_EA USDJPY.pro,M15: removed
+0	20:06:26.223	Expert PTL_EA USDJPY.pro,M15: loaded successfully
+0	20:06:26.224	PTL_EA USDCHF.pro,M15: uninit reason 2
+0	20:06:26.253	Expert PTL_EA USDCHF.pro,M15: removed
+0	20:06:26.272	PTL_EA EURUSD.pro,M30: initialized
+0	20:06:26.274	PTL_EA GBPUSD.pro,M15: initialized
+0	20:06:26.274	PTL_EA XAUUSD.pro,M15: initialized
+0	20:06:26.298	Expert PTL_EA USDCHF.pro,M15: loaded successfully
+0	20:06:26.299	PTL_EA AUDUSD.pro,M15: uninit reason 2
+0	20:06:26.306	Expert PTL_EA AUDUSD.pro,M15: removed
+0	20:06:26.330	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+0	20:06:26.331	PTL_EA USDCAD.pro,M15: uninit reason 2
+0	20:06:26.338	Expert PTL_EA USDCAD.pro,M15: removed
+0	20:06:26.346	PTL_EA GBPJPY.pro,M15: initialized
+0	20:06:26.363	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+0	20:06:26.364	PTL_EA EURAUD.pro,M30: uninit reason 2
+0	20:06:26.371	Expert PTL_EA EURAUD.pro,M30: removed
+0	20:06:26.395	Expert PTL_EA EURAUD.pro,M30: loaded successfully
+0	20:06:26.396	PTL_EA GBPAUD.pro,M15: uninit reason 2
+0	20:06:26.424	Expert PTL_EA GBPAUD.pro,M15: removed
+0	20:06:26.441	PTL_EA USDJPY.pro,M15: initialized
+0	20:06:26.443	PTL_EA EURJPY.pro,M15: initialized
+0	20:06:26.464	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+0	20:06:26.507	PTL_EA USDCHF.pro,M15: initialized
+0	20:06:26.521	PTL_EA AUDUSD.pro,M15: initialized
+0	20:06:26.561	PTL_EA EURAUD.pro,M30: initialized
+0	20:06:26.594	PTL_EA USDCAD.pro,M15: initialized
+0	20:06:26.632	PTL_EA GBPAUD.pro,M15: initialized
+0	20:06:30.773	PTL_EA GBPUSD.pro,M15: uninit reason 3
+0	20:06:30.775	pipsometer_5_decimal GBPUSD.pro,M15: uninit reason 3
+0	20:06:30.775	time_table GBPUSD.pro,M15: uninit reason 3
+0	20:06:30.775	PTL_Sessions GBPUSD.pro,M15: uninit reason 3
+0	20:06:30.775	pipsometer_5_decimal GBPUSD.pro,M30: initialized
+0	20:06:30.775	time_table GBPUSD.pro,M30: initialized
+0	20:06:30.775	PTL_Sessions GBPUSD.pro,M30: initialized
+0	20:06:30.803	PTL_EA GBPUSD.pro,M30: initialized
+0	20:06:31.165	PTL_EA GBPUSD.pro,M30: uninit reason 3
+0	20:06:31.167	pipsometer_5_decimal GBPUSD.pro,M30: uninit reason 3
+0	20:06:31.167	time_table GBPUSD.pro,M30: uninit reason 3
+0	20:06:31.167	PTL_Sessions GBPUSD.pro,M30: uninit reason 3
+0	20:06:31.167	pipsometer_5_decimal GBPUSD.pro,M15: initialized
+0	20:06:31.167	time_table GBPUSD.pro,M15: initialized
+0	20:06:31.167	PTL_Sessions GBPUSD.pro,M15: initialized
+0	20:06:31.193	PTL_EA GBPUSD.pro,M15: initialized
+0	20:08:51.072	PTL_EA XAUUSD.pro,M15: uninit reason 2
+0	20:08:51.083	Expert PTL_EA XAUUSD.pro,M15: removed
+0	20:08:51.101	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+0	20:08:51.102	PTL_EA EURUSD.pro,M30: uninit reason 2
+0	20:08:51.111	Expert PTL_EA EURUSD.pro,M30: removed
+0	20:08:51.130	Expert PTL_EA EURUSD.pro,M30: loaded successfully
+0	20:08:51.130	PTL_EA GBPUSD.pro,M15: uninit reason 2
+0	20:08:51.140	Expert PTL_EA GBPUSD.pro,M15: removed
+0	20:08:51.162	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+0	20:08:51.162	PTL_EA GBPJPY.pro,M15: uninit reason 2
+0	20:08:51.174	Expert PTL_EA GBPJPY.pro,M15: removed
+0	20:08:51.197	Expert PTL_EA GBPJPY.pro,M15: loaded successfully
+0	20:08:51.198	PTL_EA EURJPY.pro,M15: uninit reason 2
+0	20:08:51.209	Expert PTL_EA EURJPY.pro,M15: removed
+0	20:08:51.231	Expert PTL_EA EURJPY.pro,M15: loaded successfully
+0	20:08:51.232	PTL_EA USDJPY.pro,M15: uninit reason 2
+0	20:08:51.248	Expert PTL_EA USDJPY.pro,M15: removed
+0	20:08:51.269	PTL_EA XAUUSD.pro,M15: initialized
+0	20:08:51.271	Expert PTL_EA USDJPY.pro,M15: loaded successfully
+0	20:08:51.272	PTL_EA USDCHF.pro,M15: uninit reason 2
+0	20:08:51.285	Expert PTL_EA USDCHF.pro,M15: removed
+0	20:08:51.307	Expert PTL_EA USDCHF.pro,M15: loaded successfully
+0	20:08:51.307	PTL_EA AUDUSD.pro,M15: uninit reason 2
+0	20:08:51.318	Expert PTL_EA AUDUSD.pro,M15: removed
+0	20:08:51.341	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+0	20:08:51.343	PTL_EA USDCAD.pro,M15: uninit reason 2
+0	20:08:51.357	Expert PTL_EA USDCAD.pro,M15: removed
+0	20:08:51.380	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+0	20:08:51.380	PTL_EA EURAUD.pro,M30: uninit reason 2
+0	20:08:51.386	PTL_EA EURUSD.pro,M30: initialized
+0	20:08:51.393	Expert PTL_EA EURAUD.pro,M30: removed
+0	20:08:51.415	Expert PTL_EA EURAUD.pro,M30: loaded successfully
+0	20:08:51.415	PTL_EA GBPAUD.pro,M15: uninit reason 2
+0	20:08:51.427	Expert PTL_EA GBPAUD.pro,M15: removed
+0	20:08:51.494	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+0	20:08:51.569	PTL_EA EURJPY.pro,M15: initialized
+0	20:08:51.575	PTL_EA GBPJPY.pro,M15: initialized
+0	20:08:51.582	PTL_EA USDCHF.pro,M15: initialized
+0	20:08:51.582	PTL_EA USDCAD.pro,M15: initialized
+0	20:08:51.584	PTL_EA AUDUSD.pro,M15: initialized
+0	20:08:51.587	PTL_EA GBPUSD.pro,M15: initialized
+0	20:08:51.594	PTL_EA USDJPY.pro,M15: initialized
+0	20:08:51.735	PTL_EA EURAUD.pro,M30: initialized
+0	20:08:51.773	PTL_EA GBPAUD.pro,M15: initialized
+0	20:10:34.367	PTL_EA XAUUSD.pro,M15: uninit reason 2
+0	20:10:34.373	Expert PTL_EA XAUUSD.pro,M15: removed
+0	20:10:34.393	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+0	20:10:34.394	PTL_EA EURUSD.pro,M30: uninit reason 2
+0	20:10:34.411	Expert PTL_EA EURUSD.pro,M30: removed
+0	20:10:34.430	Expert PTL_EA EURUSD.pro,M30: loaded successfully
+0	20:10:34.430	PTL_EA GBPUSD.pro,M15: uninit reason 2
+0	20:10:34.442	Expert PTL_EA GBPUSD.pro,M15: removed
+0	20:10:34.464	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+0	20:10:34.465	PTL_EA GBPJPY.pro,M15: uninit reason 2
+0	20:10:34.477	Expert PTL_EA GBPJPY.pro,M15: removed
+0	20:10:34.500	Expert PTL_EA GBPJPY.pro,M15: loaded successfully
+0	20:10:34.501	PTL_EA EURJPY.pro,M15: uninit reason 2
+0	20:10:34.513	Expert PTL_EA EURJPY.pro,M15: removed
+0	20:10:34.538	Expert PTL_EA EURJPY.pro,M15: loaded successfully
+0	20:10:34.539	PTL_EA USDJPY.pro,M15: uninit reason 2
+0	20:10:34.560	Expert PTL_EA USDJPY.pro,M15: removed
+0	20:10:34.585	Expert PTL_EA USDJPY.pro,M15: loaded successfully
+0	20:10:34.586	PTL_EA USDCHF.pro,M15: uninit reason 2
+0	20:10:34.603	Expert PTL_EA USDCHF.pro,M15: removed
+0	20:10:34.626	Expert PTL_EA USDCHF.pro,M15: loaded successfully
+0	20:10:34.627	PTL_EA AUDUSD.pro,M15: uninit reason 2
+0	20:10:34.644	Expert PTL_EA AUDUSD.pro,M15: removed
+0	20:10:34.674	PTL_EA EURUSD.pro,M30: initialized
+0	20:10:34.693	PTL_EA XAUUSD.pro,M15: initialized
+0	20:10:34.698	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+0	20:10:34.699	PTL_EA USDCAD.pro,M15: uninit reason 2
+0	20:10:34.707	Expert PTL_EA USDCAD.pro,M15: removed
+0	20:10:34.735	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+0	20:10:34.739	PTL_EA EURAUD.pro,M30: uninit reason 2
+0	20:10:34.739	PTL_EA EURJPY.pro,M15: initialized
+0	20:10:34.742	PTL_EA GBPJPY.pro,M15: initialized
+0	20:10:34.743	PTL_EA GBPUSD.pro,M15: initialized
+0	20:10:34.745	Expert PTL_EA EURAUD.pro,M30: removed
+0	20:10:34.764	PTL_EA USDJPY.pro,M15: initialized
+0	20:10:34.767	Expert PTL_EA EURAUD.pro,M30: loaded successfully
+0	20:10:34.767	PTL_EA GBPAUD.pro,M15: uninit reason 2
+0	20:10:34.773	Expert PTL_EA GBPAUD.pro,M15: removed
+0	20:10:34.794	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+0	20:10:35.000	PTL_EA USDCHF.pro,M15: initialized
+0	20:10:35.014	PTL_EA EURAUD.pro,M30: initialized
+0	20:10:35.040	PTL_EA GBPAUD.pro,M15: initialized
+0	20:10:35.048	PTL_EA AUDUSD.pro,M15: initialized
+0	20:10:35.102	PTL_EA USDCAD.pro,M15: initialized
+0	20:11:15.853	PTL_EA GBPUSD.pro,M15: uninit reason 3
+0	20:11:15.855	pipsometer_5_decimal GBPUSD.pro,M15: uninit reason 3
+0	20:11:15.855	time_table GBPUSD.pro,M15: uninit reason 3
+0	20:11:15.855	PTL_Sessions GBPUSD.pro,M15: uninit reason 3
+0	20:11:15.855	pipsometer_5_decimal GBPUSD.pro,M30: initialized
+0	20:11:15.855	time_table GBPUSD.pro,M30: initialized
+0	20:11:15.855	PTL_Sessions GBPUSD.pro,M30: initialized
+0	20:11:15.878	PTL_EA GBPUSD.pro,M30: initialized
+0	20:11:18.811	PTL_EA GBPUSD.pro,M30: uninit reason 3
+0	20:11:18.813	pipsometer_5_decimal GBPUSD.pro,M30: uninit reason 3
+0	20:11:18.813	time_table GBPUSD.pro,M30: uninit reason 3
+0	20:11:18.813	PTL_Sessions GBPUSD.pro,M30: uninit reason 3
+0	20:11:18.813	pipsometer_5_decimal GBPUSD.pro,M15: initialized
+0	20:11:18.813	time_table GBPUSD.pro,M15: initialized
+0	20:11:18.813	PTL_Sessions GBPUSD.pro,M15: initialized
+0	20:11:18.837	PTL_EA GBPUSD.pro,M15: initialized
+0	20:12:09.606	PTL_EA GBPJPY.pro,M15: uninit reason 3
+0	20:12:09.608	pipsometer_5_decimal GBPJPY.pro,M15: uninit reason 3
+0	20:12:09.608	time_table GBPJPY.pro,M15: uninit reason 3
+0	20:12:09.608	PTL_Sessions GBPJPY.pro,M15: uninit reason 3
+0	20:12:09.610	pipsometer_5_decimal GBPJPY.pro,M5: initialized
+0	20:12:09.610	time_table GBPJPY.pro,M5: initialized
+0	20:12:09.610	PTL_Sessions GBPJPY.pro,M5: initialized
+0	20:12:09.634	PTL_EA GBPJPY.pro,M5: initialized
+0	20:13:17.149	PTL_EA XAUUSD.pro,M15: uninit reason 2
+0	20:13:17.153	Expert PTL_EA XAUUSD.pro,M15: removed
+0	20:13:17.173	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+0	20:13:17.174	PTL_EA EURUSD.pro,M30: uninit reason 2
+0	20:13:17.185	Expert PTL_EA EURUSD.pro,M30: removed
+0	20:13:17.210	Expert PTL_EA EURUSD.pro,M30: loaded successfully
+0	20:13:17.211	PTL_EA GBPUSD.pro,M15: uninit reason 2
+0	20:13:17.226	Expert PTL_EA GBPUSD.pro,M15: removed
+0	20:13:17.250	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+0	20:13:17.251	PTL_EA GBPJPY.pro,M5: uninit reason 2
+0	20:13:17.263	Expert PTL_EA GBPJPY.pro,M5: removed
+0	20:13:17.286	Expert PTL_EA GBPJPY.pro,M5: loaded successfully
+0	20:13:17.287	PTL_EA EURJPY.pro,M15: uninit reason 2
+0	20:13:17.299	Expert PTL_EA EURJPY.pro,M15: removed
+0	20:13:17.323	Expert PTL_EA EURJPY.pro,M15: loaded successfully
+0	20:13:17.324	PTL_EA USDJPY.pro,M15: uninit reason 2
+0	20:13:17.338	Expert PTL_EA USDJPY.pro,M15: removed
+0	20:13:17.361	PTL_EA XAUUSD.pro,M15: initialized
+0	20:13:17.362	Expert PTL_EA USDJPY.pro,M15: loaded successfully
+0	20:13:17.362	PTL_EA USDCHF.pro,M15: uninit reason 2
+0	20:13:17.379	Expert PTL_EA USDCHF.pro,M15: removed
+0	20:13:17.404	PTL_EA GBPUSD.pro,M15: initialized
+0	20:13:17.408	Expert PTL_EA USDCHF.pro,M15: loaded successfully
+0	20:13:17.409	PTL_EA AUDUSD.pro,M15: uninit reason 2
+0	20:13:17.416	Expert PTL_EA AUDUSD.pro,M15: removed
+0	20:13:17.420	PTL_EA EURUSD.pro,M30: initialized
+0	20:13:17.442	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+0	20:13:17.443	PTL_EA USDCAD.pro,M15: uninit reason 2
+0	20:13:17.449	Expert PTL_EA USDCAD.pro,M15: removed
+0	20:13:17.472	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+0	20:13:17.473	PTL_EA EURAUD.pro,M30: uninit reason 2
+0	20:13:17.488	Expert PTL_EA EURAUD.pro,M30: removed
+0	20:13:17.510	Expert PTL_EA EURAUD.pro,M30: loaded successfully
+0	20:13:17.511	PTL_EA GBPAUD.pro,M15: uninit reason 2
+0	20:13:17.524	Expert PTL_EA GBPAUD.pro,M15: removed
+0	20:13:17.546	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+0	20:13:17.755	PTL_EA GBPJPY.pro,M5: initialized
+0	20:13:17.764	PTL_EA EURJPY.pro,M15: initialized
+0	20:13:17.770	PTL_EA USDJPY.pro,M15: initialized
+0	20:13:17.773	PTL_EA USDCHF.pro,M15: initialized
+0	20:13:17.808	PTL_EA AUDUSD.pro,M15: initialized
+0	20:13:17.808	PTL_EA USDCAD.pro,M15: initialized
+0	20:13:17.844	PTL_EA EURAUD.pro,M30: initialized
+0	20:13:17.847	PTL_EA GBPAUD.pro,M15: initialized
+0	20:13:21.607	PTL_EA GBPUSD.pro,M15: uninit reason 3
+0	20:13:21.609	pipsometer_5_decimal GBPUSD.pro,M15: uninit reason 3
+0	20:13:21.609	time_table GBPUSD.pro,M15: uninit reason 3
+0	20:13:21.609	PTL_Sessions GBPUSD.pro,M15: uninit reason 3
+0	20:13:21.609	pipsometer_5_decimal GBPUSD.pro,M30: initialized
+0	20:13:21.609	time_table GBPUSD.pro,M30: initialized
+0	20:13:21.609	PTL_Sessions GBPUSD.pro,M30: initialized
+0	20:13:21.634	PTL_EA GBPUSD.pro,M30: initialized
+0	20:13:21.950	PTL_EA GBPUSD.pro,M30: uninit reason 3
+0	20:13:21.952	pipsometer_5_decimal GBPUSD.pro,M30: uninit reason 3
+0	20:13:21.952	time_table GBPUSD.pro,M30: uninit reason 3
+0	20:13:21.952	PTL_Sessions GBPUSD.pro,M30: uninit reason 3
+0	20:13:21.952	pipsometer_5_decimal GBPUSD.pro,M15: initialized
+0	20:13:21.952	time_table GBPUSD.pro,M15: initialized
+0	20:13:21.952	PTL_Sessions GBPUSD.pro,M15: initialized
+0	20:13:21.975	PTL_EA GBPUSD.pro,M15: initialized
+0	20:13:34.221	PTL_EA GBPJPY.pro,M5: uninit reason 3
+0	20:13:34.223	pipsometer_5_decimal GBPJPY.pro,M5: uninit reason 3
+0	20:13:34.223	time_table GBPJPY.pro,M5: uninit reason 3
+0	20:13:34.223	PTL_Sessions GBPJPY.pro,M5: uninit reason 3
+0	20:13:34.223	pipsometer_5_decimal GBPJPY.pro,M15: initialized
+0	20:13:34.223	time_table GBPJPY.pro,M15: initialized
+0	20:13:34.223	PTL_Sessions GBPJPY.pro,M15: initialized
+0	20:13:34.247	PTL_EA GBPJPY.pro,M15: initialized
+0	20:13:45.049	PTL_EA EURUSD.pro,M30: uninit reason 3
+0	20:13:45.051	pipsometer_5_decimal EURUSD.pro,M30: uninit reason 3
+0	20:13:45.051	time_table EURUSD.pro,M30: uninit reason 3
+0	20:13:45.051	PTL_Sessions EURUSD.pro,M30: uninit reason 3
+0	20:13:45.051	pipsometer_5_decimal EURUSD.pro,H1: initialized
+0	20:13:45.051	time_table EURUSD.pro,H1: initialized
+0	20:13:45.051	PTL_Sessions EURUSD.pro,H1: initialized
+0	20:13:45.077	PTL_EA EURUSD.pro,H1: initialized
+0	20:13:45.949	PTL_EA EURUSD.pro,H1: uninit reason 3
+0	20:13:45.951	pipsometer_5_decimal EURUSD.pro,H1: uninit reason 3
+0	20:13:45.951	time_table EURUSD.pro,H1: uninit reason 3
+0	20:13:45.951	PTL_Sessions EURUSD.pro,H1: uninit reason 3
+0	20:13:45.951	pipsometer_5_decimal EURUSD.pro,M15: initialized
+0	20:13:45.951	time_table EURUSD.pro,M15: initialized
+0	20:13:45.951	PTL_Sessions EURUSD.pro,M15: initialized
+0	20:13:45.974	PTL_EA EURUSD.pro,M15: initialized
+0	20:17:57.558	PTL_EA EURUSD.pro,M15: uninit reason 3
+0	20:17:57.560	pipsometer_5_decimal EURUSD.pro,M15: uninit reason 3
+0	20:17:57.560	time_table EURUSD.pro,M15: uninit reason 3
+0	20:17:57.560	PTL_Sessions EURUSD.pro,M15: uninit reason 3
+0	20:17:57.560	pipsometer_5_decimal EURUSD.pro,M30: initialized
+0	20:17:57.560	time_table EURUSD.pro,M30: initialized
+0	20:17:57.560	PTL_Sessions EURUSD.pro,M30: initialized
+0	20:17:57.586	PTL_EA EURUSD.pro,M30: initialized
+0	20:17:58.985	PTL_EA EURUSD.pro,M30: uninit reason 3
+0	20:17:58.987	pipsometer_5_decimal EURUSD.pro,M30: uninit reason 3
+0	20:17:58.987	time_table EURUSD.pro,M30: uninit reason 3
+0	20:17:58.987	PTL_Sessions EURUSD.pro,M30: uninit reason 3
+0	20:17:58.987	pipsometer_5_decimal EURUSD.pro,M15: initialized
+0	20:17:58.987	time_table EURUSD.pro,M15: initialized
+0	20:17:58.987	PTL_Sessions EURUSD.pro,M15: initialized
+0	20:17:59.011	PTL_EA EURUSD.pro,M15: initialized
+0	21:01:32.010	PTL_EA GBPUSD.pro,M15: uninit reason 3
+0	21:01:32.012	pipsometer_5_decimal GBPUSD.pro,M15: uninit reason 3
+0	21:01:32.012	time_table GBPUSD.pro,M15: uninit reason 3
+0	21:01:32.012	PTL_Sessions GBPUSD.pro,M15: uninit reason 3
+0	21:01:32.012	pipsometer_5_decimal GBPUSD.pro,M30: initialized
+0	21:01:32.012	time_table GBPUSD.pro,M30: initialized
+0	21:01:32.012	PTL_Sessions GBPUSD.pro,M30: initialized
+0	21:01:32.038	PTL_EA GBPUSD.pro,M30: initialized
+0	21:01:34.529	PTL_EA GBPUSD.pro,M30: uninit reason 3
+0	21:01:34.531	pipsometer_5_decimal GBPUSD.pro,M30: uninit reason 3
+0	21:01:34.531	time_table GBPUSD.pro,M30: uninit reason 3
+0	21:01:34.531	PTL_Sessions GBPUSD.pro,M30: uninit reason 3
+0	21:01:34.531	pipsometer_5_decimal GBPUSD.pro,H1: initialized
+0	21:01:34.531	time_table GBPUSD.pro,H1: initialized
+0	21:01:34.531	PTL_Sessions GBPUSD.pro,H1: initialized
+0	21:01:34.557	PTL_EA GBPUSD.pro,H1: initialized
+0	21:01:35.711	PTL_EA GBPUSD.pro,H1: uninit reason 3
+0	21:01:35.713	pipsometer_5_decimal GBPUSD.pro,H1: uninit reason 3
+0	21:01:35.713	time_table GBPUSD.pro,H1: uninit reason 3
+0	21:01:35.713	PTL_Sessions GBPUSD.pro,H1: uninit reason 3
+0	21:01:35.713	pipsometer_5_decimal GBPUSD.pro,M30: initialized
+0	21:01:35.713	time_table GBPUSD.pro,M30: initialized
+0	21:01:35.713	PTL_Sessions GBPUSD.pro,M30: initialized
+0	21:01:35.737	PTL_EA GBPUSD.pro,M30: initialized
+0	21:21:32.836	PTL_EA EURUSD.pro,M15: uninit reason 3
+0	21:21:32.838	pipsometer_5_decimal EURUSD.pro,M15: uninit reason 3
+0	21:21:32.838	time_table EURUSD.pro,M15: uninit reason 3
+0	21:21:32.838	PTL_Sessions EURUSD.pro,M15: uninit reason 3
+0	21:21:32.838	pipsometer_5_decimal EURUSD.pro,M30: initialized
+0	21:21:32.838	time_table EURUSD.pro,M30: initialized
+0	21:21:32.839	PTL_Sessions EURUSD.pro,M30: initialized
+0	21:21:32.866	PTL_EA EURUSD.pro,M30: initialized
+0	21:21:33.442	PTL_EA EURUSD.pro,M30: uninit reason 3
+0	21:21:33.444	pipsometer_5_decimal EURUSD.pro,M30: uninit reason 3
+0	21:21:33.444	time_table EURUSD.pro,M30: uninit reason 3
+0	21:21:33.444	PTL_Sessions EURUSD.pro,M30: uninit reason 3
+0	21:21:33.444	pipsometer_5_decimal EURUSD.pro,M15: initialized
+0	21:21:33.444	time_table EURUSD.pro,M15: initialized
+0	21:21:33.444	PTL_Sessions EURUSD.pro,M15: initialized
+0	21:21:33.467	PTL_EA EURUSD.pro,M15: initialized
+0	21:23:35.353	PTL_EA GBPUSD.pro,M30: uninit reason 3
+0	21:23:35.355	pipsometer_5_decimal GBPUSD.pro,M30: uninit reason 3
+0	21:23:35.355	time_table GBPUSD.pro,M30: uninit reason 3
+0	21:23:35.355	PTL_Sessions GBPUSD.pro,M30: uninit reason 3
+0	21:23:35.355	pipsometer_5_decimal GBPUSD.pro,M15: initialized
+0	21:23:35.355	time_table GBPUSD.pro,M15: initialized
+0	21:23:35.356	PTL_Sessions GBPUSD.pro,M15: initialized
+0	21:23:35.381	PTL_EA GBPUSD.pro,M15: initialized
+0	21:24:55.783	PTL_EA USDCHF.pro,M15: uninit reason 3
+0	21:24:55.785	pipsometer_5_decimal USDCHF.pro,M15: uninit reason 3
+0	21:24:55.785	time_table USDCHF.pro,M15: uninit reason 3
+0	21:24:55.785	PTL_Sessions USDCHF.pro,M15: uninit reason 3
+0	21:24:55.785	pipsometer_5_decimal USDCHF.pro,M30: initialized
+0	21:24:55.785	time_table USDCHF.pro,M30: initialized
+0	21:24:55.786	PTL_Sessions USDCHF.pro,M30: initialized
+0	21:24:55.810	PTL_EA USDCHF.pro,M30: initialized
+0	21:26:35.625	PTL_EA EURUSD.pro,M15: uninit reason 3
+0	21:26:35.627	pipsometer_5_decimal EURUSD.pro,M15: uninit reason 3
+0	21:26:35.627	time_table EURUSD.pro,M15: uninit reason 3
+0	21:26:35.627	PTL_Sessions EURUSD.pro,M15: uninit reason 3
+0	21:26:35.627	pipsometer_5_decimal EURUSD.pro,M30: initialized
+0	21:26:35.627	time_table EURUSD.pro,M30: initialized
+0	21:26:35.627	PTL_Sessions EURUSD.pro,M30: initialized
+0	21:26:35.653	PTL_EA EURUSD.pro,M30: initialized
+0	21:26:37.542	PTL_EA EURUSD.pro,M30: uninit reason 3
+0	21:26:37.544	pipsometer_5_decimal EURUSD.pro,M30: uninit reason 3
+0	21:26:37.544	time_table EURUSD.pro,M30: uninit reason 3
+0	21:26:37.544	PTL_Sessions EURUSD.pro,M30: uninit reason 3
+0	21:26:37.544	pipsometer_5_decimal EURUSD.pro,M15: initialized
+0	21:26:37.544	time_table EURUSD.pro,M15: initialized
+0	21:26:37.544	PTL_Sessions EURUSD.pro,M15: initialized
+0	21:26:37.568	PTL_EA EURUSD.pro,M15: initialized
+0	21:26:50.213	PTL_EA EURUSD.pro,M15: uninit reason 3
+0	21:26:50.215	pipsometer_5_decimal EURUSD.pro,M15: uninit reason 3
+0	21:26:50.215	time_table EURUSD.pro,M15: uninit reason 3
+0	21:26:50.215	PTL_Sessions EURUSD.pro,M15: uninit reason 3
+0	21:26:50.215	pipsometer_5_decimal EURUSD.pro,H1: initialized
+0	21:26:50.215	time_table EURUSD.pro,H1: initialized
+0	21:26:50.215	PTL_Sessions EURUSD.pro,H1: initialized
+0	21:26:50.242	PTL_EA EURUSD.pro,H1: initialized
+0	21:27:26.178	PTL_EA EURUSD.pro,H1: uninit reason 3
+0	21:27:26.180	pipsometer_5_decimal EURUSD.pro,H1: uninit reason 3
+0	21:27:26.180	time_table EURUSD.pro,H1: uninit reason 3
+0	21:27:26.180	PTL_Sessions EURUSD.pro,H1: uninit reason 3
+0	21:27:26.180	pipsometer_5_decimal EURUSD.pro,H4: initialized
+0	21:27:26.180	time_table EURUSD.pro,H4: initialized
+0	21:27:26.180	PTL_Sessions EURUSD.pro,H4: initialized
+0	21:27:26.203	PTL_EA EURUSD.pro,H4: initialized
+0	21:27:49.022	PTL_EA EURUSD.pro,H4: uninit reason 3
+0	21:27:49.024	pipsometer_5_decimal EURUSD.pro,H4: uninit reason 3
+0	21:27:49.024	time_table EURUSD.pro,H4: uninit reason 3
+0	21:27:49.024	PTL_Sessions EURUSD.pro,H4: uninit reason 3
+0	21:27:49.024	pipsometer_5_decimal EURUSD.pro,M15: initialized
+0	21:27:49.024	time_table EURUSD.pro,M15: initialized
+0	21:27:49.024	PTL_Sessions EURUSD.pro,M15: initialized
+0	21:27:49.049	PTL_EA EURUSD.pro,M15: initialized
+0	21:37:00.749	PTL_EA EURUSD.pro,M15: uninit reason 3
+0	21:37:00.751	pipsometer_5_decimal EURUSD.pro,M15: uninit reason 3
+0	21:37:00.751	time_table EURUSD.pro,M15: uninit reason 3
+0	21:37:00.751	PTL_Sessions EURUSD.pro,M15: uninit reason 3
+0	21:37:00.751	pipsometer_5_decimal EURUSD.pro,M30: initialized
+0	21:37:00.751	time_table EURUSD.pro,M30: initialized
+0	21:37:00.752	PTL_Sessions EURUSD.pro,M30: initialized
+0	21:37:00.777	PTL_EA EURUSD.pro,M30: initialized
+0	21:37:55.837	PTL_EA EURUSD.pro,M30: uninit reason 3
+0	21:37:55.838	pipsometer_5_decimal EURUSD.pro,M30: uninit reason 3
+0	21:37:55.838	time_table EURUSD.pro,M30: uninit reason 3
+0	21:37:55.838	PTL_Sessions EURUSD.pro,M30: uninit reason 3
+0	21:37:55.838	pipsometer_5_decimal EURUSD.pro,M15: initialized
+0	21:37:55.838	time_table EURUSD.pro,M15: initialized
+0	21:37:55.838	PTL_Sessions EURUSD.pro,M15: initialized
+0	21:37:55.862	PTL_EA EURUSD.pro,M15: initialized
+0	21:40:09.248	PTL_EA XAUUSD.pro,M15: uninit reason 2
+0	21:40:09.261	Expert PTL_EA XAUUSD.pro,M15: removed
+0	21:40:09.279	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+0	21:40:09.280	PTL_EA EURUSD.pro,M15: uninit reason 2
+0	21:40:09.288	Expert PTL_EA EURUSD.pro,M15: removed
+0	21:40:09.306	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+0	21:40:09.307	PTL_EA GBPUSD.pro,M15: uninit reason 2
+0	21:40:09.317	Expert PTL_EA GBPUSD.pro,M15: removed
+0	21:40:09.341	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+0	21:40:09.342	PTL_EA GBPJPY.pro,M15: uninit reason 2
+0	21:40:09.353	Expert PTL_EA GBPJPY.pro,M15: removed
+0	21:40:09.378	Expert PTL_EA GBPJPY.pro,M15: loaded successfully
+0	21:40:09.379	PTL_EA EURJPY.pro,M15: uninit reason 2
+0	21:40:09.392	Expert PTL_EA EURJPY.pro,M15: removed
+0	21:40:09.431	Expert PTL_EA EURJPY.pro,M15: loaded successfully
+0	21:40:09.432	PTL_EA USDJPY.pro,M15: uninit reason 2
+0	21:40:09.448	Expert PTL_EA USDJPY.pro,M15: removed
+0	21:40:09.473	Expert PTL_EA USDJPY.pro,M15: loaded successfully
+0	21:40:09.474	PTL_EA USDCHF.pro,M30: uninit reason 2
+0	21:40:09.481	PTL_EA XAUUSD.pro,M15: initialized
+0	21:40:09.484	Expert PTL_EA USDCHF.pro,M30: removed
+0	21:40:09.509	Expert PTL_EA USDCHF.pro,M30: loaded successfully
+0	21:40:09.510	PTL_EA AUDUSD.pro,M15: uninit reason 2
+0	21:40:09.526	Expert PTL_EA AUDUSD.pro,M15: removed
+0	21:40:09.550	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+0	21:40:09.551	PTL_EA USDCAD.pro,M15: uninit reason 2
+0	21:40:09.566	Expert PTL_EA USDCAD.pro,M15: removed
+0	21:40:09.589	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+0	21:40:09.590	PTL_EA EURAUD.pro,M30: uninit reason 2
+0	21:40:09.599	PTL_EA EURUSD.pro,M15: initialized
+0	21:40:09.600	Expert PTL_EA EURAUD.pro,M30: removed
+0	21:40:09.623	Expert PTL_EA EURAUD.pro,M30: loaded successfully
+0	21:40:09.624	PTL_EA GBPAUD.pro,M15: uninit reason 2
+0	21:40:09.642	Expert PTL_EA GBPAUD.pro,M15: removed
+0	21:40:09.663	PTL_EA GBPUSD.pro,M15: initialized
+0	21:40:09.667	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+0	21:40:09.729	PTL_EA GBPJPY.pro,M15: initialized
+0	21:40:09.742	PTL_EA EURJPY.pro,M15: initialized
+0	21:40:09.830	PTL_EA USDJPY.pro,M15: initialized
+0	21:40:09.850	PTL_EA USDCHF.pro,M30: initialized
+0	21:40:09.872	PTL_EA AUDUSD.pro,M15: initialized
+0	21:40:09.877	PTL_EA USDCAD.pro,M15: initialized
+0	21:40:09.904	PTL_EA EURAUD.pro,M30: initialized
+0	21:40:09.910	PTL_EA GBPAUD.pro,M15: initialized
+0	21:40:38.773	PTL_EA EURUSD.pro,M15: uninit reason 3
+0	21:40:38.775	pipsometer_5_decimal EURUSD.pro,M15: uninit reason 3
+0	21:40:38.775	time_table EURUSD.pro,M15: uninit reason 3
+0	21:40:38.775	PTL_Sessions EURUSD.pro,M15: uninit reason 3
+0	21:40:38.775	pipsometer_5_decimal EURUSD.pro,M30: initialized
+0	21:40:38.775	time_table EURUSD.pro,M30: initialized
+0	21:40:38.775	PTL_Sessions EURUSD.pro,M30: initialized
+0	21:40:38.804	PTL_EA EURUSD.pro,M30: initialized
+0	22:19:11.478	PTL_EA XAUUSD.pro,M15: uninit reason 9
+0	22:19:11.512	pipsometer_5_decimal XAUUSD.pro,M15: uninit reason 9
+0	22:19:11.512	time_table XAUUSD.pro,M15: uninit reason 9
+0	22:19:11.513	PTL_Sessions XAUUSD.pro,M15: uninit reason 9
+0	22:19:11.513	PTL_EA EURUSD.pro,M30: uninit reason 9
+0	22:19:11.517	pipsometer_5_decimal EURUSD.pro,M30: uninit reason 9
+0	22:19:11.517	time_table EURUSD.pro,M30: uninit reason 9
+0	22:19:11.517	PTL_Sessions EURUSD.pro,M30: uninit reason 9
+0	22:19:11.517	PTL_EA GBPUSD.pro,M15: uninit reason 9
+0	22:19:11.522	pipsometer_5_decimal GBPUSD.pro,M15: uninit reason 9
+0	22:19:11.522	time_table GBPUSD.pro,M15: uninit reason 9
+0	22:19:11.523	PTL_Sessions GBPUSD.pro,M15: uninit reason 9
+0	22:19:11.523	PTL_EA GBPJPY.pro,M15: uninit reason 9
+0	22:19:11.528	pipsometer_5_decimal GBPJPY.pro,M15: uninit reason 9
+0	22:19:11.528	time_table GBPJPY.pro,M15: uninit reason 9
+0	22:19:11.528	PTL_Sessions GBPJPY.pro,M15: uninit reason 9
+0	22:19:11.529	PTL_EA EURJPY.pro,M15: uninit reason 9
+0	22:19:11.534	pipsometer_5_decimal EURJPY.pro,M15: uninit reason 9
+0	22:19:11.534	time_table EURJPY.pro,M15: uninit reason 9
+0	22:19:11.534	PTL_Sessions EURJPY.pro,M15: uninit reason 9
+0	22:19:11.534	PTL_EA USDJPY.pro,M15: uninit reason 9
+0	22:19:11.541	pipsometer_5_decimal USDJPY.pro,M15: uninit reason 9
+0	22:19:11.541	time_table USDJPY.pro,M15: uninit reason 9
+0	22:19:11.541	PTL_Sessions USDJPY.pro,M15: uninit reason 9
+0	22:19:11.541	PTL_EA USDCHF.pro,M30: uninit reason 9
+0	22:19:11.549	pipsometer_5_decimal USDCHF.pro,M30: uninit reason 9
+0	22:19:11.549	time_table USDCHF.pro,M30: uninit reason 9
+0	22:19:11.549	PTL_Sessions USDCHF.pro,M30: uninit reason 9
+0	22:19:11.549	PTL_EA AUDUSD.pro,M15: uninit reason 9
+0	22:19:11.559	pipsometer_5_decimal AUDUSD.pro,M15: uninit reason 9
+0	22:19:11.559	time_table AUDUSD.pro,M15: uninit reason 9
+0	22:19:11.559	PTL_Sessions AUDUSD.pro,M15: uninit reason 9
+0	22:19:11.560	PTL_EA USDCAD.pro,M15: uninit reason 9
+0	22:19:11.568	pipsometer_5_decimal USDCAD.pro,M15: uninit reason 9
+0	22:19:11.568	time_table USDCAD.pro,M15: uninit reason 9
+0	22:19:11.568	PTL_Sessions USDCAD.pro,M15: uninit reason 9
+0	22:19:11.568	PTL_EA EURAUD.pro,M30: uninit reason 9
+0	22:19:11.578	pipsometer_5_decimal EURAUD.pro,M30: uninit reason 9
+0	22:19:11.578	time_table EURAUD.pro,M30: uninit reason 9
+0	22:19:11.578	PTL_Sessions EURAUD.pro,M30: uninit reason 9
+0	22:19:11.578	PTL_EA GBPAUD.pro,M15: uninit reason 9
+0	22:19:11.587	pipsometer_5_decimal GBPAUD.pro,M15: uninit reason 9
+0	22:19:11.587	time_table GBPAUD.pro,M15: uninit reason 9
+0	22:19:11.587	PTL_Sessions GBPAUD.pro,M15: uninit reason 9
+0	22:19:11.832	Expert PTL_EA XAUUSD.pro,M15: removed
+0	22:19:11.844	Custom indicator pipsometer_5_decimal XAUUSD.pro,M15: removed
+0	22:19:11.848	Custom indicator time_table XAUUSD.pro,M15: removed
+0	22:19:11.852	Custom indicator PTL_Sessions XAUUSD.pro,M15: removed
+0	22:19:11.862	Expert PTL_EA EURUSD.pro,M30: removed
+0	22:19:11.867	Custom indicator pipsometer_5_decimal EURUSD.pro,M30: removed
+0	22:19:11.870	Custom indicator time_table EURUSD.pro,M30: removed
+0	22:19:11.873	Custom indicator PTL_Sessions EURUSD.pro,M30: removed
+0	22:19:11.897	Expert PTL_EA GBPUSD.pro,M15: removed
+0	22:19:11.902	Custom indicator pipsometer_5_decimal GBPUSD.pro,M15: removed
+0	22:19:11.906	Custom indicator time_table GBPUSD.pro,M15: removed
+0	22:19:11.910	Custom indicator PTL_Sessions GBPUSD.pro,M15: removed
+0	22:19:11.915	Expert PTL_EA GBPJPY.pro,M15: removed
+0	22:19:11.920	Custom indicator pipsometer_5_decimal GBPJPY.pro,M15: removed
+0	22:19:11.923	Custom indicator time_table GBPJPY.pro,M15: removed
+0	22:19:11.929	Custom indicator PTL_Sessions GBPJPY.pro,M15: removed
+0	22:19:11.935	Expert PTL_EA EURJPY.pro,M15: removed
+0	22:19:11.939	Custom indicator pipsometer_5_decimal EURJPY.pro,M15: removed
+0	22:19:11.943	Custom indicator time_table EURJPY.pro,M15: removed
+0	22:19:11.947	Custom indicator PTL_Sessions EURJPY.pro,M15: removed
+0	22:19:11.969	Expert PTL_EA USDJPY.pro,M15: removed
+0	22:19:11.974	Custom indicator pipsometer_5_decimal USDJPY.pro,M15: removed
+0	22:19:11.977	Custom indicator time_table USDJPY.pro,M15: removed
+0	22:19:11.981	Custom indicator PTL_Sessions USDJPY.pro,M15: removed
+0	22:19:11.999	Expert PTL_EA USDCHF.pro,M30: removed
+0	22:19:12.003	Custom indicator pipsometer_5_decimal USDCHF.pro,M30: removed
+0	22:19:12.007	Custom indicator time_table USDCHF.pro,M30: removed
+0	22:19:12.009	Custom indicator PTL_Sessions USDCHF.pro,M30: removed
+0	22:19:12.030	Expert PTL_EA AUDUSD.pro,M15: removed
+0	22:19:12.034	Custom indicator pipsometer_5_decimal AUDUSD.pro,M15: removed
+0	22:19:12.037	Custom indicator time_table AUDUSD.pro,M15: removed
+0	22:19:12.041	Custom indicator PTL_Sessions AUDUSD.pro,M15: removed
+0	22:19:12.046	Expert PTL_EA USDCAD.pro,M15: removed
+0	22:19:12.050	Custom indicator pipsometer_5_decimal USDCAD.pro,M15: removed
+0	22:19:12.052	Custom indicator time_table USDCAD.pro,M15: removed
+0	22:19:12.056	Custom indicator PTL_Sessions USDCAD.pro,M15: removed
+0	22:19:12.071	Expert PTL_EA EURAUD.pro,M30: removed
+0	22:19:12.075	Custom indicator pipsometer_5_decimal EURAUD.pro,M30: removed
+0	22:19:12.078	Custom indicator time_table EURAUD.pro,M30: removed
+0	22:19:12.081	Custom indicator PTL_Sessions EURAUD.pro,M30: removed
+0	22:19:12.090	Expert PTL_EA GBPAUD.pro,M15: removed
+0	22:19:12.095	Custom indicator pipsometer_5_decimal GBPAUD.pro,M15: removed
+0	22:19:12.098	Custom indicator time_table GBPAUD.pro,M15: removed
+0	22:19:12.101	Custom indicator PTL_Sessions GBPAUD.pro,M15: removed

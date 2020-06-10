@@ -1,0 +1,439 @@
+0	22:40:07.131	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\config\terminal.ini' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\config\terminal.ini'
+0	22:40:07.139	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\config\AxiTrader-US02-Live.srv' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\config\AxiTrader-US02-Live.srv'
+0	22:40:07.146	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\config\AxiTrader-US03-Demo.srv' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\config\AxiTrader-US03-Demo.srv'
+0	22:40:07.153	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\config\AxiTrader-US03-Live.srv' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\config\AxiTrader-US03-Live.srv'
+0	22:40:07.160	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\config\AxiTrader-US05-Live.srv' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\config\AxiTrader-US05-Live.srv'
+0	22:40:07.167	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\config\AxiTrader-US06-Live.srv' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\config\AxiTrader-US06-Live.srv'
+0	22:40:07.174	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\config\AxiTrader-US07-Live.srv' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\config\AxiTrader-US07-Live.srv'
+0	22:40:07.181	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\config\AxiTrader-US09-Live.srv' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\config\AxiTrader-US09-Live.srv'
+0	22:40:07.188	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\config\AxiTrader-US888-Live.srv' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\config\AxiTrader-US888-Live.srv'
+0	22:40:07.188	Migration: config folder copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC'
+0	22:40:07.198	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\default\EURUSD240.hst' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\default\EURUSD240.hst'
+0	22:40:07.206	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\default\GBPUSD240.hst' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\default\GBPUSD240.hst'
+0	22:40:07.216	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\default\USDCHF240.hst' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\default\USDCHF240.hst'
+0	22:40:07.224	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\default\USDJPY240.hst' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\default\USDJPY240.hst'
+0	22:40:07.235	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\default\symbols.sel' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\default\symbols.sel'
+0	22:40:07.244	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\default\symbols.raw' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\default\symbols.raw'
+0	22:40:07.251	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\default\symgroups.raw' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\default\symgroups.raw'
+0	22:40:07.253	Migration: history folder copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC'
+0	22:40:07.255	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\default\EURUSD240.hst' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\default\EURUSD240.hst'
+0	22:40:07.256	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\default\GBPUSD240.hst' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\default\GBPUSD240.hst'
+0	22:40:07.258	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\default\symbols.raw' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\default\symbols.raw'
+0	22:40:07.259	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\default\symbols.sel' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\default\symbols.sel'
+0	22:40:07.261	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\default\symgroups.raw' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\default\symgroups.raw'
+0	22:40:07.262	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\default\USDCHF240.hst' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\default\USDCHF240.hst'
+0	22:40:07.264	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\default\USDJPY240.hst' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\default\USDJPY240.hst'
+0	22:40:07.271	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\symbolsets\CFD.set' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\symbolsets\CFD.set'
+0	22:40:07.277	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\symbolsets\forex.set' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\symbolsets\forex.set'
+0	22:40:07.285	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\symbolsets\forexall.set' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\symbolsets\forexall.set'
+0	22:40:07.292	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\symbolsets\Pro.set' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\symbolsets\Pro.set'
+0	22:40:07.307	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998400.arabic' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998400.arabic'
+0	22:40:07.323	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998401.bulgarian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998401.bulgarian'
+0	22:40:07.338	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998402.chinese (simplified)' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998402.chinese (simplified)'
+0	22:40:07.354	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998403.chinese (traditional)' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998403.chinese (traditional)'
+0	22:40:07.369	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998404.czech' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998404.czech'
+0	22:40:07.384	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998405.english' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998405.english'
+0	22:40:07.399	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998406.french' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998406.french'
+0	22:40:07.413	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998407.german' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998407.german'
+0	22:40:07.427	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998408.greek' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998408.greek'
+0	22:40:07.444	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998409.hebrew' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998409.hebrew'
+0	22:40:07.460	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998410.hungarian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998410.hungarian'
+0	22:40:07.475	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998411.indonesian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998411.indonesian'
+0	22:40:07.490	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998412.italian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998412.italian'
+0	22:40:07.507	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998413.japanese' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998413.japanese'
+0	22:40:07.522	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998414.malay' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998414.malay'
+0	22:40:07.540	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998415.polish' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998415.polish'
+0	22:40:07.556	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998416.portuguese' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998416.portuguese'
+0	22:40:07.572	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998417.russian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998417.russian'
+0	22:40:07.592	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998418.slovenian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998418.slovenian'
+0	22:40:07.614	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998419.spanish' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998419.spanish'
+0	22:40:07.637	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998420.tajik' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998420.tajik'
+0	22:40:07.655	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998421.thai' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998421.thai'
+0	22:40:07.672	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998422.turkish' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998422.turkish'
+0	22:40:07.689	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998423.uzbek' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998423.uzbek'
+0	22:40:07.707	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998424.vietnamese' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998424.vietnamese'
+0	22:40:07.725	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998425.arabic' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998425.arabic'
+0	22:40:07.743	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998426.bulgarian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998426.bulgarian'
+0	22:40:07.760	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998427.chinese (simplified)' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998427.chinese (simplified)'
+0	22:40:07.776	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998428.chinese (traditional)' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998428.chinese (traditional)'
+0	22:40:07.797	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998429.czech' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998429.czech'
+0	22:40:07.815	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998430.english' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998430.english'
+0	22:40:07.836	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998431.french' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998431.french'
+0	22:40:07.858	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998432.german' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998432.german'
+0	22:40:07.876	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998433.greek' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998433.greek'
+0	22:40:07.894	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998434.hebrew' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998434.hebrew'
+0	22:40:07.916	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998435.hungarian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998435.hungarian'
+0	22:40:07.937	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998436.indonesian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998436.indonesian'
+0	22:40:07.956	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998437.italian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998437.italian'
+0	22:40:07.972	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998438.japanese' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998438.japanese'
+0	22:40:07.989	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998439.malay' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998439.malay'
+0	22:40:08.010	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998440.polish' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998440.polish'
+0	22:40:08.029	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998441.portuguese' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998441.portuguese'
+0	22:40:08.047	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998442.russian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998442.russian'
+0	22:40:08.063	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998443.slovenian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998443.slovenian'
+0	22:40:08.081	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998444.spanish' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998444.spanish'
+0	22:40:08.136	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998445.tajik' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998445.tajik'
+0	22:40:08.159	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998446.thai' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998446.thai'
+0	22:40:08.176	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998447.turkish' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998447.turkish'
+0	22:40:08.193	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998448.uzbek' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998448.uzbek'
+0	22:40:08.211	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998449.vietnamese' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998449.vietnamese'
+0	22:40:08.228	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998450.arabic' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998450.arabic'
+0	22:40:08.250	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998451.bulgarian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998451.bulgarian'
+0	22:40:08.267	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998452.chinese (simplified)' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998452.chinese (simplified)'
+0	22:40:08.283	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998453.chinese (traditional)' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998453.chinese (traditional)'
+0	22:40:08.304	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998454.czech' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998454.czech'
+0	22:40:08.322	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998455.english' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998455.english'
+0	22:40:08.340	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998456.french' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998456.french'
+0	22:40:08.358	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998457.german' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998457.german'
+0	22:40:08.378	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998458.greek' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998458.greek'
+0	22:40:08.400	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998459.hebrew' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998459.hebrew'
+0	22:40:08.417	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998460.hungarian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998460.hungarian'
+0	22:40:08.434	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998461.indonesian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998461.indonesian'
+0	22:40:08.450	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998462.italian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998462.italian'
+0	22:40:08.470	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998463.japanese' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998463.japanese'
+0	22:40:08.486	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998464.malay' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998464.malay'
+0	22:40:08.504	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998465.polish' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998465.polish'
+0	22:40:08.519	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998466.portuguese' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998466.portuguese'
+0	22:40:08.538	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998467.russian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998467.russian'
+0	22:40:08.554	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998468.slovenian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998468.slovenian'
+0	22:40:08.570	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998469.spanish' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998469.spanish'
+0	22:40:08.586	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998470.tajik' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998470.tajik'
+0	22:40:08.607	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998471.thai' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998471.thai'
+0	22:40:08.623	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998472.turkish' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998472.turkish'
+0	22:40:08.645	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998473.uzbek' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998473.uzbek'
+0	22:40:08.663	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998474.vietnamese' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998474.vietnamese'
+0	22:40:08.684	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998475.arabic' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998475.arabic'
+0	22:40:08.704	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998476.bulgarian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998476.bulgarian'
+0	22:40:08.724	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998477.chinese (simplified)' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998477.chinese (simplified)'
+0	22:40:08.747	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998478.chinese (traditional)' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998478.chinese (traditional)'
+0	22:40:08.765	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998479.czech' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998479.czech'
+0	22:40:08.787	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998480.english' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998480.english'
+0	22:40:08.811	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998481.french' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998481.french'
+0	22:40:08.829	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998482.german' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998482.german'
+0	22:40:08.846	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998483.greek' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998483.greek'
+0	22:40:08.863	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998484.hebrew' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998484.hebrew'
+0	22:40:09.067	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998485.hungarian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998485.hungarian'
+0	22:40:09.085	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998486.indonesian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998486.indonesian'
+0	22:40:09.107	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998487.italian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998487.italian'
+0	22:40:09.131	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998488.japanese' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998488.japanese'
+0	22:40:09.148	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998489.malay' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998489.malay'
+0	22:40:09.168	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998490.polish' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998490.polish'
+0	22:40:09.187	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998491.portuguese' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998491.portuguese'
+0	22:40:09.204	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998492.russian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998492.russian'
+0	22:40:09.221	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998493.slovenian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998493.slovenian'
+0	22:40:09.241	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998494.spanish' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998494.spanish'
+0	22:40:09.264	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998495.tajik' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998495.tajik'
+0	22:40:09.288	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998496.thai' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998496.thai'
+0	22:40:09.307	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998497.turkish' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998497.turkish'
+0	22:40:09.325	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998498.uzbek' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998498.uzbek'
+0	22:40:09.343	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998499.vietnamese' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998499.vietnamese'
+0	22:40:09.359	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998500.arabic' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998500.arabic'
+0	22:40:09.379	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998501.bulgarian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998501.bulgarian'
+0	22:40:09.397	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998502.chinese (simplified)' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998502.chinese (simplified)'
+0	22:40:09.418	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998503.chinese (traditional)' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998503.chinese (traditional)'
+0	22:40:09.437	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998504.czech' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998504.czech'
+0	22:40:09.457	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998505.english' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998505.english'
+0	22:40:09.475	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998506.french' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998506.french'
+0	22:40:09.496	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998507.german' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998507.german'
+0	22:40:09.513	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998508.greek' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998508.greek'
+0	22:40:09.529	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998509.hebrew' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998509.hebrew'
+0	22:40:09.546	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998510.hungarian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998510.hungarian'
+0	22:40:09.564	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998511.indonesian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998511.indonesian'
+0	22:40:09.582	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998512.italian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998512.italian'
+0	22:40:09.599	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998513.japanese' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998513.japanese'
+0	22:40:09.615	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998514.malay' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998514.malay'
+0	22:40:09.630	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998515.polish' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998515.polish'
+0	22:40:09.651	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998516.portuguese' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998516.portuguese'
+0	22:40:09.669	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998517.russian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998517.russian'
+0	22:40:09.685	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998518.slovenian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998518.slovenian'
+0	22:40:09.703	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998519.spanish' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998519.spanish'
+0	22:40:09.809	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998520.tajik' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998520.tajik'
+0	22:40:09.830	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998521.thai' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998521.thai'
+0	22:40:09.850	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998522.turkish' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998522.turkish'
+0	22:40:09.868	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998523.uzbek' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998523.uzbek'
+0	22:40:09.886	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998524.vietnamese' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998524.vietnamese'
+0	22:40:09.904	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998525.arabic' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998525.arabic'
+0	22:40:09.922	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998526.bulgarian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998526.bulgarian'
+0	22:40:09.939	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998527.chinese (simplified)' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998527.chinese (simplified)'
+0	22:40:09.956	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998528.chinese (traditional)' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998528.chinese (traditional)'
+0	22:40:09.978	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998529.czech' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998529.czech'
+0	22:40:09.997	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998530.english' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998530.english'
+0	22:40:10.016	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998531.french' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998531.french'
+0	22:40:10.033	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998532.german' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998532.german'
+0	22:40:10.053	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998533.greek' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998533.greek'
+0	22:40:10.070	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998534.hebrew' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998534.hebrew'
+0	22:40:10.088	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998534.hungarian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998534.hungarian'
+0	22:40:10.104	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998535.hungarian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998535.hungarian'
+0	22:40:10.123	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998535.italian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998535.italian'
+0	22:40:10.147	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998536.indonesian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998536.indonesian'
+0	22:40:10.164	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998536.japanese' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998536.japanese'
+0	22:40:10.188	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998537.italian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998537.italian'
+0	22:40:10.206	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998537.malay' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998537.malay'
+0	22:40:10.223	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998538.japanese' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998538.japanese'
+0	22:40:10.243	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998538.polish' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998538.polish'
+0	22:40:10.262	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998539.malay' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998539.malay'
+0	22:40:10.285	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998539.portuguese' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998539.portuguese'
+0	22:40:10.303	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998540.polish' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998540.polish'
+0	22:40:10.322	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998540.russian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998540.russian'
+0	22:40:10.344	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998541.portuguese' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998541.portuguese'
+0	22:40:10.361	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998541.slovenian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998541.slovenian'
+0	22:40:10.382	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998542.russian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998542.russian'
+0	22:40:10.399	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998542.spanish' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998542.spanish'
+0	22:40:10.420	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998543.slovenian' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998543.slovenian'
+0	22:40:10.455	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998543.tajik' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998543.tajik'
+0	22:40:10.480	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998544.spanish' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998544.spanish'
+0	22:40:10.518	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998544.thai' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998544.thai'
+0	22:40:10.539	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998545.tajik' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998545.tajik'
+0	22:40:10.557	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998545.turkish' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998545.turkish'
+0	22:40:10.575	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998546.thai' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998546.thai'
+0	22:40:10.698	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998546.uzbek' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998546.uzbek'
+0	22:40:10.719	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998547.turkish' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998547.turkish'
+0	22:40:10.741	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998547.vietnamese' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998547.vietnamese'
+0	22:40:10.759	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998548.uzbek' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998548.uzbek'
+0	22:40:10.782	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\history\mailbox\1356998549.vietnamese' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\history\mailbox\1356998549.vietnamese'
+0	22:40:10.782	Migration: mailbox folder copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC'
+0	22:40:10.793	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\profiles\British Pound\chart01.CHR' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\profiles\British Pound\chart01.CHR'
+0	22:40:10.802	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\profiles\British Pound\chart02.CHR' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\profiles\British Pound\chart02.CHR'
+0	22:40:10.810	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\profiles\British Pound\chart03.CHR' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\profiles\British Pound\chart03.CHR'
+0	22:40:10.817	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\profiles\British Pound\order.wnd' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\profiles\British Pound\order.wnd'
+0	22:40:10.825	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\profiles\default\chart01.CHR' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\profiles\default\chart01.CHR'
+0	22:40:10.835	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\profiles\default\chart02.CHR' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\profiles\default\chart02.CHR'
+0	22:40:10.845	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\profiles\default\chart03.CHR' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\profiles\default\chart03.CHR'
+0	22:40:10.853	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\profiles\default\chart04.CHR' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\profiles\default\chart04.CHR'
+0	22:40:10.862	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\profiles\default\order.wnd' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\profiles\default\order.wnd'
+0	22:40:10.873	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\profiles\Euro\chart01.CHR' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\profiles\Euro\chart01.CHR'
+0	22:40:10.882	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\profiles\Euro\chart02.CHR' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\profiles\Euro\chart02.CHR'
+0	22:40:10.891	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\profiles\Euro\chart03.CHR' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\profiles\Euro\chart03.CHR'
+0	22:40:10.899	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\profiles\Euro\order.wnd' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\profiles\Euro\order.wnd'
+0	22:40:10.901	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\profiles\lastprofile.ini' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\profiles\lastprofile.ini'
+0	22:40:10.910	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\profiles\Market Overview\chart01.CHR' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\profiles\Market Overview\chart01.CHR'
+0	22:40:10.920	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\profiles\Market Overview\chart02.CHR' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\profiles\Market Overview\chart02.CHR'
+0	22:40:10.927	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\profiles\Market Overview\chart03.CHR' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\profiles\Market Overview\chart03.CHR'
+0	22:40:10.936	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\profiles\Market Overview\chart04.CHR' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\profiles\Market Overview\chart04.CHR'
+0	22:40:10.942	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\profiles\Market Overview\order.wnd' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\profiles\Market Overview\order.wnd'
+0	22:40:10.951	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\profiles\Swiss Franc\chart01.CHR' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\profiles\Swiss Franc\chart01.CHR'
+0	22:40:10.959	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\profiles\Swiss Franc\chart02.CHR' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\profiles\Swiss Franc\chart02.CHR'
+0	22:40:10.967	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\profiles\Swiss Franc\chart03.CHR' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\profiles\Swiss Franc\chart03.CHR'
+0	22:40:10.974	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\profiles\Swiss Franc\order.wnd' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\profiles\Swiss Franc\order.wnd'
+0	22:40:10.974	Migration: profiles folder copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC'
+0	22:40:10.987	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\templates\ADX.tpl' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\templates\ADX.tpl'
+0	22:40:10.995	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\templates\BollingerBands.tpl' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\templates\BollingerBands.tpl'
+0	22:40:11.004	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\templates\Layers.tpl' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\templates\Layers.tpl'
+0	22:40:11.014	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\templates\Momentum.tpl' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\templates\Momentum.tpl'
+0	22:40:11.023	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\templates\OptimizationReport.htm' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\templates\OptimizationReport.htm'
+0	22:40:11.032	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\templates\Popular.tpl' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\templates\Popular.tpl'
+0	22:40:11.042	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\templates\statement.htm' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\templates\statement.htm'
+0	22:40:11.051	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\templates\StatementDetailed.htm' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\templates\StatementDetailed.htm'
+0	22:40:11.059	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\templates\strategytester.htm' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\templates\strategytester.htm'
+0	22:40:11.068	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\templates\Volume.tpl' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\templates\Volume.tpl'
+0	22:40:11.075	Migration: copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader\templates\Williams.tpl' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\templates\Williams.tpl'
+0	22:40:11.075	Migration: templates folder copied from 'C:\Program Files (x86)\MetaTrader - AxiTrader' to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC'
+0	22:40:11.087	Migration: data to 'C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC' migration started
+0	22:40:11.088	Migration: data migration finished, no virtual folder
+0	22:40:11.090	LiveUpdate: update C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\MQL4 folder started
+0	22:40:12.416	LiveUpdate: update C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC\MQL4 folder finished
+0	22:40:12.578	MetaTrader build 1260 started (AxiCorp Financial Services Pty Ltd)
+0	22:40:12.579	Windows 10 Enterprise x64, IE 11, UAC, 4 x Intel Core i5-4210U  @ 1.70GHz, Memory: 7816 / 12176 Mb, Disk: 65 / 99 Gb, GMT+7
+0	22:40:12.579	Data Folder: C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC
+0	22:40:14.663	Sources recompilation started
+0	22:40:36.862	Sources recompilation finished (28 compiled in 22203 msec)
+0	22:41:11.880	'4136965': login on AxiTrader-US02-Live through US Datacentre 01 (ping: 322.99 ms)
+0	22:41:15.586	'4136965': previous successful authorization performed from 69.31.88.248
+0	22:41:32.483	'4136965': auto connecting to a better access point Alternate DC US1 (ping is 251.97 ms)
+0	22:41:33.431	'4136965': login on AxiTrader-US02-Live through Alternate DC US1 (ping: 251.97 ms)
+0	22:41:35.462	'4136965': login datacenter on AxiTrader-US02-Live through Alternate DC US1 (ping: 251.97 ms)
+0	22:41:36.118	'4136965': previous successful authorization performed from 23.217.207.114
+0	22:43:54.754	MetaTrader build 1260 stopped
+0	22:46:00.763	MetaTrader build 1260 started (AxiCorp Financial Services Pty Ltd)
+0	22:46:00.764	Windows 10 Enterprise x64, IE 11, UAC, 4 x Intel Core i5-4210U  @ 1.70GHz, Memory: 7863 / 12176 Mb, Disk: 65 / 99 Gb, GMT+7
+0	22:46:00.764	Data Folder: C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC
+0	22:46:03.679	'4136965': login on AxiTrader-US02-Live through Alternate DC US1 (ping: 251.97 ms)
+0	22:46:05.993	'4136965': login datacenter on AxiTrader-US02-Live through Alternate DC US1 (ping: 251.97 ms)
+0	22:46:06.703	'4136965': previous successful authorization performed from 116.109.130.166
+2	22:46:53.335	Custom indicator pipsometer_5_decimal GBPCAD.pro,H1: loaded successfully
+2	22:46:53.348	Custom indicator time_table GBPCAD.pro,H1: loaded successfully
+2	22:46:53.362	Custom indicator PTL_Sessions GBPCAD.pro,H1: loaded successfully
+2	22:46:53.375	Expert PTL_EA GBPCAD.pro,H1: loaded successfully
+0	22:47:23.511	Automated trading enabled
+2	22:48:16.650	Custom indicator pipsometer_5_decimal XAUUSD.pro,H1: loaded successfully
+2	22:48:16.663	Custom indicator time_table XAUUSD.pro,H1: loaded successfully
+2	22:48:16.676	Custom indicator PTL_Sessions XAUUSD.pro,H1: loaded successfully
+2	22:48:16.688	Expert PTL_EA XAUUSD.pro,H1: loaded successfully
+2	22:48:25.546	Custom indicator pipsometer_5_decimal AUDUSD.pro,H1: loaded successfully
+2	22:48:25.558	Custom indicator time_table AUDUSD.pro,H1: loaded successfully
+2	22:48:25.571	Custom indicator PTL_Sessions AUDUSD.pro,H1: loaded successfully
+2	22:48:25.583	Expert PTL_EA AUDUSD.pro,H1: loaded successfully
+2	22:48:29.569	Custom indicator pipsometer_5_decimal EURGBP.pro,H1: loaded successfully
+2	22:48:29.582	Custom indicator time_table EURGBP.pro,H1: loaded successfully
+2	22:48:29.594	Custom indicator PTL_Sessions EURGBP.pro,H1: loaded successfully
+2	22:48:29.610	Expert PTL_EA EURGBP.pro,H1: loaded successfully
+2	22:48:33.255	Custom indicator pipsometer_5_decimal EURJPY.pro,H1: loaded successfully
+2	22:48:33.268	Custom indicator time_table EURJPY.pro,H1: loaded successfully
+2	22:48:33.282	Custom indicator PTL_Sessions EURJPY.pro,H1: loaded successfully
+2	22:48:33.294	Expert PTL_EA EURJPY.pro,H1: loaded successfully
+2	22:48:35.789	Custom indicator pipsometer_5_decimal GBPUSD.pro,H1: loaded successfully
+2	22:48:35.803	Custom indicator time_table GBPUSD.pro,H1: loaded successfully
+2	22:48:35.817	Custom indicator PTL_Sessions GBPUSD.pro,H1: loaded successfully
+2	22:48:35.831	Expert PTL_EA GBPUSD.pro,H1: loaded successfully
+2	22:48:38.435	Custom indicator pipsometer_5_decimal GBPJPY.pro,H1: loaded successfully
+2	22:48:38.446	Custom indicator time_table GBPJPY.pro,H1: loaded successfully
+2	22:48:38.459	Custom indicator PTL_Sessions GBPJPY.pro,H1: loaded successfully
+2	22:48:38.473	Expert PTL_EA GBPJPY.pro,H1: loaded successfully
+2	22:48:43.373	Expert PTL_EA XAUUSD.pro,H1: removed
+2	22:48:43.379	Custom indicator pipsometer_5_decimal XAUUSD.pro,H1: removed
+2	22:48:43.383	Custom indicator time_table XAUUSD.pro,H1: removed
+2	22:48:43.386	Custom indicator PTL_Sessions XAUUSD.pro,H1: removed
+2	22:48:43.391	Expert PTL_EA AUDUSD.pro,H1: removed
+2	22:48:43.396	Custom indicator pipsometer_5_decimal AUDUSD.pro,H1: removed
+2	22:48:43.398	Custom indicator time_table AUDUSD.pro,H1: removed
+2	22:48:43.401	Custom indicator PTL_Sessions AUDUSD.pro,H1: removed
+2	22:48:43.408	Expert PTL_EA EURGBP.pro,H1: removed
+2	22:48:43.412	Custom indicator pipsometer_5_decimal EURGBP.pro,H1: removed
+2	22:48:43.415	Custom indicator time_table EURGBP.pro,H1: removed
+2	22:48:43.418	Custom indicator PTL_Sessions EURGBP.pro,H1: removed
+2	22:48:43.424	Expert PTL_EA EURJPY.pro,H1: removed
+2	22:48:43.428	Custom indicator pipsometer_5_decimal EURJPY.pro,H1: removed
+2	22:48:43.431	Custom indicator time_table EURJPY.pro,H1: removed
+2	22:48:43.434	Custom indicator PTL_Sessions EURJPY.pro,H1: removed
+2	22:48:43.440	Expert PTL_EA GBPUSD.pro,H1: removed
+2	22:48:43.444	Custom indicator pipsometer_5_decimal GBPUSD.pro,H1: removed
+2	22:48:43.446	Custom indicator time_table GBPUSD.pro,H1: removed
+2	22:48:43.450	Custom indicator PTL_Sessions GBPUSD.pro,H1: removed
+2	22:48:43.468	Expert PTL_EA GBPJPY.pro,H1: removed
+2	22:48:43.473	Custom indicator pipsometer_5_decimal GBPJPY.pro,H1: removed
+2	22:48:43.476	Custom indicator time_table GBPJPY.pro,H1: removed
+2	22:48:43.478	Custom indicator PTL_Sessions GBPJPY.pro,H1: removed
+2	22:48:43.514	Expert PTL_EA GBPCAD.pro,H1: removed
+2	22:48:43.519	Custom indicator pipsometer_5_decimal GBPCAD.pro,H1: removed
+2	22:48:43.522	Custom indicator time_table GBPCAD.pro,H1: removed
+2	22:48:43.525	Custom indicator PTL_Sessions GBPCAD.pro,H1: removed
+0	22:48:44.327	MetaTrader build 1260 stopped
+0	22:48:47.302	MetaTrader build 1260 started (AxiCorp Financial Services Pty Ltd)
+0	22:48:47.302	Windows 10 Enterprise x64, IE 11, UAC, 4 x Intel Core i5-4210U  @ 1.70GHz, Memory: 7921 / 12176 Mb, Disk: 65 / 99 Gb, GMT+7
+0	22:48:47.302	Data Folder: C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC
+2	22:48:48.896	Custom indicator pipsometer_5_decimal XAUUSD.pro,H1: loaded successfully
+2	22:48:48.910	Custom indicator time_table XAUUSD.pro,H1: loaded successfully
+2	22:48:48.923	Custom indicator PTL_Sessions XAUUSD.pro,H1: loaded successfully
+2	22:48:48.938	Expert PTL_EA XAUUSD.pro,H1: loaded successfully
+2	22:48:49.037	Custom indicator pipsometer_5_decimal AUDUSD.pro,H1: loaded successfully
+2	22:48:49.051	Custom indicator time_table AUDUSD.pro,H1: loaded successfully
+2	22:48:49.064	Custom indicator PTL_Sessions AUDUSD.pro,H1: loaded successfully
+2	22:48:49.077	Expert PTL_EA AUDUSD.pro,H1: loaded successfully
+2	22:48:49.180	Custom indicator pipsometer_5_decimal EURGBP.pro,H1: loaded successfully
+2	22:48:49.192	Custom indicator time_table EURGBP.pro,H1: loaded successfully
+2	22:48:49.205	Custom indicator PTL_Sessions EURGBP.pro,H1: loaded successfully
+2	22:48:49.217	Expert PTL_EA EURGBP.pro,H1: loaded successfully
+2	22:48:49.320	Custom indicator pipsometer_5_decimal EURJPY.pro,H1: loaded successfully
+2	22:48:49.332	Custom indicator time_table EURJPY.pro,H1: loaded successfully
+2	22:48:49.345	Custom indicator PTL_Sessions EURJPY.pro,H1: loaded successfully
+2	22:48:49.358	Expert PTL_EA EURJPY.pro,H1: loaded successfully
+2	22:48:49.461	Custom indicator pipsometer_5_decimal GBPUSD.pro,H1: loaded successfully
+2	22:48:49.475	Custom indicator time_table GBPUSD.pro,H1: loaded successfully
+2	22:48:49.489	Custom indicator PTL_Sessions GBPUSD.pro,H1: loaded successfully
+2	22:48:49.502	Expert PTL_EA GBPUSD.pro,H1: loaded successfully
+2	22:48:49.607	Custom indicator pipsometer_5_decimal GBPJPY.pro,H1: loaded successfully
+2	22:48:49.620	Custom indicator time_table GBPJPY.pro,H1: loaded successfully
+2	22:48:49.631	Custom indicator PTL_Sessions GBPJPY.pro,H1: loaded successfully
+2	22:48:49.645	Expert PTL_EA GBPJPY.pro,H1: loaded successfully
+2	22:48:50.097	Custom indicator pipsometer_5_decimal GBPCAD.pro,H1: loaded successfully
+2	22:48:50.110	Custom indicator time_table GBPCAD.pro,H1: loaded successfully
+2	22:48:50.123	Custom indicator PTL_Sessions GBPCAD.pro,H1: loaded successfully
+2	22:48:50.136	Expert PTL_EA GBPCAD.pro,H1: loaded successfully
+0	22:48:52.070	'4136965': login on AxiTrader-US02-Live through Alternate DC US1 (ping: 251.97 ms)
+0	22:48:55.533	'4136965': login datacenter on AxiTrader-US02-Live through Alternate DC US1 (ping: 251.97 ms)
+0	22:48:56.262	'4136965': previous successful authorization performed from 116.109.130.166
+2	22:49:45.375	Custom indicator PTL_Sessions XAUUSD.pro,H1: loaded successfully
+2	22:50:04.795	Custom indicator PTL_Sessions XAUUSD.pro,M15: removed
+2	22:50:54.002	Custom indicator pipsometer_5_decimal EURUSD.pro,M15: loaded successfully
+2	22:50:54.015	Custom indicator time_table EURUSD.pro,M15: loaded successfully
+2	22:50:54.028	Custom indicator PTL_Sessions EURUSD.pro,M15: loaded successfully
+2	22:50:54.042	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+2	22:51:14.525	Custom indicator pipsometer_5_decimal NZDUSD.pro,H1: loaded successfully
+2	22:51:14.538	Custom indicator time_table NZDUSD.pro,H1: loaded successfully
+2	22:51:14.551	Custom indicator PTL_Sessions NZDUSD.pro,H1: loaded successfully
+2	22:51:14.565	Expert PTL_EA NZDUSD.pro,H1: loaded successfully
+2	22:51:17.670	Custom indicator pipsometer_5_decimal USDCAD.pro,H1: loaded successfully
+2	22:51:17.684	Custom indicator time_table USDCAD.pro,H1: loaded successfully
+2	22:51:17.698	Custom indicator PTL_Sessions USDCAD.pro,H1: loaded successfully
+2	22:51:17.713	Expert PTL_EA USDCAD.pro,H1: loaded successfully
+2	22:51:21.010	Custom indicator pipsometer_5_decimal USDCHF.pro,H1: loaded successfully
+2	22:51:21.023	Custom indicator time_table USDCHF.pro,H1: loaded successfully
+2	22:51:21.036	Custom indicator PTL_Sessions USDCHF.pro,H1: loaded successfully
+2	22:51:21.049	Expert PTL_EA USDCHF.pro,H1: loaded successfully
+2	22:51:23.978	Custom indicator pipsometer_5_decimal USDJPY.pro,H1: loaded successfully
+2	22:51:23.991	Custom indicator time_table USDJPY.pro,H1: loaded successfully
+2	22:51:24.004	Custom indicator PTL_Sessions USDJPY.pro,H1: loaded successfully
+2	22:51:24.018	Expert PTL_EA USDJPY.pro,H1: loaded successfully
+2	22:51:37.110	Custom indicator pipsometer_5_decimal GBPAUD.pro,H1: loaded successfully
+2	22:51:37.123	Custom indicator time_table GBPAUD.pro,H1: loaded successfully
+2	22:51:37.137	Custom indicator PTL_Sessions GBPAUD.pro,H1: loaded successfully
+2	22:51:37.150	Expert PTL_EA GBPAUD.pro,H1: loaded successfully
+2	22:51:39.971	Custom indicator pipsometer_5_decimal EURCAD.pro,H1: loaded successfully
+2	22:51:39.984	Custom indicator time_table EURCAD.pro,H1: loaded successfully
+2	22:51:39.996	Custom indicator PTL_Sessions EURCAD.pro,H1: loaded successfully
+2	22:51:40.010	Expert PTL_EA EURCAD.pro,H1: loaded successfully
+2	22:51:47.854	Custom indicator pipsometer_5_decimal EURAUD.pro,H1: loaded successfully
+2	22:51:47.867	Custom indicator time_table EURAUD.pro,H1: loaded successfully
+2	22:51:47.880	Custom indicator PTL_Sessions EURAUD.pro,H1: loaded successfully
+2	22:51:47.894	Expert PTL_EA EURAUD.pro,H1: loaded successfully
+2	22:52:34.445	Expert PTL_EA XAUUSD.pro,M15: removed
+2	22:52:34.450	Custom indicator pipsometer_5_decimal XAUUSD.pro,M15: removed
+2	22:52:34.453	Custom indicator time_table XAUUSD.pro,M15: removed
+2	22:52:34.456	Custom indicator PTL_Sessions XAUUSD.pro,M15: removed
+2	22:52:34.461	Expert PTL_EA AUDUSD.pro,M15: removed
+2	22:52:34.464	Custom indicator pipsometer_5_decimal AUDUSD.pro,M15: removed
+2	22:52:34.467	Custom indicator time_table AUDUSD.pro,M15: removed
+2	22:52:34.470	Custom indicator PTL_Sessions AUDUSD.pro,M15: removed
+2	22:52:34.475	Expert PTL_EA EURGBP.pro,M15: removed
+2	22:52:34.478	Custom indicator pipsometer_5_decimal EURGBP.pro,M15: removed
+2	22:52:34.481	Custom indicator time_table EURGBP.pro,M15: removed
+2	22:52:34.483	Custom indicator PTL_Sessions EURGBP.pro,M15: removed
+2	22:52:34.488	Expert PTL_EA EURJPY.pro,H1: removed
+2	22:52:34.492	Custom indicator pipsometer_5_decimal EURJPY.pro,H1: removed
+2	22:52:34.494	Custom indicator time_table EURJPY.pro,H1: removed
+2	22:52:34.497	Custom indicator PTL_Sessions EURJPY.pro,H1: removed
+2	22:52:34.503	Expert PTL_EA GBPUSD.pro,H1: removed
+2	22:52:34.507	Custom indicator pipsometer_5_decimal GBPUSD.pro,H1: removed
+2	22:52:34.510	Custom indicator time_table GBPUSD.pro,H1: removed
+2	22:52:34.512	Custom indicator PTL_Sessions GBPUSD.pro,H1: removed
+2	22:52:34.517	Expert PTL_EA GBPJPY.pro,H1: removed
+2	22:52:34.521	Custom indicator pipsometer_5_decimal GBPJPY.pro,H1: removed
+2	22:52:34.523	Custom indicator time_table GBPJPY.pro,H1: removed
+2	22:52:34.525	Custom indicator PTL_Sessions GBPJPY.pro,H1: removed
+2	22:52:34.530	Expert PTL_EA EURUSD.pro,M15: removed
+2	22:52:34.534	Custom indicator pipsometer_5_decimal EURUSD.pro,M15: removed
+2	22:52:34.537	Custom indicator time_table EURUSD.pro,M15: removed
+2	22:52:34.540	Custom indicator PTL_Sessions EURUSD.pro,M15: removed
+2	22:52:34.545	Expert PTL_EA NZDUSD.pro,H1: removed
+2	22:52:34.548	Custom indicator pipsometer_5_decimal NZDUSD.pro,H1: removed
+2	22:52:34.551	Custom indicator time_table NZDUSD.pro,H1: removed
+2	22:52:34.554	Custom indicator PTL_Sessions NZDUSD.pro,H1: removed
+2	22:52:34.558	Expert PTL_EA USDCAD.pro,H1: removed
+2	22:52:34.562	Custom indicator pipsometer_5_decimal USDCAD.pro,H1: removed
+2	22:52:34.564	Custom indicator time_table USDCAD.pro,H1: removed
+2	22:52:34.566	Custom indicator PTL_Sessions USDCAD.pro,H1: removed
+2	22:52:34.571	Expert PTL_EA USDCHF.pro,H1: removed
+2	22:52:34.575	Custom indicator pipsometer_5_decimal USDCHF.pro,H1: removed
+2	22:52:34.577	Custom indicator time_table USDCHF.pro,H1: removed
+2	22:52:34.580	Custom indicator PTL_Sessions USDCHF.pro,H1: removed
+2	22:52:34.584	Expert PTL_EA USDJPY.pro,H1: removed
+2	22:52:34.588	Custom indicator pipsometer_5_decimal USDJPY.pro,H1: removed
+2	22:52:34.591	Custom indicator time_table USDJPY.pro,H1: removed
+2	22:52:34.593	Custom indicator PTL_Sessions USDJPY.pro,H1: removed
+2	22:52:34.607	Expert PTL_EA EURAUD.pro,M15: removed
+2	22:52:34.610	Custom indicator pipsometer_5_decimal EURAUD.pro,M15: removed
+2	22:52:34.613	Custom indicator time_table EURAUD.pro,M15: removed
+2	22:52:34.615	Custom indicator PTL_Sessions EURAUD.pro,M15: removed
+2	22:52:34.629	Expert PTL_EA GBPAUD.pro,H1: removed
+2	22:52:34.633	Custom indicator pipsometer_5_decimal GBPAUD.pro,H1: removed
+2	22:52:34.635	Custom indicator time_table GBPAUD.pro,H1: removed
+2	22:52:34.638	Custom indicator PTL_Sessions GBPAUD.pro,H1: removed
+2	22:52:34.650	Expert PTL_EA EURCAD.pro,H1: removed
+2	22:52:34.654	Custom indicator pipsometer_5_decimal EURCAD.pro,H1: removed
+2	22:52:34.657	Custom indicator time_table EURCAD.pro,H1: removed
+2	22:52:34.659	Custom indicator PTL_Sessions EURCAD.pro,H1: removed
+2	22:52:34.666	Expert PTL_EA GBPCAD.pro,H1: removed
+2	22:52:34.670	Custom indicator pipsometer_5_decimal GBPCAD.pro,H1: removed
+2	22:52:34.673	Custom indicator time_table GBPCAD.pro,H1: removed
+2	22:52:34.675	Custom indicator PTL_Sessions GBPCAD.pro,H1: removed
+0	22:52:36.323	MetaTrader build 1260 stopped
