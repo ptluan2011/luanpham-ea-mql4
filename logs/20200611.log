@@ -41,3 +41,633 @@
 2	08:22:10.842	Custom indicator time_table USDJPY.pro,M15: loaded successfully
 2	08:22:10.857	Custom indicator PTL_Sessions USDJPY.pro,M15: loaded successfully
 2	08:22:10.873	Expert PTL_EA USDJPY.pro,M15: loaded successfully
+0	08:22:12.746	'4136965': login on AxiTrader-US02-Live through AxiAccelerator (ping: 235.39 ms)
+0	08:22:15.214	'4136965': login datacenter on AxiTrader-US02-Live through AxiAccelerator (ping: 235.39 ms)
+0	08:22:15.960	'4136965': previous successful authorization performed from 208.46.149.113
+0	08:22:20.795	'4136965': ping to current access point AxiAccelerator is 222.67 ms
+2	08:24:26.511	Expert PTL_EA XAUUSD.pro,M15: removed
+2	08:24:26.540	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+2	08:24:26.554	Expert PTL_EA EURUSD.pro,M30: removed
+2	08:24:26.582	Expert PTL_EA EURUSD.pro,M30: loaded successfully
+2	08:24:26.594	Expert PTL_EA GBPUSD.pro,M15: removed
+2	08:24:26.621	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+2	08:24:26.635	Expert PTL_EA GBPJPY.pro,M30: removed
+2	08:24:26.662	Expert PTL_EA GBPJPY.pro,M30: loaded successfully
+2	08:24:26.677	Expert PTL_EA EURJPY.pro,M15: removed
+2	08:24:26.704	Expert PTL_EA EURJPY.pro,M15: loaded successfully
+2	08:24:26.720	Expert PTL_EA AUDUSD.pro,M15: removed
+2	08:24:26.748	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+2	08:24:26.763	Expert PTL_EA USDCAD.pro,M15: removed
+2	08:24:26.793	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+2	08:24:26.808	Expert PTL_EA GBPAUD.pro,M15: removed
+2	08:24:26.833	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+2	08:24:26.847	Expert PTL_EA USDJPY.pro,M30: removed
+2	08:24:26.874	Expert PTL_EA USDJPY.pro,M30: loaded successfully
+1	08:27:15.676	'4136965': ping failed
+1	08:27:15.767	'4136965': datacenter connecting failed [6]
+0	08:27:19.826	'4136965': login on AxiTrader-US02-Live through Alternate DC US1 (ping: 246.18 ms)
+0	08:27:21.870	'4136965': login datacenter on AxiTrader-US02-Live through Alternate DC US1 (ping: 246.18 ms)
+0	08:27:22.590	'4136965': previous successful authorization performed from 65.115.8.118
+1	08:31:02.271	'4136965': ping failed
+1	08:31:02.302	'4136965': datacenter connecting failed [6]
+0	08:31:03.361	'4136965': login on AxiTrader-US02-Live through Alternate DC US2 (ping: 242.17 ms)
+0	08:31:05.294	'4136965': login datacenter on AxiTrader-US02-Live through Alternate DC US2 (ping: 242.17 ms)
+0	08:31:06.069	'4136965': previous successful authorization performed from 171.235.182.102
+0	09:06:17.268	'4136965': order sell market 0.05 GBPUSD.pro sl: 0.00000 tp: 0.00000
+0	09:06:17.700	'4136965': order was opened : #68716877 sell 0.05 GBPUSD.pro at 1.27359 sl: 0.00000 tp: 0.00000
+0	09:06:23.080	'4136965': modify order #68716877 sell 0.05 GBPUSD.pro at 1.27359 sl: 0.00000 tp: 0.00000 -> sl: 1.27535 tp: 0.00000
+0	09:06:23.434	'4136965': order #68716877 sell 0.05 GBPUSD.pro at 1.27359 was modified -> sl: 1.27535 tp: 0.00000
+0	09:06:29.161	'4136965': modify order #68716877 sell 0.05 GBPUSD.pro at 1.27359 sl: 1.27535 tp: 0.00000 -> sl: 1.27535 tp: 1.27139
+0	09:06:29.542	'4136965': order #68716877 sell 0.05 GBPUSD.pro at 1.27359 was modified -> sl: 1.27535 tp: 1.27139
+0	09:10:42.349	'4136965': trailing stop 100 pip(s) on #68716877 placed
+0	09:45:29.632	'4136965': close order #68716877 sell 0.05 GBPUSD.pro at 1.27359 sl: 1.27535 tp: 1.27139 at price 0.00000
+0	09:45:30.004	'4136965': order #68716877 sell 0.05 GBPUSD.pro at 1.27359 sl: 1.27535 tp: 1.27139 closed at price 1.27435
+2	10:47:57.963	Expert PTL_EA GBPUSD.pro,H1: removed
+2	10:47:57.966	Custom indicator pipsometer_5_decimal GBPUSD.pro,H1: removed
+2	10:47:57.969	Custom indicator time_table GBPUSD.pro,H1: removed
+2	10:47:57.972	Custom indicator PTL_Sessions GBPUSD.pro,H1: removed
+2	10:47:57.975	Custom indicator FXR_ATR_Pivots GBPUSD.pro,H1: removed
+2	10:47:58.008	Custom indicator pipsometer_5_decimal GBPUSD.pro,H1: loaded successfully
+2	10:47:58.029	Custom indicator time_table GBPUSD.pro,H1: loaded successfully
+2	10:47:58.049	Custom indicator PTL_Sessions GBPUSD.pro,H1: loaded successfully
+2	10:47:58.074	Expert PTL_EA GBPUSD.pro,H1: loaded successfully
+2	10:58:59.784	Custom indicator PTL_Sessions EURUSD.pro,M15: removed
+2	10:58:59.803	Custom indicator PTL_Sessions EURUSD.pro,M15: loaded successfully
+2	10:58:59.842	Custom indicator PTL_Sessions GBPUSD.pro,M15: removed
+2	10:58:59.856	Custom indicator PTL_Sessions GBPUSD.pro,M15: loaded successfully
+2	10:58:59.888	Custom indicator PTL_Sessions USDCAD.pro,M15: removed
+2	10:58:59.902	Custom indicator PTL_Sessions USDCAD.pro,M15: loaded successfully
+2	10:58:59.932	Custom indicator PTL_Sessions USDJPY.pro,M15: removed
+2	10:58:59.946	Custom indicator PTL_Sessions USDJPY.pro,M15: loaded successfully
+2	10:58:59.976	Custom indicator PTL_Sessions AUDUSD.pro,M15: removed
+2	10:58:59.990	Custom indicator PTL_Sessions AUDUSD.pro,M15: loaded successfully
+2	10:59:00.027	Custom indicator PTL_Sessions GBPJPY.pro,M15: removed
+2	10:59:00.044	Custom indicator PTL_Sessions GBPJPY.pro,M15: loaded successfully
+2	10:59:00.077	Custom indicator PTL_Sessions GBPAUD.pro,M15: removed
+2	10:59:00.091	Custom indicator PTL_Sessions GBPAUD.pro,M15: loaded successfully
+2	10:59:00.121	Custom indicator PTL_Sessions XAUUSD.pro,M15: removed
+2	10:59:00.134	Custom indicator PTL_Sessions XAUUSD.pro,M15: loaded successfully
+2	10:59:00.164	Custom indicator PTL_Sessions EURJPY.pro,M15: removed
+2	10:59:00.177	Custom indicator PTL_Sessions EURJPY.pro,M15: loaded successfully
+2	11:02:56.056	Custom indicator PTL_Sessions GBPUSD.pro,M15: removed
+2	11:02:56.069	Custom indicator PTL_Sessions GBPUSD.pro,M15: loaded successfully
+2	11:02:56.096	Custom indicator PTL_Sessions EURUSD.pro,M15: removed
+2	11:02:56.110	Custom indicator PTL_Sessions EURUSD.pro,M15: loaded successfully
+2	11:02:56.139	Custom indicator PTL_Sessions USDCAD.pro,M15: removed
+2	11:02:56.152	Custom indicator PTL_Sessions USDCAD.pro,M15: loaded successfully
+2	11:02:56.182	Custom indicator PTL_Sessions USDJPY.pro,M15: removed
+2	11:02:56.201	Custom indicator PTL_Sessions USDJPY.pro,M15: loaded successfully
+2	11:02:56.234	Custom indicator PTL_Sessions AUDUSD.pro,M15: removed
+2	11:02:56.246	Custom indicator PTL_Sessions AUDUSD.pro,M15: loaded successfully
+2	11:02:56.276	Custom indicator PTL_Sessions GBPJPY.pro,M15: removed
+2	11:02:56.289	Custom indicator PTL_Sessions GBPJPY.pro,M15: loaded successfully
+2	11:02:56.315	Custom indicator PTL_Sessions GBPAUD.pro,M15: removed
+2	11:02:56.328	Custom indicator PTL_Sessions GBPAUD.pro,M15: loaded successfully
+2	11:02:56.355	Custom indicator PTL_Sessions XAUUSD.pro,M15: removed
+2	11:02:56.369	Custom indicator PTL_Sessions XAUUSD.pro,M15: loaded successfully
+2	11:02:56.398	Custom indicator PTL_Sessions EURJPY.pro,M15: removed
+2	11:02:56.411	Custom indicator PTL_Sessions EURJPY.pro,M15: loaded successfully
+2	11:04:40.089	Expert PTL_EA XAUUSD.pro,M15: removed
+2	11:04:40.109	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+2	11:04:40.120	Expert PTL_EA EURUSD.pro,M15: removed
+2	11:04:40.140	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+2	11:04:40.154	Expert PTL_EA GBPUSD.pro,M15: removed
+2	11:04:40.175	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+2	11:04:40.188	Expert PTL_EA GBPJPY.pro,M15: removed
+2	11:04:40.211	Expert PTL_EA GBPJPY.pro,M15: loaded successfully
+2	11:04:40.224	Expert PTL_EA EURJPY.pro,M15: removed
+2	11:04:40.247	Expert PTL_EA EURJPY.pro,M15: loaded successfully
+2	11:04:40.260	Expert PTL_EA AUDUSD.pro,M15: removed
+2	11:04:40.283	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+2	11:04:40.297	Expert PTL_EA USDCAD.pro,M15: removed
+2	11:04:40.319	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+2	11:04:40.332	Expert PTL_EA GBPAUD.pro,M15: removed
+2	11:04:40.354	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+2	11:04:40.366	Expert PTL_EA USDJPY.pro,M15: removed
+2	11:04:40.387	Expert PTL_EA USDJPY.pro,M15: loaded successfully
+2	11:19:24.112	Custom indicator PTL_Sessions GBPUSD.pro,M15: removed
+2	11:19:24.125	Custom indicator PTL_Sessions GBPUSD.pro,M15: loaded successfully
+2	11:19:24.154	Custom indicator PTL_Sessions EURUSD.pro,M15: removed
+2	11:19:24.167	Custom indicator PTL_Sessions EURUSD.pro,M15: loaded successfully
+2	11:19:24.196	Custom indicator PTL_Sessions USDCAD.pro,M15: removed
+2	11:19:24.210	Custom indicator PTL_Sessions USDCAD.pro,M15: loaded successfully
+2	11:19:24.241	Custom indicator PTL_Sessions USDJPY.pro,M15: removed
+2	11:19:24.255	Custom indicator PTL_Sessions USDJPY.pro,M15: loaded successfully
+2	11:19:24.287	Custom indicator PTL_Sessions AUDUSD.pro,M15: removed
+2	11:19:24.300	Custom indicator PTL_Sessions AUDUSD.pro,M15: loaded successfully
+2	11:19:24.330	Custom indicator PTL_Sessions GBPJPY.pro,M15: removed
+2	11:19:24.344	Custom indicator PTL_Sessions GBPJPY.pro,M15: loaded successfully
+2	11:19:24.374	Custom indicator PTL_Sessions GBPAUD.pro,M15: removed
+2	11:19:24.388	Custom indicator PTL_Sessions GBPAUD.pro,M15: loaded successfully
+2	11:19:24.419	Custom indicator PTL_Sessions XAUUSD.pro,M15: removed
+2	11:19:24.433	Custom indicator PTL_Sessions XAUUSD.pro,M15: loaded successfully
+2	11:19:24.465	Custom indicator PTL_Sessions EURJPY.pro,M15: removed
+2	11:19:24.478	Custom indicator PTL_Sessions EURJPY.pro,M15: loaded successfully
+2	11:20:59.724	Expert PTL_EA XAUUSD.pro,M15: removed
+2	11:20:59.741	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+2	11:20:59.749	Expert PTL_EA EURUSD.pro,M15: removed
+2	11:20:59.766	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+2	11:20:59.774	Expert PTL_EA GBPUSD.pro,M15: removed
+2	11:20:59.793	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+2	11:20:59.806	Expert PTL_EA GBPJPY.pro,M15: removed
+2	11:20:59.827	Expert PTL_EA GBPJPY.pro,M15: loaded successfully
+2	11:20:59.839	Expert PTL_EA EURJPY.pro,M15: removed
+2	11:20:59.861	Expert PTL_EA EURJPY.pro,M15: loaded successfully
+2	11:20:59.874	Expert PTL_EA AUDUSD.pro,M15: removed
+2	11:20:59.896	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+2	11:20:59.910	Expert PTL_EA USDCAD.pro,M15: removed
+2	11:20:59.932	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+2	11:20:59.945	Expert PTL_EA GBPAUD.pro,M15: removed
+2	11:20:59.970	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+2	11:20:59.978	Expert PTL_EA USDJPY.pro,M15: removed
+2	11:21:00.001	Expert PTL_EA USDJPY.pro,M15: loaded successfully
+2	11:21:20.880	Expert PTL_EA XAUUSD.pro,M15: removed
+2	11:21:20.899	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+2	11:21:20.908	Expert PTL_EA EURUSD.pro,M15: removed
+2	11:21:20.937	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+2	11:21:20.947	Expert PTL_EA GBPUSD.pro,M15: removed
+2	11:21:20.969	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+2	11:21:20.980	Expert PTL_EA GBPJPY.pro,M15: removed
+2	11:21:21.004	Expert PTL_EA GBPJPY.pro,M15: loaded successfully
+2	11:21:21.016	Expert PTL_EA EURJPY.pro,M15: removed
+2	11:21:21.041	Expert PTL_EA EURJPY.pro,M15: loaded successfully
+2	11:21:21.052	Expert PTL_EA AUDUSD.pro,M15: removed
+2	11:21:21.077	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+2	11:21:21.089	Expert PTL_EA USDCAD.pro,M15: removed
+2	11:21:21.113	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+2	11:21:21.125	Expert PTL_EA GBPAUD.pro,M15: removed
+2	11:21:21.149	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+2	11:21:21.158	Expert PTL_EA USDJPY.pro,M15: removed
+2	11:21:21.183	Expert PTL_EA USDJPY.pro,M15: loaded successfully
+2	11:21:34.029	Expert PTL_EA EURUSD.pro,M15: removed
+2	11:21:34.033	Custom indicator pipsometer_5_decimal EURUSD.pro,M15: removed
+2	11:21:34.035	Custom indicator time_table EURUSD.pro,M15: removed
+2	11:21:34.038	Custom indicator PTL_Sessions EURUSD.pro,M15: removed
+2	11:21:34.051	Custom indicator pipsometer_5_decimal EURUSD.pro,M15: loaded successfully
+2	11:21:34.064	Custom indicator time_table EURUSD.pro,M15: loaded successfully
+2	11:21:34.077	Custom indicator PTL_Sessions EURUSD.pro,M15: loaded successfully
+2	11:21:34.093	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+2	11:21:37.190	Expert PTL_EA EURUSD.pro,M15: removed
+2	11:21:37.193	Custom indicator pipsometer_5_decimal EURUSD.pro,M15: removed
+2	11:21:37.195	Custom indicator time_table EURUSD.pro,M15: removed
+2	11:21:37.197	Custom indicator PTL_Sessions EURUSD.pro,M15: removed
+2	11:21:37.223	Custom indicator PTL_Sessions EURUSD.pro,M15: loaded successfully
+2	11:21:37.236	Custom indicator FXR_ATR_Pivots EURUSD.pro,M15: loaded successfully
+2	11:21:37.253	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+2	11:23:28.303	Custom indicator PTL_Sessions EURUSD.pro,M15: removed
+2	11:23:28.317	Custom indicator PTL_Sessions EURUSD.pro,M15: loaded successfully
+2	11:23:28.351	Custom indicator PTL_Sessions GBPUSD.pro,M15: removed
+2	11:23:28.365	Custom indicator PTL_Sessions GBPUSD.pro,M15: loaded successfully
+2	11:23:28.398	Custom indicator PTL_Sessions USDCAD.pro,M15: removed
+2	11:23:28.411	Custom indicator PTL_Sessions USDCAD.pro,M15: loaded successfully
+2	11:23:28.445	Custom indicator PTL_Sessions USDJPY.pro,M15: removed
+2	11:23:28.458	Custom indicator PTL_Sessions USDJPY.pro,M15: loaded successfully
+2	11:23:28.491	Custom indicator PTL_Sessions AUDUSD.pro,M15: removed
+2	11:23:28.503	Custom indicator PTL_Sessions AUDUSD.pro,M15: loaded successfully
+2	11:23:28.536	Custom indicator PTL_Sessions GBPJPY.pro,M15: removed
+2	11:23:28.549	Custom indicator PTL_Sessions GBPJPY.pro,M15: loaded successfully
+2	11:23:28.582	Custom indicator PTL_Sessions GBPAUD.pro,M15: removed
+2	11:23:28.595	Custom indicator PTL_Sessions GBPAUD.pro,M15: loaded successfully
+2	11:23:28.629	Custom indicator PTL_Sessions XAUUSD.pro,M15: removed
+2	11:23:28.642	Custom indicator PTL_Sessions XAUUSD.pro,M15: loaded successfully
+2	11:23:28.674	Custom indicator PTL_Sessions EURJPY.pro,M15: removed
+2	11:23:28.688	Custom indicator PTL_Sessions EURJPY.pro,M15: loaded successfully
+2	11:23:59.647	Custom indicator PTL_Sessions EURUSD.pro,M15: removed
+2	11:23:59.660	Custom indicator PTL_Sessions EURUSD.pro,M15: loaded successfully
+2	11:23:59.695	Custom indicator PTL_Sessions GBPUSD.pro,M15: removed
+2	11:23:59.709	Custom indicator PTL_Sessions GBPUSD.pro,M15: loaded successfully
+2	11:23:59.738	Custom indicator PTL_Sessions USDCAD.pro,M15: removed
+2	11:23:59.751	Custom indicator PTL_Sessions USDCAD.pro,M15: loaded successfully
+2	11:23:59.782	Custom indicator PTL_Sessions USDJPY.pro,M15: removed
+2	11:23:59.795	Custom indicator PTL_Sessions USDJPY.pro,M15: loaded successfully
+2	11:23:59.825	Custom indicator PTL_Sessions AUDUSD.pro,M15: removed
+2	11:23:59.838	Custom indicator PTL_Sessions AUDUSD.pro,M15: loaded successfully
+2	11:23:59.867	Custom indicator PTL_Sessions GBPJPY.pro,M15: removed
+2	11:23:59.880	Custom indicator PTL_Sessions GBPJPY.pro,M15: loaded successfully
+2	11:23:59.911	Custom indicator PTL_Sessions GBPAUD.pro,M15: removed
+2	11:23:59.925	Custom indicator PTL_Sessions GBPAUD.pro,M15: loaded successfully
+2	11:23:59.956	Custom indicator PTL_Sessions XAUUSD.pro,M15: removed
+2	11:23:59.969	Custom indicator PTL_Sessions XAUUSD.pro,M15: loaded successfully
+2	11:23:59.999	Custom indicator PTL_Sessions EURJPY.pro,M15: removed
+2	11:24:00.023	Custom indicator PTL_Sessions EURJPY.pro,M15: loaded successfully
+2	11:24:11.765	Custom indicator FXR_ATR_Pivots EURUSD.pro,M15: removed
+2	11:25:15.250	Expert PTL_EA XAUUSD.pro,M15: removed
+2	11:25:15.271	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+2	11:25:15.279	Expert PTL_EA EURUSD.pro,M15: removed
+2	11:25:15.301	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+2	11:25:15.314	Expert PTL_EA GBPUSD.pro,M15: removed
+2	11:25:15.336	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+2	11:25:15.349	Expert PTL_EA GBPJPY.pro,M15: removed
+2	11:25:15.373	Expert PTL_EA GBPJPY.pro,M15: loaded successfully
+2	11:25:15.387	Expert PTL_EA EURJPY.pro,M15: removed
+2	11:25:15.411	Expert PTL_EA EURJPY.pro,M15: loaded successfully
+2	11:25:15.424	Expert PTL_EA AUDUSD.pro,M15: removed
+2	11:25:15.451	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+2	11:25:15.457	Expert PTL_EA USDCAD.pro,M15: removed
+2	11:25:15.481	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+2	11:25:15.488	Expert PTL_EA GBPAUD.pro,M15: removed
+2	11:25:15.512	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+2	11:25:15.519	Expert PTL_EA USDJPY.pro,M15: removed
+2	11:25:15.543	Expert PTL_EA USDJPY.pro,M15: loaded successfully
+2	11:27:24.224	Expert PTL_EA GBPJPY.pro,M15: removed
+2	11:27:24.227	Custom indicator pipsometer_5_decimal GBPJPY.pro,M15: removed
+2	11:27:24.230	Custom indicator time_table GBPJPY.pro,M15: removed
+2	11:27:24.232	Custom indicator PTL_Sessions GBPJPY.pro,M15: removed
+2	11:27:24.245	Custom indicator pipsometer_5_decimal GBPJPY.pro,M15: loaded successfully
+2	11:27:24.259	Custom indicator time_table GBPJPY.pro,M15: loaded successfully
+2	11:27:24.273	Custom indicator PTL_Sessions GBPJPY.pro,M15: loaded successfully
+2	11:27:24.290	Expert PTL_EA GBPJPY.pro,M15: loaded successfully
+2	11:28:25.132	Expert PTL_EA XAUUSD.pro,M15: removed
+2	11:28:25.135	Custom indicator pipsometer_5_decimal XAUUSD.pro,M15: removed
+2	11:28:25.138	Custom indicator time_table XAUUSD.pro,M15: removed
+2	11:28:25.141	Custom indicator PTL_Sessions XAUUSD.pro,M15: removed
+2	11:28:25.143	Custom indicator FXR_ATR_Pivots XAUUSD.pro,M15: removed
+2	11:28:25.156	Custom indicator pipsometer_5_decimal XAUUSD.pro,M15: loaded successfully
+2	11:28:25.168	Custom indicator time_table XAUUSD.pro,M15: loaded successfully
+2	11:28:25.181	Custom indicator PTL_Sessions XAUUSD.pro,M15: loaded successfully
+2	11:28:25.199	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+2	11:29:59.358	Expert PTL_EA EURJPY.pro,M15: removed
+2	11:29:59.361	Custom indicator pipsometer_5_decimal EURJPY.pro,M15: removed
+2	11:29:59.364	Custom indicator time_table EURJPY.pro,M15: removed
+2	11:29:59.366	Custom indicator PTL_Sessions EURJPY.pro,M15: removed
+2	11:29:59.369	Custom indicator FXR_ATR_Pivots EURJPY.pro,M15: removed
+2	11:29:59.382	Custom indicator pipsometer_5_decimal EURJPY.pro,M15: loaded successfully
+2	11:29:59.395	Custom indicator time_table EURJPY.pro,M15: loaded successfully
+2	11:29:59.409	Custom indicator PTL_Sessions EURJPY.pro,M15: loaded successfully
+2	11:29:59.425	Expert PTL_EA EURJPY.pro,M15: loaded successfully
+2	11:30:13.535	Expert PTL_EA USDJPY.pro,M15: removed
+2	11:30:13.538	Custom indicator pipsometer_5_decimal USDJPY.pro,M15: removed
+2	11:30:13.540	Custom indicator time_table USDJPY.pro,M15: removed
+2	11:30:13.542	Custom indicator PTL_Sessions USDJPY.pro,M15: removed
+2	11:30:13.556	Custom indicator pipsometer_5_decimal USDJPY.pro,M15: loaded successfully
+2	11:30:13.570	Custom indicator time_table USDJPY.pro,M15: loaded successfully
+2	11:30:13.584	Custom indicator PTL_Sessions USDJPY.pro,M15: loaded successfully
+2	11:30:13.601	Expert PTL_EA USDJPY.pro,M15: loaded successfully
+2	11:34:15.935	Expert PTL_EA XAUUSD.pro,M15: removed
+2	11:34:15.954	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+2	11:34:15.963	Expert PTL_EA EURUSD.pro,M15: removed
+2	11:34:15.983	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+2	11:34:15.993	Expert PTL_EA GBPUSD.pro,M15: removed
+2	11:34:16.018	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+2	11:34:16.032	Expert PTL_EA GBPJPY.pro,M30: removed
+2	11:34:16.058	Expert PTL_EA GBPJPY.pro,M30: loaded successfully
+2	11:34:16.072	Expert PTL_EA EURJPY.pro,M30: removed
+2	11:34:16.098	Expert PTL_EA EURJPY.pro,M30: loaded successfully
+2	11:34:16.117	Expert PTL_EA AUDUSD.pro,M15: removed
+2	11:34:16.142	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+2	11:34:16.158	Expert PTL_EA USDCAD.pro,M15: removed
+2	11:34:16.183	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+2	11:34:16.198	Expert PTL_EA GBPAUD.pro,M15: removed
+2	11:34:16.224	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+2	11:34:16.238	Expert PTL_EA USDJPY.pro,M15: removed
+2	11:34:16.264	Expert PTL_EA USDJPY.pro,M15: loaded successfully
+2	11:34:41.807	Expert PTL_EA XAUUSD.pro,M15: removed
+2	11:34:41.825	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+2	11:34:41.835	Expert PTL_EA EURUSD.pro,M15: removed
+2	11:34:41.856	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+2	11:34:41.866	Expert PTL_EA GBPUSD.pro,M15: removed
+2	11:34:41.888	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+2	11:34:41.903	Expert PTL_EA GBPJPY.pro,M30: removed
+2	11:34:41.926	Expert PTL_EA GBPJPY.pro,M30: loaded successfully
+2	11:34:41.938	Expert PTL_EA EURJPY.pro,M30: removed
+2	11:34:41.961	Expert PTL_EA EURJPY.pro,M30: loaded successfully
+2	11:34:41.976	Expert PTL_EA AUDUSD.pro,M15: removed
+2	11:34:41.999	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+2	11:34:42.007	Expert PTL_EA USDCAD.pro,M15: removed
+2	11:34:42.030	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+2	11:34:42.048	Expert PTL_EA GBPAUD.pro,M15: removed
+2	11:34:42.076	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+2	11:34:42.091	Expert PTL_EA USDJPY.pro,M15: removed
+2	11:34:42.115	Expert PTL_EA USDJPY.pro,M15: loaded successfully
+2	11:35:02.511	Expert PTL_EA XAUUSD.pro,M15: removed
+2	11:35:02.532	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+2	11:35:02.547	Expert PTL_EA EURUSD.pro,M15: removed
+2	11:35:02.568	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+2	11:35:02.580	Expert PTL_EA GBPUSD.pro,M15: removed
+2	11:35:02.602	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+2	11:35:02.614	Expert PTL_EA GBPJPY.pro,M30: removed
+2	11:35:02.636	Expert PTL_EA GBPJPY.pro,M30: loaded successfully
+2	11:35:02.651	Expert PTL_EA EURJPY.pro,M30: removed
+2	11:35:02.674	Expert PTL_EA EURJPY.pro,M30: loaded successfully
+2	11:35:02.688	Expert PTL_EA AUDUSD.pro,M15: removed
+2	11:35:02.710	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+2	11:35:02.718	Expert PTL_EA USDCAD.pro,M15: removed
+2	11:35:02.739	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+2	11:35:02.756	Expert PTL_EA GBPAUD.pro,M15: removed
+2	11:35:02.778	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+2	11:35:02.785	Expert PTL_EA USDJPY.pro,M15: removed
+2	11:35:02.810	Expert PTL_EA USDJPY.pro,M15: loaded successfully
+2	11:36:43.737	Expert PTL_EA XAUUSD.pro,M15: removed
+2	11:36:43.757	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+2	11:36:43.765	Expert PTL_EA EURUSD.pro,M15: removed
+2	11:36:43.784	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+2	11:36:43.794	Expert PTL_EA GBPUSD.pro,M15: removed
+2	11:36:43.815	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+2	11:36:43.828	Expert PTL_EA GBPJPY.pro,M30: removed
+2	11:36:43.853	Expert PTL_EA GBPJPY.pro,M30: loaded successfully
+2	11:36:43.866	Expert PTL_EA EURJPY.pro,M30: removed
+2	11:36:43.895	Expert PTL_EA EURJPY.pro,M30: loaded successfully
+2	11:36:43.918	Expert PTL_EA AUDUSD.pro,M15: removed
+2	11:36:43.947	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+2	11:36:43.962	Expert PTL_EA USDCAD.pro,M15: removed
+2	11:36:44.003	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+2	11:36:44.021	Expert PTL_EA GBPAUD.pro,M15: removed
+2	11:36:44.047	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+2	11:36:44.092	Expert PTL_EA USDJPY.pro,M15: removed
+2	11:36:44.117	Expert PTL_EA USDJPY.pro,M15: loaded successfully
+2	11:37:09.218	Expert PTL_EA XAUUSD.pro,M15: removed
+2	11:37:09.236	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+2	11:37:09.242	Expert PTL_EA EURUSD.pro,M15: removed
+2	11:37:09.263	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+2	11:37:09.276	Expert PTL_EA GBPUSD.pro,M15: removed
+2	11:37:09.301	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+2	11:37:09.312	Expert PTL_EA GBPJPY.pro,M30: removed
+2	11:37:09.337	Expert PTL_EA GBPJPY.pro,M30: loaded successfully
+2	11:37:09.350	Expert PTL_EA EURJPY.pro,M30: removed
+2	11:37:09.375	Expert PTL_EA EURJPY.pro,M30: loaded successfully
+2	11:37:09.390	Expert PTL_EA AUDUSD.pro,M15: removed
+2	11:37:09.416	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+2	11:37:09.424	Expert PTL_EA USDCAD.pro,M15: removed
+2	11:37:09.448	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+2	11:37:09.462	Expert PTL_EA GBPAUD.pro,M15: removed
+2	11:37:09.487	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+2	11:37:09.498	Expert PTL_EA USDJPY.pro,M15: removed
+2	11:37:09.522	Expert PTL_EA USDJPY.pro,M15: loaded successfully
+2	11:37:30.588	Expert PTL_EA XAUUSD.pro,M15: removed
+2	11:37:30.608	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+2	11:37:30.614	Expert PTL_EA EURUSD.pro,M15: removed
+2	11:37:30.633	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+2	11:37:30.646	Expert PTL_EA GBPUSD.pro,H4: removed
+2	11:37:30.672	Expert PTL_EA GBPUSD.pro,H4: loaded successfully
+2	11:37:30.685	Expert PTL_EA GBPJPY.pro,M30: removed
+2	11:37:30.709	Expert PTL_EA GBPJPY.pro,M30: loaded successfully
+2	11:37:30.722	Expert PTL_EA EURJPY.pro,M30: removed
+2	11:37:30.745	Expert PTL_EA EURJPY.pro,M30: loaded successfully
+2	11:37:30.760	Expert PTL_EA AUDUSD.pro,M15: removed
+2	11:37:30.791	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+2	11:37:30.806	Expert PTL_EA USDCAD.pro,M15: removed
+2	11:37:30.829	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+2	11:37:30.837	Expert PTL_EA GBPAUD.pro,M15: removed
+2	11:37:30.859	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+2	11:37:30.866	Expert PTL_EA USDJPY.pro,M15: removed
+2	11:37:30.887	Expert PTL_EA USDJPY.pro,M15: loaded successfully
+2	11:46:41.160	Expert PTL_EA XAUUSD.pro,M15: removed
+2	11:46:41.179	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+2	11:46:41.188	Expert PTL_EA EURUSD.pro,M15: removed
+2	11:46:41.210	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+2	11:46:41.221	Expert PTL_EA GBPUSD.pro,M15: removed
+2	11:46:41.245	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+2	11:46:41.260	Expert PTL_EA GBPJPY.pro,M30: removed
+2	11:46:41.286	Expert PTL_EA GBPJPY.pro,M30: loaded successfully
+2	11:46:41.311	Expert PTL_EA EURJPY.pro,M30: removed
+2	11:46:41.355	Expert PTL_EA EURJPY.pro,M30: loaded successfully
+2	11:46:41.373	Expert PTL_EA AUDUSD.pro,M15: removed
+2	11:46:41.401	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+2	11:46:41.416	Expert PTL_EA USDCAD.pro,M15: removed
+2	11:46:41.505	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+2	11:46:41.532	Expert PTL_EA GBPAUD.pro,M15: removed
+2	11:46:41.566	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+2	11:46:41.573	Expert PTL_EA USDJPY.pro,M15: removed
+2	11:46:41.598	Expert PTL_EA USDJPY.pro,M15: loaded successfully
+2	13:15:16.446	Expert PTL_EA XAUUSD.pro,M15: removed
+2	13:15:16.464	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+2	13:15:16.469	Expert PTL_EA EURUSD.pro,M15: removed
+2	13:15:16.489	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+2	13:15:16.501	Expert PTL_EA GBPUSD.pro,M15: removed
+2	13:15:16.522	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+2	13:15:16.537	Expert PTL_EA GBPJPY.pro,M30: removed
+2	13:15:16.560	Expert PTL_EA GBPJPY.pro,M30: loaded successfully
+2	13:15:16.574	Expert PTL_EA EURJPY.pro,M30: removed
+2	13:15:16.598	Expert PTL_EA EURJPY.pro,M30: loaded successfully
+2	13:15:16.614	Expert PTL_EA AUDUSD.pro,M15: removed
+2	13:15:16.639	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+2	13:15:16.656	Expert PTL_EA USDCAD.pro,M15: removed
+2	13:15:16.678	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+2	13:15:16.695	Expert PTL_EA GBPAUD.pro,M15: removed
+2	13:15:16.718	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+2	13:15:16.732	Expert PTL_EA USDJPY.pro,M15: removed
+2	13:15:16.752	Expert PTL_EA USDJPY.pro,M15: loaded successfully
+2	13:15:33.591	Expert PTL_EA XAUUSD.pro,M15: removed
+2	13:15:33.609	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+2	13:15:33.621	Expert PTL_EA EURUSD.pro,M15: removed
+2	13:15:33.641	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+2	13:15:33.654	Expert PTL_EA GBPUSD.pro,M15: removed
+2	13:15:33.673	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+2	13:15:33.684	Expert PTL_EA GBPJPY.pro,M30: removed
+2	13:15:33.706	Expert PTL_EA GBPJPY.pro,M30: loaded successfully
+2	13:15:33.721	Expert PTL_EA EURJPY.pro,M30: removed
+2	13:15:33.742	Expert PTL_EA EURJPY.pro,M30: loaded successfully
+2	13:15:33.756	Expert PTL_EA AUDUSD.pro,M15: removed
+2	13:15:33.779	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+2	13:15:33.795	Expert PTL_EA USDCAD.pro,M15: removed
+2	13:15:33.821	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+2	13:15:33.837	Expert PTL_EA GBPAUD.pro,M15: removed
+2	13:15:33.859	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+2	13:15:33.875	Expert PTL_EA USDJPY.pro,M15: removed
+2	13:15:33.896	Expert PTL_EA USDJPY.pro,M15: loaded successfully
+2	13:51:41.325	Expert PTL_EA XAUUSD.pro,M15: removed
+2	13:51:41.344	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+2	13:51:41.356	Expert PTL_EA EURUSD.pro,M15: removed
+2	13:51:41.375	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+2	13:51:41.386	Expert PTL_EA GBPUSD.pro,M15: removed
+2	13:51:41.406	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+2	13:51:41.417	Expert PTL_EA GBPJPY.pro,H1: removed
+2	13:51:41.441	Expert PTL_EA GBPJPY.pro,H1: loaded successfully
+2	13:51:41.456	Expert PTL_EA EURJPY.pro,M30: removed
+2	13:51:41.480	Expert PTL_EA EURJPY.pro,M30: loaded successfully
+2	13:51:41.496	Expert PTL_EA AUDUSD.pro,M15: removed
+2	13:51:41.524	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+2	13:51:41.545	Expert PTL_EA USDCAD.pro,M15: removed
+2	13:51:41.576	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+2	13:51:41.591	Expert PTL_EA GBPAUD.pro,M15: removed
+2	13:51:41.618	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+2	13:51:41.633	Expert PTL_EA USDJPY.pro,M15: removed
+2	13:51:41.658	Expert PTL_EA USDJPY.pro,M15: loaded successfully
+2	13:55:04.604	Expert PTL_EA XAUUSD.pro,M15: removed
+2	13:55:04.633	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+2	13:55:04.643	Expert PTL_EA EURUSD.pro,M15: removed
+2	13:55:04.662	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+2	13:55:04.672	Expert PTL_EA GBPUSD.pro,M15: removed
+2	13:55:04.695	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+2	13:55:04.708	Expert PTL_EA GBPJPY.pro,M30: removed
+2	13:55:04.734	Expert PTL_EA GBPJPY.pro,M30: loaded successfully
+2	13:55:04.748	Expert PTL_EA EURJPY.pro,M15: removed
+2	13:55:04.773	Expert PTL_EA EURJPY.pro,M15: loaded successfully
+2	13:55:04.787	Expert PTL_EA AUDUSD.pro,M15: removed
+2	13:55:04.813	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+2	13:55:04.832	Expert PTL_EA USDCAD.pro,M15: removed
+2	13:55:04.876	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+2	13:55:04.886	Expert PTL_EA GBPAUD.pro,M15: removed
+2	13:55:04.910	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+2	13:55:04.918	Expert PTL_EA USDJPY.pro,H4: removed
+2	13:55:04.941	Expert PTL_EA USDJPY.pro,H4: loaded successfully
+2	13:55:47.532	Expert PTL_EA XAUUSD.pro,M15: removed
+2	13:55:47.550	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+2	13:55:47.560	Expert PTL_EA EURUSD.pro,M15: removed
+2	13:55:47.579	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+2	13:55:47.589	Expert PTL_EA GBPUSD.pro,M15: removed
+2	13:55:47.612	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+2	13:55:47.624	Expert PTL_EA GBPJPY.pro,M30: removed
+2	13:55:47.648	Expert PTL_EA GBPJPY.pro,M30: loaded successfully
+2	13:55:47.662	Expert PTL_EA EURJPY.pro,M15: removed
+2	13:55:47.688	Expert PTL_EA EURJPY.pro,M15: loaded successfully
+2	13:55:47.703	Expert PTL_EA AUDUSD.pro,M15: removed
+2	13:55:47.728	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+2	13:55:47.741	Expert PTL_EA USDCAD.pro,M15: removed
+2	13:55:47.767	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+2	13:55:47.774	Expert PTL_EA GBPAUD.pro,M15: removed
+2	13:55:47.800	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+2	13:55:47.818	Expert PTL_EA USDJPY.pro,H4: removed
+2	13:55:47.847	Expert PTL_EA USDJPY.pro,H4: loaded successfully
+2	13:57:38.515	Expert PTL_EA USDCAD.pro,M15: removed
+2	13:57:38.518	Custom indicator pipsometer_5_decimal USDCAD.pro,M15: removed
+2	13:57:38.521	Custom indicator time_table USDCAD.pro,M15: removed
+2	13:57:38.524	Custom indicator PTL_Sessions USDCAD.pro,M15: removed
+2	13:57:38.537	Custom indicator pipsometer_5_decimal USDCAD.pro,M15: loaded successfully
+2	13:57:38.550	Custom indicator time_table USDCAD.pro,M15: loaded successfully
+2	13:57:38.565	Custom indicator PTL_Sessions USDCAD.pro,M15: loaded successfully
+2	13:57:38.582	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+2	13:58:49.739	Expert PTL_EA XAUUSD.pro,M15: removed
+2	13:58:49.758	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+2	13:58:49.767	Expert PTL_EA EURUSD.pro,M15: removed
+2	13:58:49.792	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+2	13:58:49.802	Expert PTL_EA GBPUSD.pro,M15: removed
+2	13:58:49.826	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+2	13:58:49.839	Expert PTL_EA GBPJPY.pro,M30: removed
+2	13:58:49.868	Expert PTL_EA GBPJPY.pro,M30: loaded successfully
+2	13:58:49.883	Expert PTL_EA EURJPY.pro,M15: removed
+2	13:58:49.911	Expert PTL_EA EURJPY.pro,M15: loaded successfully
+2	13:58:49.932	Expert PTL_EA AUDUSD.pro,M15: removed
+2	13:58:49.960	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+2	13:58:49.977	Expert PTL_EA USDCAD.pro,M15: removed
+2	13:58:50.003	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+2	13:58:50.021	Expert PTL_EA GBPAUD.pro,M15: removed
+2	13:58:50.047	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+2	13:58:50.064	Expert PTL_EA USDJPY.pro,M30: removed
+2	13:58:50.090	Expert PTL_EA USDJPY.pro,M30: loaded successfully
+2	14:18:03.762	Expert PTL_EA XAUUSD.pro,M15: removed
+2	14:18:03.790	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+2	14:18:03.801	Expert PTL_EA EURUSD.pro,M15: removed
+2	14:18:03.822	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+2	14:18:03.831	Expert PTL_EA GBPUSD.pro,M15: removed
+2	14:18:03.853	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+2	14:18:03.866	Expert PTL_EA GBPJPY.pro,M30: removed
+2	14:18:03.897	Expert PTL_EA GBPJPY.pro,M30: loaded successfully
+2	14:18:03.911	Expert PTL_EA EURJPY.pro,M15: removed
+2	14:18:03.933	Expert PTL_EA EURJPY.pro,M15: loaded successfully
+2	14:18:03.947	Expert PTL_EA AUDUSD.pro,M15: removed
+2	14:18:03.972	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+2	14:18:03.986	Expert PTL_EA USDCAD.pro,H4: removed
+2	14:18:04.010	Expert PTL_EA USDCAD.pro,H4: loaded successfully
+2	14:18:04.026	Expert PTL_EA GBPAUD.pro,M15: removed
+2	14:18:04.049	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+2	14:18:04.067	Expert PTL_EA USDJPY.pro,M30: removed
+2	14:18:04.088	Expert PTL_EA USDJPY.pro,M30: loaded successfully
+2	14:18:37.251	Expert PTL_EA XAUUSD.pro,M15: removed
+2	14:18:37.272	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+2	14:18:37.281	Expert PTL_EA EURUSD.pro,M15: removed
+2	14:18:37.303	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+2	14:18:37.313	Expert PTL_EA GBPUSD.pro,M15: removed
+2	14:18:37.337	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+2	14:18:37.349	Expert PTL_EA GBPJPY.pro,M30: removed
+2	14:18:37.374	Expert PTL_EA GBPJPY.pro,M30: loaded successfully
+2	14:18:37.388	Expert PTL_EA EURJPY.pro,M15: removed
+2	14:18:37.416	Expert PTL_EA EURJPY.pro,M15: loaded successfully
+2	14:18:37.424	Expert PTL_EA AUDUSD.pro,M15: removed
+2	14:18:37.450	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+2	14:18:37.465	Expert PTL_EA USDCAD.pro,H4: removed
+2	14:18:37.493	Expert PTL_EA USDCAD.pro,H4: loaded successfully
+2	14:18:37.508	Expert PTL_EA GBPAUD.pro,M15: removed
+2	14:18:37.536	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+2	14:18:37.550	Expert PTL_EA USDJPY.pro,M30: removed
+2	14:18:37.575	Expert PTL_EA USDJPY.pro,M30: loaded successfully
+2	14:19:16.187	Expert PTL_EA XAUUSD.pro,M15: removed
+2	14:19:16.205	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+2	14:19:16.214	Expert PTL_EA EURUSD.pro,M15: removed
+2	14:19:16.234	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+2	14:19:16.244	Expert PTL_EA GBPUSD.pro,M15: removed
+2	14:19:16.266	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+2	14:19:16.278	Expert PTL_EA GBPJPY.pro,M30: removed
+2	14:19:16.300	Expert PTL_EA GBPJPY.pro,M30: loaded successfully
+2	14:19:16.314	Expert PTL_EA EURJPY.pro,H1: removed
+2	14:19:16.338	Expert PTL_EA EURJPY.pro,H1: loaded successfully
+2	14:19:16.352	Expert PTL_EA AUDUSD.pro,M15: removed
+2	14:19:16.379	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+2	14:19:16.395	Expert PTL_EA USDCAD.pro,H4: removed
+2	14:19:16.422	Expert PTL_EA USDCAD.pro,H4: loaded successfully
+2	14:19:16.438	Expert PTL_EA GBPAUD.pro,M15: removed
+2	14:19:16.462	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+2	14:19:16.474	Expert PTL_EA USDJPY.pro,M30: removed
+2	14:19:16.498	Expert PTL_EA USDJPY.pro,M30: loaded successfully
+2	14:24:57.570	Expert PTL_EA XAUUSD.pro,M15: removed
+2	14:24:57.595	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+2	14:24:57.606	Expert PTL_EA EURUSD.pro,M30: removed
+2	14:24:57.633	Expert PTL_EA EURUSD.pro,M30: loaded successfully
+2	14:24:57.646	Expert PTL_EA GBPUSD.pro,M15: removed
+2	14:24:57.677	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+2	14:24:57.712	Expert PTL_EA GBPJPY.pro,M30: removed
+2	14:24:57.736	Expert PTL_EA GBPJPY.pro,M30: loaded successfully
+2	14:24:57.760	Expert PTL_EA EURJPY.pro,H1: removed
+2	14:24:57.792	Expert PTL_EA EURJPY.pro,H1: loaded successfully
+2	14:24:57.835	Expert PTL_EA AUDUSD.pro,M15: removed
+2	14:24:57.860	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+2	14:24:57.878	Expert PTL_EA USDCAD.pro,H4: removed
+2	14:24:57.902	Expert PTL_EA USDCAD.pro,H4: loaded successfully
+2	14:24:57.919	Expert PTL_EA GBPAUD.pro,M15: removed
+2	14:24:57.942	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+2	14:24:57.959	Expert PTL_EA USDJPY.pro,M30: removed
+2	14:24:57.982	Expert PTL_EA USDJPY.pro,M30: loaded successfully
+2	14:25:36.926	Expert PTL_EA XAUUSD.pro,M15: removed
+2	14:25:36.946	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+2	14:25:36.953	Expert PTL_EA EURUSD.pro,M30: removed
+2	14:25:36.972	Expert PTL_EA EURUSD.pro,M30: loaded successfully
+2	14:25:36.983	Expert PTL_EA GBPUSD.pro,M15: removed
+2	14:25:37.007	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+2	14:25:37.022	Expert PTL_EA GBPJPY.pro,M30: removed
+2	14:25:37.046	Expert PTL_EA GBPJPY.pro,M30: loaded successfully
+2	14:25:37.062	Expert PTL_EA EURJPY.pro,H1: removed
+2	14:25:37.085	Expert PTL_EA EURJPY.pro,H1: loaded successfully
+2	14:25:37.099	Expert PTL_EA AUDUSD.pro,M15: removed
+2	14:25:37.122	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+2	14:25:37.143	Expert PTL_EA USDCAD.pro,H4: removed
+2	14:25:37.168	Expert PTL_EA USDCAD.pro,H4: loaded successfully
+2	14:25:37.175	Expert PTL_EA GBPAUD.pro,M15: removed
+2	14:25:37.198	Expert PTL_EA GBPAUD.pro,M15: loaded successfully
+2	14:25:37.213	Expert PTL_EA USDJPY.pro,M30: removed
+2	14:25:37.237	Expert PTL_EA USDJPY.pro,M30: loaded successfully
+2	14:41:34.279	Expert PTL_EA XAUUSD.pro,M15: removed
+2	14:41:34.285	Custom indicator pipsometer_5_decimal XAUUSD.pro,M15: removed
+2	14:41:34.291	Custom indicator time_table XAUUSD.pro,M15: removed
+2	14:41:34.296	Custom indicator PTL_Sessions XAUUSD.pro,M15: removed
+2	14:41:34.321	Expert PTL_EA EURUSD.pro,M30: removed
+2	14:41:34.330	Custom indicator PTL_Sessions EURUSD.pro,M30: removed
+2	14:41:34.355	Expert PTL_EA GBPUSD.pro,M15: removed
+2	14:41:34.361	Custom indicator pipsometer_5_decimal GBPUSD.pro,M15: removed
+2	14:41:34.364	Custom indicator time_table GBPUSD.pro,M15: removed
+2	14:41:34.367	Custom indicator PTL_Sessions GBPUSD.pro,M15: removed
+2	14:41:34.390	Expert PTL_EA GBPJPY.pro,M30: removed
+2	14:41:34.395	Custom indicator pipsometer_5_decimal GBPJPY.pro,M30: removed
+2	14:41:34.398	Custom indicator time_table GBPJPY.pro,M30: removed
+2	14:41:34.401	Custom indicator PTL_Sessions GBPJPY.pro,M30: removed
+2	14:41:34.410	Expert PTL_EA EURJPY.pro,H1: removed
+2	14:41:34.415	Custom indicator pipsometer_5_decimal EURJPY.pro,H1: removed
+2	14:41:34.417	Custom indicator time_table EURJPY.pro,H1: removed
+2	14:41:34.420	Custom indicator PTL_Sessions EURJPY.pro,H1: removed
+2	14:41:34.428	Expert PTL_EA AUDUSD.pro,M15: removed
+2	14:41:34.433	Custom indicator pipsometer_5_decimal AUDUSD.pro,M15: removed
+2	14:41:34.436	Custom indicator time_table AUDUSD.pro,M15: removed
+2	14:41:34.439	Custom indicator PTL_Sessions AUDUSD.pro,M15: removed
+2	14:41:34.442	Custom indicator FXR_ATR_Pivots AUDUSD.pro,M15: removed
+2	14:41:34.448	Expert PTL_EA USDCAD.pro,H4: removed
+2	14:41:34.452	Custom indicator pipsometer_5_decimal USDCAD.pro,H4: removed
+2	14:41:34.455	Custom indicator time_table USDCAD.pro,H4: removed
+2	14:41:34.460	Custom indicator PTL_Sessions USDCAD.pro,H4: removed
+2	14:41:34.466	Expert PTL_EA GBPAUD.pro,M15: removed
+2	14:41:34.470	Custom indicator pipsometer_5_decimal GBPAUD.pro,M15: removed
+2	14:41:34.473	Custom indicator time_table GBPAUD.pro,M15: removed
+2	14:41:34.476	Custom indicator PTL_Sessions GBPAUD.pro,M15: removed
+2	14:41:34.488	Expert PTL_EA USDJPY.pro,M30: removed
+2	14:41:34.495	Custom indicator pipsometer_5_decimal USDJPY.pro,M30: removed
+2	14:41:34.498	Custom indicator time_table USDJPY.pro,M30: removed
+2	14:41:34.501	Custom indicator PTL_Sessions USDJPY.pro,M30: removed
+0	14:41:37.820	MetaTrader build 1260 stopped
