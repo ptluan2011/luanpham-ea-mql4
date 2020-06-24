@@ -12,7 +12,7 @@ void DrawTrendLine(string labelName, bool isHLine,
    ObjectCreate(labelName, isHLine? OBJ_HLINE : OBJ_TREND, 0, startTime, price1, endTime, price2, 0, 0);
    ObjectSet(labelName, OBJPROP_RAY_RIGHT, isRay);
    ObjectSet(labelName, OBJPROP_COLOR, lineColor);
-//ObjectSet(labelName, OBJPROP_STYLE, style);
+   ObjectSet(labelName, OBJPROP_STYLE, style);
    ObjectSet(labelName, OBJPROP_WIDTH, width);
    ObjectSet(labelName, OBJPROP_BACK,obj_backgound);
    ObjectSet(labelName, OBJPROP_TIMEFRAMES, ConvertTFtoObj_Period(timeFrame));
@@ -289,19 +289,19 @@ void DrawTrendPrice(string signal_text_0, string signal_text_1, string signal_te
   
    ObjectCreate("txt_trend_price_0", OBJ_LABEL, 0, 0, 0);
    ObjectSetText("txt_trend_price_0", signal_text_0, 8, "Arial Bold", Green);
-   ObjectSet("txt_trend_price_0", OBJPROP_CORNER, 3);   // controls the corner the text is put into 0=top left 1=topright 2=bottom left 3=bottom right
+   ObjectSet("txt_trend_price_0", OBJPROP_CORNER, 2);   // controls the corner the text is put into 0=top left 1=topright 2=bottom left 3=bottom right
    ObjectSet("txt_trend_price_0", OBJPROP_XDISTANCE, 8);//controls distance text block is from margin
    ObjectSet("txt_trend_price_0", OBJPROP_YDISTANCE, 35);
 
    ObjectCreate("txt_trend_price_1", OBJ_LABEL, 0, 0, 0);
    ObjectSetText("txt_trend_price_1", signal_text_1, 8, "Arial Bold", Green);
-   ObjectSet("txt_trend_price_1", OBJPROP_CORNER, 3);   // controls the corner the text is put into 0=top left 1=topright 2=bottom left 3=bottom right
+   ObjectSet("txt_trend_price_1", OBJPROP_CORNER, 2);   // controls the corner the text is put into 0=top left 1=topright 2=bottom left 3=bottom right
    ObjectSet("txt_trend_price_1", OBJPROP_XDISTANCE, 8);//controls distance text block is from margin
    ObjectSet("txt_trend_price_1", OBJPROP_YDISTANCE, 22);
    
    ObjectCreate("txt_trend_price_2", OBJ_LABEL, 0, 0, 0);
    ObjectSetText("txt_trend_price_2", signal_text_2, 8, "Arial Bold", Green);
-   ObjectSet("txt_trend_price_2", OBJPROP_CORNER, 3);   // controls the corner the text is put into 0=top left 1=topright 2=bottom left 3=bottom right
+   ObjectSet("txt_trend_price_2", OBJPROP_CORNER, 2);   // controls the corner the text is put into 0=top left 1=topright 2=bottom left 3=bottom right
    ObjectSet("txt_trend_price_2", OBJPROP_XDISTANCE, 8);//controls distance text block is from margin
    ObjectSet("txt_trend_price_2", OBJPROP_YDISTANCE, 10);
   }

@@ -1,0 +1,52 @@
+0	13:27:52.767	Custom indicator pipsometer_5_decimal XAUUSD.pro,M15: loaded successfully
+0	13:27:52.782	Custom indicator PTL_Sessions XAUUSD.pro,M15: loaded successfully
+0	13:27:52.813	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+0	13:27:52.813	PTL_EA XAUUSD.pro,M15 inputs: InpLanguage=1; TelegramToken=927322228:AAFxIy4Tw_rfZr6LEoyO5tocsMNBxwNXIHI; TelegramNotification=true; Pair_suffix=; InpUpdateMode=1; InpTemplates=ptl_screenshot;ptl_screenshot_zoom; 
+0	13:27:52.860	pipsometer_5_decimal XAUUSD.pro,M15: initialized
+0	13:27:52.898	PTL_Sessions XAUUSD.pro,M15: initialized
+0	13:27:52.945	Custom indicator pipsometer_5_decimal EURUSD.pro,M15: loaded successfully
+0	13:27:52.967	Custom indicator PTL_Sessions EURUSD.pro,M15: loaded successfully
+0	13:27:52.998	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+0	13:27:52.998	PTL_EA EURUSD.pro,M15 inputs: InpLanguage=1; TelegramToken=927322228:AAFxIy4Tw_rfZr6LEoyO5tocsMNBxwNXIHI; TelegramNotification=true; Pair_suffix=; InpUpdateMode=1; InpTemplates=ptl_screenshot;ptl_screenshot_zoom; 
+0	13:27:53.030	pipsometer_5_decimal EURUSD.pro,M15: initialized
+0	13:27:53.067	PTL_Sessions EURUSD.pro,M15: initialized
+0	13:27:53.114	Custom indicator pipsometer_5_decimal GBPUSD.pro,M15: loaded successfully
+0	13:27:53.130	Custom indicator PTL_Sessions GBPUSD.pro,M15: loaded successfully
+0	13:27:53.145	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+0	13:27:53.145	PTL_EA GBPUSD.pro,M15 inputs: InpLanguage=1; TelegramToken=927322228:AAFxIy4Tw_rfZr6LEoyO5tocsMNBxwNXIHI; TelegramNotification=true; Pair_suffix=; InpUpdateMode=1; InpTemplates=ptl_screenshot;ptl_screenshot_zoom; 
+0	13:27:53.531	pipsometer_5_decimal GBPUSD.pro,M15: initialized
+0	13:27:53.561	PTL_Sessions GBPUSD.pro,M15: initialized
+0	13:27:53.605	Custom indicator pipsometer_5_decimal GBPJPY.pro,M15: loaded successfully
+0	13:27:53.621	Custom indicator PTL_Sessions GBPJPY.pro,M15: loaded successfully
+0	13:27:53.636	Expert PTL_EA GBPJPY.pro,M15: loaded successfully
+0	13:27:53.636	PTL_EA GBPJPY.pro,M15 inputs: InpLanguage=1; TelegramToken=927322228:AAFxIy4Tw_rfZr6LEoyO5tocsMNBxwNXIHI; TelegramNotification=true; Pair_suffix=; InpUpdateMode=1; InpTemplates=ptl_screenshot;ptl_screenshot_zoom; 
+0	13:27:53.683	pipsometer_5_decimal GBPJPY.pro,M15: initialized
+0	13:27:53.721	PTL_Sessions GBPJPY.pro,M15: initialized
+0	13:27:53.768	Custom indicator pipsometer_5_decimal EURJPY.pro,M15: loaded successfully
+0	13:27:53.784	Custom indicator PTL_Sessions EURJPY.pro,M15: loaded successfully
+0	13:27:53.806	Expert PTL_EA EURJPY.pro,M15: loaded successfully
+0	13:27:53.806	PTL_EA EURJPY.pro,M15 inputs: InpLanguage=1; TelegramToken=927322228:AAFxIy4Tw_rfZr6LEoyO5tocsMNBxwNXIHI; TelegramNotification=true; Pair_suffix=; InpUpdateMode=1; InpTemplates=ptl_screenshot;ptl_screenshot_zoom; 
+0	13:27:53.848	pipsometer_5_decimal EURJPY.pro,M15: initialized
+0	13:27:53.884	PTL_Sessions EURJPY.pro,M15: initialized
+0	13:27:53.934	Custom indicator pipsometer_5_decimal USDJPY.pro,M15: loaded successfully
+0	13:27:53.950	Custom indicator PTL_Sessions USDJPY.pro,M15: loaded successfully
+0	13:27:53.966	Expert PTL_EA USDJPY.pro,M15: loaded successfully
+0	13:27:53.966	PTL_EA USDJPY.pro,M15 inputs: InpLanguage=1; TelegramToken=927322228:AAFxIy4Tw_rfZr6LEoyO5tocsMNBxwNXIHI; TelegramNotification=true; Pair_suffix=; InpUpdateMode=1; InpTemplates=ptl_screenshot;ptl_screenshot_zoom; 
+0	13:27:54.006	pipsometer_5_decimal USDJPY.pro,M15: initialized
+0	13:27:54.038	PTL_Sessions USDJPY.pro,M15: initialized
+0	13:27:54.091	Custom indicator pipsometer_5_decimal AUDUSD.pro,M15: loaded successfully
+0	13:27:54.107	Custom indicator PTL_Sessions AUDUSD.pro,M15: loaded successfully
+0	13:27:54.122	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+0	13:27:54.122	PTL_EA AUDUSD.pro,M15 inputs: InpLanguage=1; TelegramToken=927322228:AAFxIy4Tw_rfZr6LEoyO5tocsMNBxwNXIHI; TelegramNotification=true; Pair_suffix=; InpUpdateMode=1; InpTemplates=ptl_screenshot;ptl_screenshot_zoom; 
+0	13:27:54.153	pipsometer_5_decimal AUDUSD.pro,M15: initialized
+0	13:27:54.191	PTL_Sessions AUDUSD.pro,M15: initialized
+0	13:27:54.238	Custom indicator pipsometer_5_decimal USDCAD.pro,M15: loaded successfully
+0	13:27:54.254	Custom indicator PTL_Sessions USDCAD.pro,M15: loaded successfully
+0	13:27:54.269	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+0	13:27:54.269	PTL_EA USDCAD.pro,M15 inputs: InpLanguage=1; TelegramToken=927322228:AAFxIy4Tw_rfZr6LEoyO5tocsMNBxwNXIHI; TelegramNotification=true; Pair_suffix=; InpUpdateMode=1; InpTemplates=ptl_screenshot;ptl_screenshot_zoom; 
+0	13:27:54.307	pipsometer_5_decimal USDCAD.pro,M15: initialized
+0	13:27:54.338	PTL_Sessions USDCAD.pro,M15: initialized
+0	13:27:54.407	Custom indicator pipsometer_5_decimal GBPAUD.pro,M30: loaded successfully
+0	13:27:54.423	Custom indicator PTL_Sessions GBPAUD.pro,M30: loaded successfully
+0	13:27:54.439	Expert PTL_EA GBPAUD.pro,M30: loaded successfully
+0	13:27:54.439	PTL_EA GBPAUD.pro,M30 inputs: InpLanguage=1; TelegramToken=927322228:AAFxIy4Tw_rfZr6LEoyO5tocsMNBxwNXIHI; TelegramNotification=true; Pair_suffix=; InpUpdateMode=1; InpTemplates=ptl_screenshot;ptl_screenshot_zoom; 
