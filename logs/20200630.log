@@ -1,0 +1,27 @@
+0	06:21:12.387	MetaTrader build 1260 started (AxiCorp Financial Services Pty Ltd)
+0	06:21:12.388	Windows 10 Enterprise x64, IE 11, UAC, 4 x Intel Core i5-4210U  @ 1.70GHz, Memory: 8144 / 12176 Mb, Disk: 52 / 99 Gb, GMT+7
+0	06:21:12.388	Data Folder: C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC
+2	06:21:15.750	Custom indicator pipsometer_5_decimal XAUUSD.pro,M15: loaded successfully
+2	06:21:15.772	Custom indicator PTL_Sessions XAUUSD.pro,M15: loaded successfully
+2	06:21:15.787	Expert PTL_EA XAUUSD.pro,M15: loaded successfully
+2	06:21:15.913	Custom indicator pipsometer_5_decimal EURUSD.pro,M15: loaded successfully
+2	06:21:15.930	Custom indicator PTL_Sessions EURUSD.pro,M15: loaded successfully
+2	06:21:15.950	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+2	06:21:16.102	Custom indicator pipsometer_5_decimal GBPUSD.pro,M15: loaded successfully
+2	06:21:16.116	Custom indicator PTL_Sessions GBPUSD.pro,M15: loaded successfully
+2	06:21:16.132	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+2	06:21:16.615	Custom indicator pipsometer_5_decimal GBPJPY.pro,M15: loaded successfully
+2	06:21:16.632	Custom indicator PTL_Sessions GBPJPY.pro,M15: loaded successfully
+2	06:21:16.650	Expert PTL_EA GBPJPY.pro,M15: loaded successfully
+2	06:21:16.797	Custom indicator pipsometer_5_decimal EURJPY.pro,M15: loaded successfully
+2	06:21:16.814	Custom indicator PTL_Sessions EURJPY.pro,M15: loaded successfully
+2	06:21:16.831	Expert PTL_EA EURJPY.pro,M15: loaded successfully
+2	06:21:16.977	Custom indicator pipsometer_5_decimal USDJPY.pro,M30: loaded successfully
+2	06:21:16.994	Custom indicator PTL_Sessions USDJPY.pro,M30: loaded successfully
+2	06:21:17.011	Expert PTL_EA USDJPY.pro,M30: loaded successfully
+2	06:21:17.149	Custom indicator pipsometer_5_decimal AUDUSD.pro,M15: loaded successfully
+2	06:21:17.163	Custom indicator PTL_Sessions AUDUSD.pro,M15: loaded successfully
+2	06:21:17.177	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+2	06:21:17.302	Custom indicator pipsometer_5_decimal USDCAD.pro,M15: loaded successfully
+2	06:21:17.315	Custom indicator PTL_Sessions USDCAD.pro,M15: loaded successfully
+2	06:21:17.329	Expert PTL_EA USDCAD.pro,M15: loaded successfully

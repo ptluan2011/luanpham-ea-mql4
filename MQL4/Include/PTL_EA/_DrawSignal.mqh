@@ -285,7 +285,7 @@ void TextONchart(int timeFrame, /*string &text_arr[],*/ string signal_name = "tx
 //+------------------------------------------------------------------+
 void DrawTrendPrice(string signal_text_0, string signal_text_1, string signal_text_2)
   {
-  string signal_name = "txt_trend_price";
+  string signal_name = "txt_trend_price"; 
   
    ObjectCreate("txt_trend_price_0", OBJ_LABEL, 0, 0, 0);
    ObjectSetText("txt_trend_price_0", signal_text_0, 8, "Arial Bold", Green);
