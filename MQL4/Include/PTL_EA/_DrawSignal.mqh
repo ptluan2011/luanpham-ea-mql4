@@ -129,8 +129,6 @@ void DrawArrowAndText(string arrowName, double price, bool isBuy, int bar_index 
 
   }
 //+------------------------------------------------------------------+
-
-//+------------------------------------------------------------------+
 //|                                                                  |
 //+------------------------------------------------------------------+
 void TextONchart(int timeFrame, /*string &text_arr[],*/ string signal_name = "txt_system_ema_")
@@ -155,7 +153,7 @@ void TextONchart(int timeFrame, /*string &text_arr[],*/ string signal_name = "tx
    string ChartText = "";
    ChartText = signal_name + DoubleToStr(z, 0);
    ObjectCreate(ChartText, OBJ_LABEL, 0, 0, 0);
-   ObjectSetText(ChartText, "------------------------["+tfStr+"] --------------------", 8, "Tahoma", Red);
+   ObjectSetText(ChartText, "----------["+tfStr+"]-----------", 8, "Tahoma", Red);
    ObjectSet(ChartText, OBJPROP_CORNER, 1);   // controls the corner the text is put into 0=top left 1=topright 2=bottom left 3=bottom right
    ObjectSet(ChartText, OBJPROP_XDISTANCE, 8);//controls distance text block is from margin
    ObjectSet(ChartText, OBJPROP_YDISTANCE, k);
@@ -175,7 +173,7 @@ void TextONchart(int timeFrame, /*string &text_arr[],*/ string signal_name = "tx
      }
    ChartText = signal_name + DoubleToStr(z, 0);
    ObjectCreate(ChartText, OBJ_LABEL, 0, 0, 0);
-   ObjectSetText(ChartText, "----------------------------------------------------", 8, "Tahoma", Red);
+   ObjectSetText(ChartText, "----------------------------", 8, "Tahoma", Red);
    ObjectSet(ChartText, OBJPROP_CORNER, 1);   // controls the corner the text is put into 0=top left 1=topright 2=bottom left 3=bottom right
    ObjectSet(ChartText, OBJPROP_XDISTANCE, 8);//controls distance text block is from margin
    ObjectSet(ChartText, OBJPROP_YDISTANCE, k);
