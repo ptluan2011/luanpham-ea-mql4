@@ -1,0 +1,171 @@
+0	06:22:09.235	MetaTrader build 1260 started (AxiCorp Financial Services Pty Ltd)
+0	06:22:09.235	Windows 10 Enterprise x64, IE 11, UAC, 4 x Intel Core i5-4210U  @ 1.70GHz, Memory: 8979 / 12176 Mb, Disk: 50 / 99 Gb, GMT+7
+0	06:22:09.235	Data Folder: C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC
+2	06:22:13.482	Custom indicator PTL_Sessions XAUUSD.pro,M30: loaded successfully
+2	06:22:13.506	Custom indicator pipsometer_5_decimal XAUUSD.pro,M30: loaded successfully
+2	06:22:13.530	Expert PTL_EA XAUUSD.pro,M30: loaded successfully
+2	06:22:13.698	Custom indicator PTL_Sessions EURUSD.pro,M15: loaded successfully
+2	06:22:13.722	Custom indicator pipsometer_5_decimal EURUSD.pro,M15: loaded successfully
+2	06:22:13.754	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+2	06:22:13.938	Custom indicator PTL_Sessions GBPUSD.pro,M15: loaded successfully
+2	06:22:13.954	Custom indicator pipsometer_5_decimal GBPUSD.pro,M15: loaded successfully
+2	06:22:13.986	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+2	06:22:14.914	Custom indicator PTL_Sessions GBPJPY.pro,M15: loaded successfully
+2	06:22:14.946	Expert PTL_EA GBPJPY.pro,M15: loaded successfully
+2	06:22:15.114	Custom indicator PTL_Sessions EURJPY.pro,M15: loaded successfully
+2	06:22:15.138	Custom indicator FXR_ATR_Pivots EURJPY.pro,M15: loaded successfully
+2	06:22:15.162	Expert PTL_EA EURJPY.pro,M15: loaded successfully
+2	06:22:15.378	Custom indicator PTL_Sessions USDJPY.pro,M30: loaded successfully
+2	06:22:15.394	Custom indicator pipsometer_5_decimal USDJPY.pro,M30: loaded successfully
+2	06:22:15.434	Expert PTL_EA USDJPY.pro,M30: loaded successfully
+2	06:22:15.666	Custom indicator PTL_Sessions AUDUSD.pro,M15: loaded successfully
+2	06:22:15.698	Custom indicator pipsometer_5_decimal AUDUSD.pro,M15: loaded successfully
+2	06:22:15.730	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+2	06:22:15.954	Custom indicator PTL_Sessions USDCAD.pro,M15: loaded successfully
+2	06:22:15.978	Custom indicator pipsometer_5_decimal USDCAD.pro,M15: loaded successfully
+2	06:22:16.010	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+0	06:22:18.156	'4136965': login on AxiTrader-US02-Live through AxiAccelerator (ping: 239.90 ms)
+0	06:22:20.116	'4136965': login datacenter on AxiTrader-US02-Live through AxiAccelerator (ping: 239.90 ms)
+0	06:22:20.932	'4136965': previous successful authorization performed from 69.31.88.247
+0	06:22:26.473	'4136965': ping to current access point AxiAccelerator is 237.16 ms
+2	07:13:07.346	Expert PTL_EA XAUUSD.pro,M30: removed
+2	07:13:07.351	Custom indicator PTL_Sessions XAUUSD.pro,M30: removed
+2	07:13:07.352	Custom indicator pipsometer_5_decimal XAUUSD.pro,M30: removed
+2	07:13:07.369	Expert PTL_EA EURUSD.pro,M15: removed
+2	07:13:07.375	Custom indicator PTL_Sessions EURUSD.pro,M15: removed
+2	07:13:07.377	Custom indicator pipsometer_5_decimal EURUSD.pro,M15: removed
+2	07:13:07.392	Expert PTL_EA GBPUSD.pro,M15: removed
+2	07:13:07.397	Custom indicator PTL_Sessions GBPUSD.pro,M15: removed
+2	07:13:07.400	Custom indicator pipsometer_5_decimal GBPUSD.pro,M15: removed
+2	07:13:07.415	Expert PTL_EA GBPJPY.pro,M15: removed
+2	07:13:07.418	Custom indicator PTL_Sessions GBPJPY.pro,M15: removed
+2	07:13:07.424	Expert PTL_EA EURJPY.pro,M15: removed
+2	07:13:07.428	Custom indicator PTL_Sessions EURJPY.pro,M15: removed
+2	07:13:07.430	Custom indicator FXR_ATR_Pivots EURJPY.pro,M15: removed
+2	07:13:07.435	Expert PTL_EA USDJPY.pro,M30: removed
+2	07:13:07.439	Custom indicator PTL_Sessions USDJPY.pro,M30: removed
+2	07:13:07.441	Custom indicator pipsometer_5_decimal USDJPY.pro,M30: removed
+2	07:13:07.447	Expert PTL_EA AUDUSD.pro,M15: removed
+2	07:13:07.451	Custom indicator PTL_Sessions AUDUSD.pro,M15: removed
+2	07:13:07.453	Custom indicator pipsometer_5_decimal AUDUSD.pro,M15: removed
+2	07:13:07.462	Expert PTL_EA USDCAD.pro,M15: removed
+2	07:13:07.466	Custom indicator PTL_Sessions USDCAD.pro,M15: removed
+2	07:13:07.468	Custom indicator pipsometer_5_decimal USDCAD.pro,M15: removed
+0	07:13:08.983	MetaTrader build 1260 stopped
+0	07:44:59.742	MetaTrader build 1260 started (AxiCorp Financial Services Pty Ltd)
+0	07:44:59.742	Windows 10 Enterprise x64, IE 11, UAC, 4 x Intel Core i5-4210U  @ 1.70GHz, Memory: 9719 / 12176 Mb, Disk: 50 / 99 Gb, GMT+7
+0	07:44:59.742	Data Folder: C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC
+2	07:45:02.619	Custom indicator PTL_Sessions XAUUSD.pro,M30: loaded successfully
+2	07:45:02.651	Custom indicator pipsometer_5_decimal XAUUSD.pro,M30: loaded successfully
+2	07:45:02.682	Expert PTL_EA XAUUSD.pro,M30: loaded successfully
+2	07:45:02.791	Custom indicator PTL_Sessions EURUSD.pro,M15: loaded successfully
+2	07:45:02.807	Custom indicator pipsometer_5_decimal EURUSD.pro,M15: loaded successfully
+2	07:45:02.823	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+2	07:45:02.916	Custom indicator PTL_Sessions GBPUSD.pro,M15: loaded successfully
+2	07:45:02.932	Custom indicator pipsometer_5_decimal GBPUSD.pro,M15: loaded successfully
+2	07:45:02.948	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+2	07:45:03.323	Custom indicator PTL_Sessions GBPJPY.pro,M15: loaded successfully
+2	07:45:03.338	Expert PTL_EA GBPJPY.pro,M15: loaded successfully
+2	07:45:03.416	Custom indicator PTL_Sessions EURJPY.pro,M15: loaded successfully
+2	07:45:03.432	Custom indicator FXR_ATR_Pivots EURJPY.pro,M15: loaded successfully
+2	07:45:03.448	Expert PTL_EA EURJPY.pro,M15: loaded successfully
+2	07:45:03.557	Custom indicator PTL_Sessions USDJPY.pro,M30: loaded successfully
+2	07:45:03.573	Custom indicator pipsometer_5_decimal USDJPY.pro,M30: loaded successfully
+2	07:45:03.588	Expert PTL_EA USDJPY.pro,M30: loaded successfully
+2	07:45:03.697	Custom indicator PTL_Sessions AUDUSD.pro,M15: loaded successfully
+2	07:45:03.713	Custom indicator pipsometer_5_decimal AUDUSD.pro,M15: loaded successfully
+2	07:45:03.729	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+2	07:45:03.838	Custom indicator PTL_Sessions USDCAD.pro,M15: loaded successfully
+2	07:45:03.838	Custom indicator pipsometer_5_decimal USDCAD.pro,M15: loaded successfully
+2	07:45:03.854	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+0	07:45:05.234	'4136965': login on AxiTrader-US02-Live through AxiAccelerator (ping: 237.16 ms)
+0	07:45:07.296	'4136965': login datacenter on AxiTrader-US02-Live through AxiAccelerator (ping: 237.16 ms)
+0	07:45:07.984	'4136965': previous successful authorization performed from 128.177.176.108
+0	07:45:13.592	'4136965': ping to current access point AxiAccelerator is 234.01 ms
+2	07:47:13.944	Expert PTL_EA XAUUSD.pro,M30: removed
+2	07:47:13.948	Custom indicator PTL_Sessions XAUUSD.pro,M30: removed
+2	07:47:13.950	Custom indicator pipsometer_5_decimal XAUUSD.pro,M30: removed
+2	07:47:13.968	Expert PTL_EA EURUSD.pro,M15: removed
+2	07:47:13.972	Custom indicator PTL_Sessions EURUSD.pro,M15: removed
+2	07:47:13.975	Custom indicator pipsometer_5_decimal EURUSD.pro,M15: removed
+2	07:47:13.992	Expert PTL_EA GBPUSD.pro,M15: removed
+2	07:47:13.996	Custom indicator PTL_Sessions GBPUSD.pro,M15: removed
+2	07:47:13.998	Custom indicator pipsometer_5_decimal GBPUSD.pro,M15: removed
+2	07:47:14.015	Expert PTL_EA GBPJPY.pro,M15: removed
+2	07:47:14.018	Custom indicator PTL_Sessions GBPJPY.pro,M15: removed
+2	07:47:14.022	Expert PTL_EA EURJPY.pro,M15: removed
+2	07:47:14.027	Custom indicator PTL_Sessions EURJPY.pro,M15: removed
+2	07:47:14.029	Custom indicator FXR_ATR_Pivots EURJPY.pro,M15: removed
+2	07:47:14.035	Expert PTL_EA USDJPY.pro,M30: removed
+2	07:47:14.038	Custom indicator PTL_Sessions USDJPY.pro,M30: removed
+2	07:47:14.041	Custom indicator pipsometer_5_decimal USDJPY.pro,M30: removed
+2	07:47:14.046	Expert PTL_EA AUDUSD.pro,M15: removed
+2	07:47:14.050	Custom indicator PTL_Sessions AUDUSD.pro,M15: removed
+2	07:47:14.052	Custom indicator pipsometer_5_decimal AUDUSD.pro,M15: removed
+2	07:47:14.062	Expert PTL_EA USDCAD.pro,M15: removed
+2	07:47:14.065	Custom indicator PTL_Sessions USDCAD.pro,M15: removed
+2	07:47:14.067	Custom indicator pipsometer_5_decimal USDCAD.pro,M15: removed
+0	07:47:15.994	MetaTrader build 1260 stopped
+0	13:10:26.539	MetaTrader build 1260 started (AxiCorp Financial Services Pty Ltd)
+0	13:10:26.540	Windows 10 Enterprise x64, IE 11, UAC, 4 x Intel Core i5-4210U  @ 1.70GHz, Memory: 8492 / 12176 Mb, Disk: 50 / 99 Gb, GMT+7
+0	13:10:26.540	Data Folder: C:\Users\PHAM THANH LUAN\AppData\Roaming\MetaQuotes\Terminal\9662C61C6715C26397817D3943CECEEC
+2	13:10:29.777	Custom indicator PTL_Sessions XAUUSD.pro,M30: loaded successfully
+2	13:10:29.791	Custom indicator pipsometer_5_decimal XAUUSD.pro,M30: loaded successfully
+2	13:10:29.808	Expert PTL_EA XAUUSD.pro,M30: loaded successfully
+2	13:10:29.930	Custom indicator PTL_Sessions EURUSD.pro,M15: loaded successfully
+2	13:10:29.942	Custom indicator pipsometer_5_decimal EURUSD.pro,M15: loaded successfully
+2	13:10:29.960	Expert PTL_EA EURUSD.pro,M15: loaded successfully
+2	13:10:30.079	Custom indicator PTL_Sessions GBPUSD.pro,M15: loaded successfully
+2	13:10:30.090	Custom indicator pipsometer_5_decimal GBPUSD.pro,M15: loaded successfully
+2	13:10:30.109	Expert PTL_EA GBPUSD.pro,M15: loaded successfully
+2	13:10:30.570	Custom indicator PTL_Sessions GBPJPY.pro,M15: loaded successfully
+2	13:10:30.591	Expert PTL_EA GBPJPY.pro,M15: loaded successfully
+2	13:10:30.679	Custom indicator PTL_Sessions EURJPY.pro,M15: loaded successfully
+2	13:10:30.691	Custom indicator FXR_ATR_Pivots EURJPY.pro,M15: loaded successfully
+2	13:10:30.706	Expert PTL_EA EURJPY.pro,M15: loaded successfully
+2	13:10:30.828	Custom indicator PTL_Sessions USDJPY.pro,M30: loaded successfully
+2	13:10:30.841	Custom indicator pipsometer_5_decimal USDJPY.pro,M30: loaded successfully
+2	13:10:30.856	Expert PTL_EA USDJPY.pro,M30: loaded successfully
+2	13:10:30.999	Custom indicator PTL_Sessions AUDUSD.pro,M15: loaded successfully
+2	13:10:31.021	Custom indicator pipsometer_5_decimal AUDUSD.pro,M15: loaded successfully
+2	13:10:31.042	Expert PTL_EA AUDUSD.pro,M15: loaded successfully
+2	13:10:31.165	Custom indicator PTL_Sessions USDCAD.pro,M15: loaded successfully
+2	13:10:31.178	Custom indicator pipsometer_5_decimal USDCAD.pro,M15: loaded successfully
+2	13:10:31.194	Expert PTL_EA USDCAD.pro,M15: loaded successfully
+0	13:10:32.554	'4136965': login on AxiTrader-US02-Live through AxiAccelerator (ping: 234.01 ms)
+0	13:10:34.731	'4136965': login datacenter on AxiTrader-US02-Live through AxiAccelerator (ping: 234.01 ms)
+0	13:10:35.457	'4136965': previous successful authorization performed from 128.177.176.114
+0	13:10:42.890	'4136965': ping to current access point AxiAccelerator is 247.23 ms
+0	21:44:37.582	'4136965': order sell market 0.05 GBPUSD.pro sl: 0.00000 tp: 0.00000
+0	21:44:37.934	'4136965': order was opened : #69631700 sell 0.05 GBPUSD.pro at 1.25251 sl: 0.00000 tp: 0.00000
+0	21:44:44.108	'4136965': modify order #69631700 sell 0.05 GBPUSD.pro at 1.25251 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.24993
+0	21:44:44.448	'4136965': order #69631700 sell 0.05 GBPUSD.pro at 1.25251 was modified -> sl: 0.00000 tp: 1.24993
+0	21:44:58.081	'4136965': modify order #69631700 sell 0.05 GBPUSD.pro at 1.25251 sl: 0.00000 tp: 1.24993 -> sl: 1.25431 tp: 1.24993
+0	21:44:58.424	'4136965': order #69631700 sell 0.05 GBPUSD.pro at 1.25251 was modified -> sl: 1.25431 tp: 1.24993
+0	21:45:53.464	'4136965': trailing stop 100 pip(s) on #69631700 placed
+0	21:48:28.369	'4136965': close order #69631700 sell 0.05 GBPUSD.pro at 1.25251 sl: 1.25431 tp: 1.24993 at price 0.00000
+0	21:48:28.743	'4136965': order #69631700 sell 0.05 GBPUSD.pro at 1.25251 sl: 1.25431 tp: 1.24993 closed at price 1.25340
+2	22:17:39.363	Expert PTL_EA XAUUSD.pro,M15: removed
+2	22:17:39.369	Custom indicator PTL_Sessions XAUUSD.pro,M15: removed
+2	22:17:39.372	Custom indicator pipsometer_5_decimal XAUUSD.pro,M15: removed
+2	22:17:39.389	Expert PTL_EA EURUSD.pro,M15: removed
+2	22:17:39.394	Custom indicator PTL_Sessions EURUSD.pro,M15: removed
+2	22:17:39.396	Custom indicator pipsometer_5_decimal EURUSD.pro,M15: removed
+2	22:17:39.412	Expert PTL_EA GBPUSD.pro,M15: removed
+2	22:17:39.417	Custom indicator PTL_Sessions GBPUSD.pro,M15: removed
+2	22:17:39.421	Custom indicator pipsometer_5_decimal GBPUSD.pro,M15: removed
+2	22:17:39.437	Expert PTL_EA GBPJPY.pro,M15: removed
+2	22:17:39.441	Custom indicator PTL_Sessions GBPJPY.pro,M15: removed
+2	22:17:39.445	Expert PTL_EA EURJPY.pro,M15: removed
+2	22:17:39.449	Custom indicator PTL_Sessions EURJPY.pro,M15: removed
+2	22:17:39.452	Custom indicator FXR_ATR_Pivots EURJPY.pro,M15: removed
+2	22:17:39.459	Expert PTL_EA USDJPY.pro,M30: removed
+2	22:17:39.462	Custom indicator PTL_Sessions USDJPY.pro,M30: removed
+2	22:17:39.464	Custom indicator pipsometer_5_decimal USDJPY.pro,M30: removed
+2	22:17:39.471	Expert PTL_EA AUDUSD.pro,M15: removed
+2	22:17:39.475	Custom indicator PTL_Sessions AUDUSD.pro,M15: removed
+2	22:17:39.478	Custom indicator pipsometer_5_decimal AUDUSD.pro,M15: removed
+2	22:17:39.487	Expert PTL_EA USDCAD.pro,M15: removed
+2	22:17:39.492	Custom indicator PTL_Sessions USDCAD.pro,M15: removed
+2	22:17:39.494	Custom indicator pipsometer_5_decimal USDCAD.pro,M15: removed
+0	22:17:42.396	MetaTrader build 1260 stopped
